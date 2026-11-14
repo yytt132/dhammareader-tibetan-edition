@@ -63,7 +63,8 @@ the same. Read in order, the new segments of a work give exactly the ACIP, Unico
 Old SIDs are not given to other text: the new segments of a work are numbered on from its last old SID (TD03824 had
 `s000000001`–`s000000210`; its new segments begin at `s000000211`). `crosswalk/` follows any old SID and character
 range into the new segments, and the 2026-11-14 release stays on Zenodo
-([10.5281/zenodo.24213726](https://doi.org/10.5281/zenodo.24213726)).
+([10.5281/zenodo.24213726](https://doi.org/10.5281/zenodo.24213726)). The reading site still shows the 2026-11-14 segments and
+their SIDs while the Korean translations are being moved to the new segments.
 
 ## Known issues
 
@@ -263,7 +264,8 @@ ACIP 티벳대장경(칸규르 라싸판, 텐규르 델게판)과 숭붐의 교�
 판에서 그 마디를 바꿨고 글은 바꾸지 않았다. 새 마디를 차례로 이으면 옛 마디의 ACIP·유니코드·교정본과 (띄어쓰기를
 빼고) 글자까지 같고, 교정 기록은 모두 그 자리를 담은 새 마디에 그대로 남는다(옛 번호는 `old_sid`). 옛 번호는 다른
 글에 다시 쓰지 않는다. 새 마디는 문헌마다 옛 마지막 번호 다음부터 번호를 받으며(중론: 옛 `s000000001`~`s000000210`,
-새 `s000000211`부터), `crosswalk/`가 옛 번호와 글자 범위를 새 마디로 잇는다. 2026-11-14 판은 Zenodo에 그대로 있다.
+새 `s000000211`부터), `crosswalk/`가 옛 번호와 글자 범위를 새 마디로 잇는다. 2026-11-14 판은 Zenodo에 그대로 있다. 읽기 사이트는 한국어 번역을 새 마디로 옮기는
+동안 2026-11-14 판의 마디와 번호를 그대로 보여 준다.
 
 알려진 문제: 588개 마디는 교정본이 채택된 기록만으로 만든 결과와 다르다. 변환기 수정(P03)과 규칙 교정을 옛
 마디 전체를 다시 변환하는 방식으로 적용해서, 기록이 없는 몇 곳(주로 `W'A`: ཝྰ 대신 ཝཱ)도 함께 바뀌었기 때문이다. 이
