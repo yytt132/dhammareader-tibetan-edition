@@ -1,0 +1,28 @@
+{
+  "title": "Dhammareader Tibetan Canon Edition",
+  "upload_type": "dataset",
+  "description": "<p>A corrected Unicode edition of the ACIP Tibetan Kangyur (Lhasa edition, 565 works), Tengyur (Derge edition, 3,384 works) and Sungbum (1,613 works), with an apparatus that records every correction, its type, its evidence and its status (accepted, proposed, rejected, unresolved).</p><p>Each work is a gzipped JSON Lines file with one line per segment: the ACIP romanized original, its plain Unicode conversion, and the corrected Unicode text where a correction applies. The original is never overwritten; the corrected text is rebuilt mechanically from the accepted apparatus entries.</p><p>Corrections: conversion ACIP &rarr; EWTS &rarr; Unicode with a round-trip check (one converter bug fixed); rule corrections for editor notes, bibliographic intrusions, folio markers, uncertain-reading marks and punctuation; and, for the Kangyur and Tengyur, syllable alignment with the Esukhia Derge witnesses (98.65% of 49.4 million Tengyur syllables aligned). Lhasa&ndash;Derge differences in the Kangyur are recorded as edition variants, not corrected. The Sungbum has no witness, so only rule corrections apply.</p><p>Catalogues: work list with Toh numbers; titles in ACIP, Wylie, Tibetan script, rKTs standard Tibetan and Sanskrit, Chinese and Korean, with Korean readings of the Tibetan and Sanskrit titles; authors, translators and revisors with BDRC person ids. Data taken from 20th-century publications (Lancaster 1979, KABC, Otani 1930&ndash;32) is kept in separate folders under <code>catalog/sources/</code>.</p><p>Left out for copyright: 145 Sungbum works (works of authors who died in 1955 or later, modern compilations, and the <i>Bod rgya tshig mdzod chen mo</i>, 1985). Korean translations are not part of this dataset; the reading site is <a href=\"https://dhammareader.com\">dhammareader.com</a>.</p><p>Review: corrections were reviewed by rule-level samples, partly with an AI assistant; an independent expert evaluation has not yet been done. Use the <code>status</code> and <code>confidence</code> fields when only well-supported corrections are needed.</p><p>Sources: Asian Legacy Library (ACIP) romanized texts, dedicated to the public domain; Esukhia Derge Kangyur and Tengyur; rKTs catalogue data (CC0). See README.md and NOTICE.md.</p>",
+  "creators": [
+    {
+      "name": "Yoon, Insang",
+      "affiliation": "Dhammareader",
+      "orcid": "0009-0003-5325-5875"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "bod",
+  "keywords": [
+    "Tibetan",
+    "Kangyur",
+    "Tengyur",
+    "Sungbum",
+    "Buddhist canon",
+    "ACIP",
+    "Tibetan Unicode",
+    "critical apparatus",
+    "textual criticism",
+    "digital humanities",
+    "corpus"
+  ]
+}

@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-11-14 (public release)
+
+- The repository is public, with the edition as one commit; the earlier history is not published.
+- `CITATION.cff` and `.zenodo.json` added: author Yoon, Insang (Dhammareader, ORCID 0009-0003-5325-5875). Releases
+  are archived on Zenodo with a DOI.
+- `README.md`: Sungbum counts brought up to date (1,613 works; 145 left out for copyright).
+
 ## 2026-11-14 (modern works left out)
 
 - 17 Sungbum works of authors who died in 1955 or later, and of modern compilers, left out for copyright: they had

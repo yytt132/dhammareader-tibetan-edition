@@ -19,8 +19,9 @@ Reading site: [dhammareader.com](https://dhammareader.com). 한국어 요약은 
 | `catalog/sources/<source>/` | Data taken from 20th-century or later publications, one folder per source (see *Sources kept apart*): `lancaster1979/chinese_parallels.tsv` (Koryŏ and Taishō parallels), `kabc/koryo_titles.tsv` (Koryŏ titles), `otani1930/chinese_parallels.tsv` (Kangyur parallels from the Otani concordance) |
 | `CHANGELOG.md` | Releases |
 
-Collections: Kangyur 565 works (Lhasa), Tengyur 3,384 works (Derge), Sungbum 1,631 works. 127 Sungbum works are
-left out for copyright: works of authors who died in 1955 or later, and the *Bod rgya tshig mdzod chen mo* (1985).
+Collections: Kangyur 565 works (Lhasa), Tengyur 3,384 works (Derge), Sungbum 1,613 works. 145 Sungbum works are
+left out for copyright: works of authors who died in 1955 or later, modern compilations, and the *Bod rgya tshig mdzod
+chen mo* (1985).
 Korean translations are not part of this repository.
 
 ## How the edition is made
@@ -108,13 +109,15 @@ Corrected text, apparatus and catalogues: [CC BY 4.0](https://creativecommons.or
 The ACIP originals are public domain by the Asian Legacy Library's dedication; the Esukhia witnesses are public
 domain reproductions. See `NOTICE.md`.
 
-Cite as: *Dhammareader Tibetan Canon Edition*, https://github.com/yytt132/dhammareader-tibetan-edition (release date).
+Cite as: Yoon, Insang. *Dhammareader Tibetan Canon Edition*. Dhammareader, (release date).
+https://github.com/yytt132/dhammareader-tibetan-edition. `CITATION.cff` holds the same citation (GitHub: *Cite this
+repository*). Each release is archived on Zenodo with a DOI.
 
 ## 한국어 요약
 
 ACIP 티벳대장경(칸규르 라싸판, 텐규르 델게판)과 숭붐의 교정 Unicode 원문과 교정 기록이다. 원문은 덮어쓰지 않고, 교정마다
-유형·근거·상태를 기록하며, 교정본은 채택된 기록만으로 기계적으로 다시 만든다. 숭붐은 대조 판본이 없어 규칙 교정과 변환기 수정만 반영했고, 저작권이 남은 127편(1955년 이후 사망 저자, 『장한대사전』)은
-뺐다. 한국어 번역문은 이 레포에 없다.
+유형·근거·상태를 기록하며, 교정본은 채택된 기록만으로 기계적으로 다시 만든다. 숭붐은 대조 판본이 없어 규칙 교정과 변환기 수정만 반영했고, 저작권이 남은 145편(1955년 이후 사망 저자의 저작, 현대 편찬물,
+『장한대사전』)은 뺐다. 한국어 번역문은 이 레포에 없다.
 
 `catalog/titles.tsv`에는 문헌마다 ACIP·와일리·티벳 문자·범어·한문·한글 제목과 티벳어·범어 제목의 한글 발음이 있다. 티벳어
 제목은 범어 제목을 뜻으로 옮긴 것이라 세 제목은 서로 다른 이름이며, 한문 제목은 실제 한역본 이름(`established`), 대응

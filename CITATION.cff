@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Dhammareader Tibetan Canon Edition"
+abstract: >-
+  A corrected Unicode edition of the ACIP Tibetan Kangyur (Lhasa edition),
+  Tengyur (Derge edition) and Sungbum, with an apparatus that records every
+  correction, its type, its evidence and its status, and catalogues of titles
+  and persons.
+authors:
+  - family-names: Yoon
+    given-names: Insang
+    affiliation: Dhammareader
+    orcid: "https://orcid.org/0009-0003-5325-5875"
+license: CC-BY-4.0
+repository-code: "https://github.com/yytt132/dhammareader-tibetan-edition"
+url: "https://dhammareader.com"
+keywords:
+  - Tibetan
+  - Kangyur
+  - Tengyur
+  - Sungbum
+  - Buddhist canon
+  - ACIP
+  - critical apparatus
+date-released: 2026-11-14
