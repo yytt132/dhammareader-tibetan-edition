@@ -27,6 +27,16 @@ left out for copyright: works of authors who died in 1955 or later, modern compi
 chen mo* (1985).
 Korean translations are not part of this repository.
 
+## Known issue: segment boundaries
+
+Segments (SIDs) follow the page blocks of the ACIP input (the blank lines between groups of lines), not sentences.
+286,340 of the 848,576 segments (34%) end inside a phrase, without a shad, and more end inside a sentence; 38,875 are
+longer than 2,000 Tibetan characters, the longest about 110,000. The text itself is complete and in order: read
+neighbouring segments together. A re-segmentation into sentence-based units is in preparation: paragraph-sized
+segments with sentences and verse lines as sub-units, and one stanza per segment in verse. It will come as a new
+release with a table that maps every current SID and character span to the new segments. Current SIDs will not be
+reused for other text, so references to this release stay valid.
+
 ## Quick start
 
 Each `.jsonl.gz` file is gzip-compressed JSON Lines: one JSON object per line. In `text/` a line is one segment (SID)
@@ -173,6 +183,15 @@ ACIP 티벳대장경(칸규르 라싸판, 텐규르 델게판)과 숭붐의 교�
 한역 경전 이름(`parallel`), 이 프로젝트가 지은 이름(`coined`)을 구별한다. 티벳어 발음은 동국대 티벳장경연구소
 「티벳어 한글 표기안」(2010)을 따른다. `catalog/persons.tsv`는 저자·역자·교정자와 그 한글 표기, `catalog/sources/`는 20세기 이후 출판물에서 온 자료를 출처별 폴더로 따로 둔 것으로 저작권 요청이 있으면 그 폴더만 내린다(Lancaster 목록의
 고려대장경·대정장 실제 한역본 대응, KABC 고려장 제목).
+
+### 알려진 문제: 마디 경계
+
+마디(SID)는 문장이 아니라 ACIP 입력본의 쪽 덩어리(줄 묶음 사이의 빈 줄)를 따라 나뉘어 있다. 848,576마디 가운데
+286,340개(34%)가 쎄 없이 구 가운데서 끝나고, 문장 가운데서 끝나는 것은 더 많다. 2,000자(티벳 문자)를 넘는 마디가
+38,875개이고 가장 긴 것은 약 11만 자다. 본문은 빠짐없이 차례대로 들어 있으니 앞뒤 마디를 이어 읽으면 된다. 문장을
+기준으로 다시 나눈 판을 준비하고 있다. 마디는 단락 크기로 하고 문장과 게송의 구는 하위 단위로 두며, 게송은 한 연이 한
+마디다. 새 판은 지금의 SID와 글자 범위마다 새 마디를 잇는 대응표와 함께 낸다. 지금 SID를 다른 글에 다시 쓰지
+않으므로 이 판을 가리킨 번호는 그대로 유효하다.
 
 ### 사용법
 

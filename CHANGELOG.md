@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-14 (known issue)
+
+- `README.md`: known issue on segment boundaries. Segments follow the page blocks of the ACIP input, not sentences;
+  a re-segmentation, with a table from the current SIDs to the new segments, is in preparation. Data unchanged.
+
 ## 2026-11-14 (public release)
 
 - The repository is public, with the edition as one commit; the earlier history is not published.
