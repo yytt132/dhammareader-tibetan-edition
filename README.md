@@ -5,6 +5,7 @@
 A corrected Unicode edition of the ACIP Tibetan Kangyur (Lhasa edition), Tengyur (Derge edition) and Sungbum, with an
 apparatus that records every correction, its type, its evidence and what is still unresolved.
 Reading site: [dhammareader.com](https://dhammareader.com). 한국어 요약은 아래에 있다.
+Release announcement: [English](ANNOUNCEMENT.md) · [한국어](ANNOUNCEMENT.ko.md).
 
 ## What is here
 
