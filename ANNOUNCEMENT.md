@@ -56,7 +56,7 @@ I first took on this work for Dhammareader's own translations. As it went on, I 
 
 One principle held throughout the work: the source is never overwritten, and every change is recorded. In practice the work went in the following order.
 
-1. **Segmenting.** Each work was divided into segments at natural breaks in meaning, and each segment was given a stable identifier (SID). Translations and other editions can then be aligned with the text segment by segment.
+1. **Segmenting.** Each work was divided into segments along the page blocks of the ACIP input, and each segment was given a stable identifier (SID). These segments do not follow sentences: many begin or end in the middle of a sentence, and some are very long (see *Known issue* in the README). A re-segmentation into sentence-based units is in preparation, with a table that maps every current SID to the new segments.
 2. **Conversion.** The ACIP romanization was converted into Tibetan Unicode and then converted back, to check that the result matched the original. This round trip showed that the converter had been misreading certain syllables without any warning, and that error was fixed.
 3. **Rule corrections.** Editors' notes, page markers, uncertain-reading marks and punctuation were cleaned according to published rules. Sanskrit passages were left untouched and only tagged as Sanskrit.
 4. **Comparison with a second edition.** The Kangyur and Tengyur were aligned syllable by syllable with the Esukhia digital Derge edition. For the Tengyur, 98.65% of its 49.4 million syllables were aligned. Where Lhasa and Derge differ but both readings are valid, the text was not corrected and the difference was recorded as a variant.
