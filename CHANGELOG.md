@@ -4,7 +4,8 @@
 
 - The repository is public, with the edition as one commit; the earlier history is not published.
 - `CITATION.cff` and `.zenodo.json` added: author Yoon, Insang (Dhammareader, ORCID 0009-0003-5325-5875). Releases
-  are archived on Zenodo with a DOI.
+  are archived on Zenodo with a DOI: 10.5281/zenodo.24213725 for all releases, 10.5281/zenodo.24213726 for the
+  release of 2026-11-14.
 - `README.md`: Sungbum counts brought up to date (1,613 works; 145 left out for copyright).
 
 ## 2026-11-14 (modern works left out)

@@ -1,5 +1,7 @@
 # Dhammareader Tibetan Canon Edition
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24213725.svg)](https://doi.org/10.5281/zenodo.24213725)
+
 A corrected Unicode edition of the ACIP Tibetan Kangyur (Lhasa edition), Tengyur (Derge edition) and Sungbum, with an
 apparatus that records every correction, its type, its evidence and what is still unresolved.
 Reading site: [dhammareader.com](https://dhammareader.com). 한국어 요약은 아래에 있다.
@@ -109,9 +111,11 @@ Corrected text, apparatus and catalogues: [CC BY 4.0](https://creativecommons.or
 The ACIP originals are public domain by the Asian Legacy Library's dedication; the Esukhia witnesses are public
 domain reproductions. See `NOTICE.md`.
 
-Cite as: Yoon, Insang. *Dhammareader Tibetan Canon Edition*. Dhammareader, (release date).
-https://github.com/yytt132/dhammareader-tibetan-edition. `CITATION.cff` holds the same citation (GitHub: *Cite this
-repository*). Each release is archived on Zenodo with a DOI.
+Cite as: Yoon, Insang. *Dhammareader Tibetan Canon Edition*. Dhammareader, 2026.
+https://doi.org/10.5281/zenodo.24213725. `CITATION.cff` holds the same citation (GitHub: *Cite this repository*).
+That DOI always leads to the latest release; each release is archived on Zenodo with a DOI of its own (2026-11-14:
+[10.5281/zenodo.24213726](https://doi.org/10.5281/zenodo.24213726)). Cite the release DOI when you need the exact data
+you used.
 
 ## 한국어 요약
 
