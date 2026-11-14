@@ -1,5 +1,22 @@
 # Changelog
 
+## Unreleased (segments)
+
+The text is cut into new segments; the text itself is unchanged (see *Segments* and *From the 2026-11-14 release* in
+the README).
+
+- `text/`: 848,576 segments that followed the page blocks of the ACIP input become 1,576,285 segments cut at
+  headings, stanzas, mantra runs, speech turns and sentence ends; 2,996 boundaries had to be forced
+  (`boundary_status` `review_required`). New fields `block_type`, `boundary_status` and `children` (sentences, verse
+  lines, mantra phrases).
+- New SIDs: each work continues after its last old SID; no old SID is given to other text.
+- `crosswalk/` (new): every old SID and character range, with the new segments that hold it.
+- `apparatus/`: all 1,825,583 entries anchored on the new segments (`sid`, `span_start`, `span_end`, `base_sha256`;
+  `end_sid` for 1,710 spans that run on into a later segment); `old_sid` keeps the SID of 2026-11-14.
+- Checked: read in order, the new segments of every work give the same ACIP, Unicode and corrected text as the old
+  ones (spaces aside); every old SID is in the crosswalk; every apparatus entry is kept.
+- `catalog/works.tsv`: the columns `sids` and `corrected_sids` are now `segments` and `corrected_segments`.
+
 ## 2026-11-14 (known issue)
 
 - `README.md`: known issue on segment boundaries. Segments follow the page blocks of the ACIP input, not sentences;
