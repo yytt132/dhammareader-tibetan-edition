@@ -1,0 +1,730 @@
+part_id	kind	primary_part	note
+tibetan:kangyur:KL00044E.000868	chapter_split_of_volume	tibetan:kangyur:KL00044E.000888	chapter file KL00044E1A of volume 1; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000869	chapter_split_of_volume	tibetan:kangyur:KL00044E.000888	chapter file KL00044E1B of volume 1; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000870	chapter_split_of_volume	tibetan:kangyur:KL00044E.000888	chapter file KL00044E1C of volume 1; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000871	chapter_split_of_volume	tibetan:kangyur:KL00044E.000888	chapter file KL00044E1D of volume 1; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000872	chapter_split_of_volume	tibetan:kangyur:KL00044E.000888	chapter file KL00044E1E of volume 1; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000873	chapter_split_of_volume	tibetan:kangyur:KL00044E.000888	chapter file KL00044E1F of volume 1; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000874	chapter_split_of_volume	tibetan:kangyur:KL00044E.000888	chapter file KL00044E1G of volume 1; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000875	chapter_split_of_volume	tibetan:kangyur:KL00044E.000888	chapter file KL00044E1H of volume 1; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000876	chapter_split_of_volume	tibetan:kangyur:KL00044E.000888	chapter file KL00044E1I of volume 1; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000877	chapter_split_of_volume	tibetan:kangyur:KL00044E.000888	chapter file KL00044E1J of volume 1; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000878	chapter_split_of_volume	tibetan:kangyur:KL00044E.000888	chapter file KL00044E1K of volume 1; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000879	chapter_split_of_volume	tibetan:kangyur:KL00044E.000888	chapter file KL00044E1L of volume 1; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000880	chapter_split_of_volume	tibetan:kangyur:KL00044E.000888	chapter file KL00044E1M of volume 1; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000881	chapter_split_of_volume	tibetan:kangyur:KL00044E.000888	chapter file KL00044E1N of volume 1; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000882	chapter_split_of_volume	tibetan:kangyur:KL00044E.000888	chapter file KL00044E1O of volume 1; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000883	chapter_split_of_volume	tibetan:kangyur:KL00044E.000888	chapter file KL00044E1P of volume 1; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000884	chapter_split_of_volume	tibetan:kangyur:KL00044E.000888	chapter file KL00044E1Q of volume 1; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000885	chapter_split_of_volume	tibetan:kangyur:KL00044E.000888	chapter file KL00044E1R of volume 1; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000886	chapter_split_of_volume	tibetan:kangyur:KL00044E.000888	chapter file KL00044E1S of volume 1; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000887	chapter_split_of_volume	tibetan:kangyur:KL00044E.000888	chapter file KL00044E1T of volume 1; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000889	chapter_split_of_volume	tibetan:kangyur:KL00044E.000898	chapter file KL00044E2A of volume 2; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000890	chapter_split_of_volume	tibetan:kangyur:KL00044E.000898	chapter file KL00044E2B of volume 2; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000891	chapter_split_of_volume	tibetan:kangyur:KL00044E.000898	chapter file KL00044E2C of volume 2; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000892	chapter_split_of_volume	tibetan:kangyur:KL00044E.000898	chapter file KL00044E2D of volume 2; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000893	chapter_split_of_volume	tibetan:kangyur:KL00044E.000898	chapter file KL00044E2E of volume 2; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000894	chapter_split_of_volume	tibetan:kangyur:KL00044E.000898	chapter file KL00044E2F of volume 2; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000895	chapter_split_of_volume	tibetan:kangyur:KL00044E.000898	chapter file KL00044E2G of volume 2; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000896	chapter_split_of_volume	tibetan:kangyur:KL00044E.000898	chapter file KL00044E2H of volume 2; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000897	chapter_split_of_volume	tibetan:kangyur:KL00044E.000898	chapter file KL00044E2I-1 of volume 2; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000899	chapter_split_of_volume	tibetan:kangyur:KL00044E.000908	chapter file KL00044E3A-2 of volume 3; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000900	chapter_split_of_volume	tibetan:kangyur:KL00044E.000908	chapter file KL00044E3B of volume 3; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000901	chapter_split_of_volume	tibetan:kangyur:KL00044E.000908	chapter file KL00044E3C of volume 3; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000902	chapter_split_of_volume	tibetan:kangyur:KL00044E.000908	chapter file KL00044E3D of volume 3; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000903	chapter_split_of_volume	tibetan:kangyur:KL00044E.000908	chapter file KL00044E3E of volume 3; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000904	chapter_split_of_volume	tibetan:kangyur:KL00044E.000908	chapter file KL00044E3F of volume 3; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000905	chapter_split_of_volume	tibetan:kangyur:KL00044E.000908	chapter file KL00044E3G of volume 3; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000906	chapter_split_of_volume	tibetan:kangyur:KL00044E.000908	chapter file KL00044E3H of volume 3; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000907	chapter_split_of_volume	tibetan:kangyur:KL00044E.000908	chapter file KL00044E3I of volume 3; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000909	chapter_split_of_volume	tibetan:kangyur:KL00044E.000915	chapter file KL00044E4A of volume 4; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000910	chapter_split_of_volume	tibetan:kangyur:KL00044E.000915	chapter file KL00044E4B of volume 4; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000911	chapter_split_of_volume	tibetan:kangyur:KL00044E.000915	chapter file KL00044E4C of volume 4; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000912	chapter_split_of_volume	tibetan:kangyur:KL00044E.000915	chapter file KL00044E4D of volume 4; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000913	chapter_split_of_volume	tibetan:kangyur:KL00044E.000915	chapter file KL00044E4E of volume 4; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000914	chapter_split_of_volume	tibetan:kangyur:KL00044E.000915	chapter file KL00044E4F1 of volume 4; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000916	chapter_split_of_volume	tibetan:kangyur:KL00044E.000918	chapter file KL00044E5A2 of volume 5; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000917	chapter_split_of_volume	tibetan:kangyur:KL00044E.000918	chapter file KL00044E5B1 of volume 5; the volume file is the reading unit
+tibetan:kangyur:KL00044E.000920	identical_copy	tibetan:kangyur:KL00044E.000919	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:kangyur:KL00181E.000066	identical_copy	tibetan:kangyur:KL00181E.000065	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:kangyur:KL00183E.000070	identical_copy	tibetan:kangyur:KL00183E.000069	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:kangyur:KL00236.000152	no_derge_witness		Lhasa KL00236-2: the whole Surangama translated from Chinese under the Qianlong emperor (gnam skyong gi dus su rgya las bsgyur); Derge has only chapter 10 (D236) and the Mara chapter (D237)
+tibetan:kangyur:KL00508.000762	identical_copy	tibetan:kangyur:KL00508.000761	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:R00003E	excluded_copyright		Shes bya'i gter mdzod (3 vols.), a compilation of biographies by Mi rigs dpe mdzod khang (Nationalities Library), BDRC W19837, LCCN 85201013: a 1980s publication, so kept off the site for copyright like the modern-author works. Mac report 2026-11-10 §4.2; user decision 2026-11-11
+tibetan:sungbum:R00003E.007324	identical_copy	tibetan:sungbum:R00003E.007323	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:R0002	excluded_copyright		1985 dictionary, under copyright: Bod rgya tshig mdzod chen mo (Zhang Yisun ed.); user decision 2026-11-05
+tibetan:sungbum:R0002A	excluded_copyright		1985 dictionary, under copyright: Bod rgya tshig mdzod chen mo (Zhang Yisun ed.); user decision 2026-11-05
+tibetan:sungbum:R0002B	excluded_copyright		1985 dictionary, under copyright: Bod rgya tshig mdzod chen mo (Zhang Yisun ed.); user decision 2026-11-05
+tibetan:sungbum:R0002C	excluded_copyright		1985 dictionary, under copyright: Bod rgya tshig mdzod chen mo (Zhang Yisun ed.); user decision 2026-11-05
+tibetan:sungbum:R0002D	excluded_copyright		1985 dictionary, under copyright: Bod rgya tshig mdzod chen mo (Zhang Yisun ed.); user decision 2026-11-05
+tibetan:sungbum:R0002G	excluded_copyright		1985 dictionary, under copyright: Bod rgya tshig mdzod chen mo (Zhang Yisun ed.); user decision 2026-11-05
+tibetan:sungbum:R0002H	excluded_copyright		1985 dictionary, under copyright: Bod rgya tshig mdzod chen mo (Zhang Yisun ed.); user decision 2026-11-05
+tibetan:sungbum:R0002J	excluded_copyright		1985 dictionary, under copyright: Bod rgya tshig mdzod chen mo (Zhang Yisun ed.); user decision 2026-11-05
+tibetan:sungbum:R0002K	excluded_copyright		1985 dictionary, under copyright: Bod rgya tshig mdzod chen mo (Zhang Yisun ed.); user decision 2026-11-05
+tibetan:sungbum:R0002L	excluded_copyright		1985 dictionary, under copyright: Bod rgya tshig mdzod chen mo (Zhang Yisun ed.); user decision 2026-11-05
+tibetan:sungbum:R0002M	excluded_copyright		1985 dictionary, under copyright: Bod rgya tshig mdzod chen mo (Zhang Yisun ed.); user decision 2026-11-05
+tibetan:sungbum:R0002N	excluded_copyright		1985 dictionary, under copyright: Bod rgya tshig mdzod chen mo (Zhang Yisun ed.); user decision 2026-11-05
+tibetan:sungbum:R0002P	excluded_copyright		1985 dictionary, under copyright: Bod rgya tshig mdzod chen mo (Zhang Yisun ed.); user decision 2026-11-05
+tibetan:sungbum:R0002R	excluded_copyright		1985 dictionary, under copyright: Bod rgya tshig mdzod chen mo (Zhang Yisun ed.); user decision 2026-11-05
+tibetan:sungbum:R0002S	excluded_copyright		1985 dictionary, under copyright: Bod rgya tshig mdzod chen mo (Zhang Yisun ed.); user decision 2026-11-05
+tibetan:sungbum:R0002T	excluded_copyright		1985 dictionary, under copyright: Bod rgya tshig mdzod chen mo (Zhang Yisun ed.); user decision 2026-11-05
+tibetan:sungbum:R0002V	excluded_copyright		1985 dictionary, under copyright: Bod rgya tshig mdzod chen mo (Zhang Yisun ed.); user decision 2026-11-05
+tibetan:sungbum:R0002W	excluded_copyright		1985 dictionary, under copyright: Bod rgya tshig mdzod chen mo (Zhang Yisun ed.); user decision 2026-11-05
+tibetan:sungbum:R0002Y	excluded_copyright		1985 dictionary, under copyright: Bod rgya tshig mdzod chen mo (Zhang Yisun ed.); user decision 2026-11-05
+tibetan:sungbum:R0002Z	excluded_copyright		1985 dictionary, under copyright: Bod rgya tshig mdzod chen mo (Zhang Yisun ed.); user decision 2026-11-05
+tibetan:sungbum:S00023N	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00026N	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00031N	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00032N	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00040N	excluded_copyright		User rule 2026-11-03/04: works of authors who died in 1955 or later are kept off the public release; this work was missed by the modern-author list (run modern_authors_20261105) and found 2026-11-14 by author dates, ACIP file-name dates and modern title pages. Table of contents to the notes on the Drang nges legs bshad snying po by Ser byes Tre hor dge bshes Rdo rje bkra shis (1901-1979, ACIP file-name dates). User request 2026-11-14 (apply the rule before the public release).
+tibetan:sungbum:S00042N	excluded_copyright		User rule 2026-11-03/04: works of authors who died in 1955 or later are kept off the public release; this work was missed by the modern-author list (run modern_authors_20261105) and found 2026-11-14 by author dates, ACIP file-name dates and modern title pages. Tibetan introduction to the same notes, by Ser byes Tre hor dge bshes Rdo rje bkra shis (1901-1979). User request 2026-11-14 (apply the rule before the public release).
+tibetan:sungbum:S00043A	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00050M	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00053A.005433	identical_copy	tibetan:sungbum:S00053A.004373	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00073M	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00077M.006673	identical_copy	tibetan:sungbum:S00077M.005285	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00093E.006921	identical_copy	tibetan:sungbum:S00093E.005965	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00098E.006119	identical_copy	tibetan:sungbum:S00098E.005966	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00098E.006359	identical_copy	tibetan:sungbum:S00098E.005966	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00106E.006082	identical_copy	tibetan:sungbum:S00106E.006014	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00106E.006416	identical_copy	tibetan:sungbum:S00106E.006014	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00110M.005302	identical_copy	tibetan:sungbum:S00110M.004607	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00111M.005303	identical_copy	tibetan:sungbum:S00111M.004608	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00112M.005304	identical_copy	tibetan:sungbum:S00112M.004609	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00121M.005305	identical_copy	tibetan:sungbum:S00121M.004610	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00180E.006504	identical_copy	tibetan:sungbum:S00180E.006256	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00192M	excluded_copyright		User rule 2026-11-03/04: works of authors who died in 1955 or later are kept off the public release; this work was missed by the modern-author list (run modern_authors_20261105) and found 2026-11-14 by author dates, ACIP file-name dates and modern title pages. By Dge bshes Rta mgrin rab brtan (1920-1986). User request 2026-11-14 (apply the rule before the public release).
+tibetan:sungbum:S00201I.005193	identical_copy	tibetan:sungbum:S00201I.004370	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00206I.004411	identical_copy	tibetan:sungbum:S00206I.004383	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00206I.004416	identical_copy	tibetan:sungbum:S00206I.004383	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00211M.007445	identical_copy	tibetan:sungbum:S00211M.007444	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00219E.005097	identical_copy	tibetan:sungbum:S00219E.004732	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00221E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00222E	excluded_copyright		User rule 2026-11-03/04: works of authors who died in 1955 or later are kept off the public release; this work was missed by the modern-author list (run modern_authors_20261105) and found 2026-11-14 by author dates, ACIP file-name dates and modern title pages. By Skyabs rje Khri byang rin po che (1901-1981). User request 2026-11-14 (apply the rule before the public release).
+tibetan:sungbum:S00223E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00224E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00225E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00226E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00227E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00228E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00229E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00230E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00231E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00232E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00233M	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00233M.005129	identical_copy	tibetan:sungbum:S00233M.004462	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00233M.006901	identical_copy	tibetan:sungbum:S00233M.004462	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00234M	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00234M.005130	identical_copy	tibetan:sungbum:S00234M.004463	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00234M.006902	identical_copy	tibetan:sungbum:S00234M.004463	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00235M	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00235M.005131	identical_copy	tibetan:sungbum:S00235M.004464	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00235M.006903	identical_copy	tibetan:sungbum:S00235M.004464	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00236M	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00236M.005132	identical_copy	tibetan:sungbum:S00236M.004465	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00236M.006904	identical_copy	tibetan:sungbum:S00236M.004465	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00237M	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00237M.005133	identical_copy	tibetan:sungbum:S00237M.004466	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00237M.006905	identical_copy	tibetan:sungbum:S00237M.004466	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00238M	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00239M	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00239M.005306	identical_copy	tibetan:sungbum:S00239M.004611	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00240M	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00241M	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00242M	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00243M	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00244E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00245M	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00246M	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00247E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00248E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00248E.006954	identical_copy	tibetan:sungbum:S00248E.006500	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00249E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00250E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00251M	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00252M	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00253M	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00267M.006968	identical_copy	tibetan:sungbum:S00267M.005136	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00268I.006969	identical_copy	tibetan:sungbum:S00268I.005137	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00269I.006970	identical_copy	tibetan:sungbum:S00269I.005138	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00270I.006971	identical_copy	tibetan:sungbum:S00270I.005139	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00271I	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00272M	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00272M.006975	identical_copy	tibetan:sungbum:S00272M.005135	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00274E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00275E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00276E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00277E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00278E	excluded_copyright		User rule 2026-11-03/04: works of authors who died in 1955 or later are kept off the public release; this work was missed by the modern-author list (run modern_authors_20261105) and found 2026-11-14 by author dates, ACIP file-name dates and modern title pages. By Skyabs rje Khri byang rin po che (1901-1981). User request 2026-11-14 (apply the rule before the public release).
+tibetan:sungbum:S00279E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00280E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00281E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00286E.006771	identical_copy	tibetan:sungbum:S00286E.006755	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00296I	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S00312M.006972	identical_copy	tibetan:sungbum:S00312M.005140	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00313I.006973	identical_copy	tibetan:sungbum:S00313I.005141	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00314E.006200	identical_copy	tibetan:sungbum:S00314E.006057	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00315E.006201	identical_copy	tibetan:sungbum:S00315E.005954	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00317E.007157	identical_copy	tibetan:sungbum:S00317E.006202	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00319M	excluded_copyright		User rule 2026-11-03/04: works of authors who died in 1955 or later are kept off the public release; this work was missed by the modern-author list (run modern_authors_20261105) and found 2026-11-14 by author dates, ACIP file-name dates and modern title pages. Pha bong kha pa's words compiled (phyogs gcig tu bsgrigs pa) by Khri byang rin po che (1901-1981, ACIP file-name dates): the compilation is his. User request 2026-11-14 (apply the rule before the public release).
+tibetan:sungbum:S00319M.005142	identical_copy	tibetan:sungbum:S00319M.004468	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00319M.005599	identical_copy	tibetan:sungbum:S00319M.004468	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00324E.006872	identical_copy	tibetan:sungbum:S00324E.006845	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00326D.006391	identical_copy	tibetan:sungbum:S00326D.006353	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00330E.006028	identical_copy	tibetan:sungbum:S00330E.005940	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00331E.006980	identical_copy	tibetan:sungbum:S00331E.005968	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00332E.006280	identical_copy	tibetan:sungbum:S00332E.006053	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00333E.006068	identical_copy	tibetan:sungbum:S00333E.006056	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00334E.006069	identical_copy	tibetan:sungbum:S00334E.006061	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00335E.006070	identical_copy	tibetan:sungbum:S00335E.006060	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00336E.006075	identical_copy	tibetan:sungbum:S00336E.006071	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00338E.006176	identical_copy	tibetan:sungbum:S00338E.006150	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00339E.006177	identical_copy	tibetan:sungbum:S00339E.006123	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00342E.006128	identical_copy	tibetan:sungbum:S00342E.005992	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00342E.006379	identical_copy	tibetan:sungbum:S00342E.005992	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00342E.007026	identical_copy	tibetan:sungbum:S00342E.005992	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00349E.006639	identical_copy	tibetan:sungbum:S00349E.006610	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00350E.006640	identical_copy	tibetan:sungbum:S00350E.006611	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00351E.006648	identical_copy	tibetan:sungbum:S00351E.006612	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00355E.006642	identical_copy	tibetan:sungbum:S00355E.006624	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00356E.006625	identical_copy	tibetan:sungbum:S00356E.006604	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00358M.005343	identical_copy	tibetan:sungbum:S00358M.004708	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00358M.005866	identical_copy	tibetan:sungbum:S00358M.004708	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00372M.007242	identical_copy	tibetan:sungbum:S00372M.004498	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00373M.007243	identical_copy	tibetan:sungbum:S00373M.004499	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00435E.007072	identical_copy	tibetan:sungbum:S00435E.007032	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00502E.006237	identical_copy	tibetan:sungbum:S00502E.005907	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00502E.006786	identical_copy	tibetan:sungbum:S00502E.005907	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00512E	excluded_copyright		User rule 2026-11-03/04: works of authors who died in 1955 or later are kept off the public release; this work was missed by the modern-author list (run modern_authors_20261105) and found 2026-11-14 by author dates, ACIP file-name dates and modern title pages. Prayers compiled (phyogs gcig tu sdeb pa) by Khri byang rin po che (1901-1981, ACIP file-name dates). User request 2026-11-14 (apply the rule before the public release).
+tibetan:sungbum:S00513E	excluded_copyright		User rule 2026-11-03/04: works of authors who died in 1955 or later are kept off the public release; this work was missed by the modern-author list (run modern_authors_20261105) and found 2026-11-14 by author dates, ACIP file-name dates and modern title pages. Compilation by Khri byang rin po che (1901-1981, ACIP file-name dates). User request 2026-11-14 (apply the rule before the public release).
+tibetan:sungbum:S00514E	excluded_copyright		User rule 2026-11-03/04: works of authors who died in 1955 or later are kept off the public release; this work was missed by the modern-author list (run modern_authors_20261105) and found 2026-11-14 by author dates, ACIP file-name dates and modern title pages. Compilation by Khri byang rin po che (1901-1981, ACIP file-name dates). User request 2026-11-14 (apply the rule before the public release).
+tibetan:sungbum:S00519E.006976	identical_copy	tibetan:sungbum:S00519E.006535	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00519E.007027	identical_copy	tibetan:sungbum:S00519E.006535	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00525E.006911	identical_copy	tibetan:sungbum:S00525E.006058	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00531E.007131	identical_copy	tibetan:sungbum:S00531E.007016	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00536E.005246	identical_copy	tibetan:sungbum:S00536E.005160	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00906E.004425	identical_copy	tibetan:sungbum:S00906E.004410	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00915E.005777	identical_copy	tibetan:sungbum:S00915E.004746	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00936E.006110	identical_copy	tibetan:sungbum:S00936E.005955	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00936E.006347	identical_copy	tibetan:sungbum:S00936E.005955	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00937E.006908	identical_copy	tibetan:sungbum:S00937E.006089	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00948E.005455	identical_copy	tibetan:sungbum:S00948E.005279	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00965E.005620	identical_copy	tibetan:sungbum:S00965E.004627	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00965E.005715	identical_copy	tibetan:sungbum:S00965E.004627	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00976E	excluded_copyright		User rule 2026-11-03/04: works of authors who died in 1955 or later are kept off the public release; this work was missed by the modern-author list (run modern_authors_20261105) and found 2026-11-14 by author dates, ACIP file-name dates and modern title pages. By Bka' chen Blo bzang bzod pa (died 1998?). User request 2026-11-14 (apply the rule before the public release).
+tibetan:sungbum:S00978E	excluded_copyright		User rule 2026-11-03/04: works of authors who died in 1955 or later are kept off the public release; this work was missed by the modern-author list (run modern_authors_20261105) and found 2026-11-14 by author dates, ACIP file-name dates and modern title pages. By Bka' chen Blo bzang bzod pa (died 1998?). User request 2026-11-14 (apply the rule before the public release).
+tibetan:sungbum:S00980E.005098	identical_copy	tibetan:sungbum:S00980E.004694	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S00992E	excluded_copyright		User rule 2026-11-03/04: works of authors who died in 1955 or later are kept off the public release; this work was missed by the modern-author list (run modern_authors_20261105) and found 2026-11-14 by author dates, ACIP file-name dates and modern title pages. Biography of Pha bong kha pa by his disciple Ldan ma Blo bzang rdo rje (active c. 1940; death not recorded): kept off as most likely within the rule. User request 2026-11-14 (apply the rule before the public release).
+tibetan:sungbum:S01003E.005912	identical_copy	tibetan:sungbum:S01003E.005904	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S0255A.006111	identical_copy	tibetan:sungbum:S0255A.006101	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S0466I.005785	identical_copy	tibetan:sungbum:S0466I.005784	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05267M.006974	identical_copy	tibetan:sungbum:S05267M.005128	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05275E.006440	identical_copy	tibetan:sungbum:S05275E.006303	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05275E.006924	identical_copy	tibetan:sungbum:S05275E.006884	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05275M.004349	identical_copy	tibetan:sungbum:S05275M.004348	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05301E.006419	identical_copy	tibetan:sungbum:S05301E.006417	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05304E.006880	identical_copy	tibetan:sungbum:S05304E.006204	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05361E.007136	identical_copy	tibetan:sungbum:S05361E.006941	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05362E.006737	identical_copy	tibetan:sungbum:S05362E.006730	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05364E.006238	identical_copy	tibetan:sungbum:S05364E.006236	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05386E.007122	identical_copy	tibetan:sungbum:S05386E.006933	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05427I.004745	identical_copy	tibetan:sungbum:S05427I.004690	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05439.005838	identical_copy	tibetan:sungbum:S05439.005718	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05440.005775	identical_copy	tibetan:sungbum:S05440.005719	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05440.005839	identical_copy	tibetan:sungbum:S05440.005719	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05522E.004421	identical_copy	tibetan:sungbum:S05522E.004363	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05522E.004422	identical_copy	tibetan:sungbum:S05522E.004364	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05530E.007279	identical_copy	tibetan:sungbum:S05530E.004576	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05558E.007096	identical_copy	tibetan:sungbum:S05558E.007063	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05578E.005917	identical_copy	tibetan:sungbum:S05578E.005905	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05580E.007410	identical_copy	tibetan:sungbum:S05580E.004440	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05616.006710	identical_copy	tibetan:sungbum:S05616.006437	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05879M.007313	identical_copy	tibetan:sungbum:S05879M.007227	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05879M.007316	identical_copy	tibetan:sungbum:S05879M.007227	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05891M.005461	identical_copy	tibetan:sungbum:S05891M.005397	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05908I.006967	identical_copy	tibetan:sungbum:S05908I.005123	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05908I.007267	identical_copy	tibetan:sungbum:S05908I.005123	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05912E.006273	identical_copy	tibetan:sungbum:S05912E.006272	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05916E.005982	identical_copy	tibetan:sungbum:S05916E.005975	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05918E.006046	identical_copy	tibetan:sungbum:S05918E.006019	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05930E.007194	identical_copy	tibetan:sungbum:S05930E.007189	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05932E.006743	identical_copy	tibetan:sungbum:S05932E.006543	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05944M.005259	identical_copy	tibetan:sungbum:S05944M.005178	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05954E.006839	identical_copy	tibetan:sungbum:S05954E.006813	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05960M.005309	identical_copy	tibetan:sungbum:S05960M.005301	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05963E.007154	identical_copy	tibetan:sungbum:S05963E.007153	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05977.006566	identical_copy	tibetan:sungbum:S05977.004479	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05977E.005606	identical_copy	tibetan:sungbum:S05977E.005271	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05977E.007102	identical_copy	tibetan:sungbum:S05977E.006842	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05977I.005607	identical_copy	tibetan:sungbum:S05977I.005272	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05977M.005608	identical_copy	tibetan:sungbum:S05977M.005273	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05977M.005609	identical_copy	tibetan:sungbum:S05977M.005274	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05977M.005759	identical_copy	tibetan:sungbum:S05977M.005298	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05985E.004671	identical_copy	tibetan:sungbum:S05985E.004460	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05985E.004672	identical_copy	tibetan:sungbum:S05985E.004461	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05985E.005240	identical_copy	tibetan:sungbum:S05985E.004460	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05985E.005241	identical_copy	tibetan:sungbum:S05985E.004461	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05985E.007199	identical_copy	tibetan:sungbum:S05985E.004460	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S05985E.007200	identical_copy	tibetan:sungbum:S05985E.004461	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06226E.005596	identical_copy	tibetan:sungbum:S06226E.004471	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06258A.007211	identical_copy	tibetan:sungbum:S06258A.007203	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06258A.007212	identical_copy	tibetan:sungbum:S06258A.007203	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06258A.007228	identical_copy	tibetan:sungbum:S06258A.007203	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06258A.007261	identical_copy	tibetan:sungbum:S06258A.007203	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06259A.007236	identical_copy	tibetan:sungbum:S06259A.005552	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06281E.006124	identical_copy	tibetan:sungbum:S06281E.006108	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06296E.006129	identical_copy	tibetan:sungbum:S06296E.005993	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06296E.006381	identical_copy	tibetan:sungbum:S06296E.005993	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06297E.006290	identical_copy	tibetan:sungbum:S06297E.005931	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06311E.007018	identical_copy	tibetan:sungbum:S06311E.006828	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06318E.007031	identical_copy	tibetan:sungbum:S06318E.006767	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06323E.006590	identical_copy	tibetan:sungbum:S06323E.006587	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06335M.005264	identical_copy	tibetan:sungbum:S06335M.005168	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06361M.004427	identical_copy	tibetan:sungbum:S06361M.004384	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06363M.007086	identical_copy	tibetan:sungbum:S06363M.006897	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06368E.006493	identical_copy	tibetan:sungbum:S06368E.006461	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06368M.005721	identical_copy	tibetan:sungbum:S06368M.005276	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06368M.007300	identical_copy	tibetan:sungbum:S06368M.005276	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06369E.006414	identical_copy	tibetan:sungbum:S06369E.006377	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370.004805	identical_copy	tibetan:sungbum:S06370.004472	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.005888	identical_copy	tibetan:sungbum:S06370E.004888	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.005901	identical_copy	tibetan:sungbum:S06370E.004857	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.005921	identical_copy	tibetan:sungbum:S06370E.004855	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.005936	identical_copy	tibetan:sungbum:S06370E.004881	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.005942	identical_copy	tibetan:sungbum:S06370E.004809	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.005961	identical_copy	tibetan:sungbum:S06370E.004845	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.005996	identical_copy	tibetan:sungbum:S06370E.004930	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006000	identical_copy	tibetan:sungbum:S06370E.004828	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006008	identical_copy	tibetan:sungbum:S06370E.004849	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006009	identical_copy	tibetan:sungbum:S06370E.004911	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006010	identical_copy	tibetan:sungbum:S06370E.004924	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006041	identical_copy	tibetan:sungbum:S06370E.004811	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006042	identical_copy	tibetan:sungbum:S06370E.004855	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006115	identical_copy	tibetan:sungbum:S06370E.004837	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006168	identical_copy	tibetan:sungbum:S06370E.004814	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006169	identical_copy	tibetan:sungbum:S06370E.004901	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006170	identical_copy	tibetan:sungbum:S06370E.004907	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006171	identical_copy	tibetan:sungbum:S06370E.004918	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006185	identical_copy	tibetan:sungbum:S06370E.004859	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006187	identical_copy	tibetan:sungbum:S06370E.004807	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006231	identical_copy	tibetan:sungbum:S06370E.004856	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006241	identical_copy	tibetan:sungbum:S06370E.004856	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006242	identical_copy	tibetan:sungbum:S06370E.004891	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006259	identical_copy	tibetan:sungbum:S06370E.004899	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006301	identical_copy	tibetan:sungbum:S06370E.004941	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006316	identical_copy	tibetan:sungbum:S06370E.004863	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006425	identical_copy	tibetan:sungbum:S06370E.004870	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006429	identical_copy	tibetan:sungbum:S06370E.004913	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006451	identical_copy	tibetan:sungbum:S06370E.004816	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006459	identical_copy	tibetan:sungbum:S06370E.004820	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006467	identical_copy	tibetan:sungbum:S06370E.004815	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006482	identical_copy	tibetan:sungbum:S06370E.004832	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006483	identical_copy	tibetan:sungbum:S06370E.004836	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006508	identical_copy	tibetan:sungbum:S06370E.004822	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006513	identical_copy	tibetan:sungbum:S06370E.004872	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006519	identical_copy	tibetan:sungbum:S06370E.004896	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006529	identical_copy	tibetan:sungbum:S06370E.004936	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006551	identical_copy	tibetan:sungbum:S06370E.004904	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006571	identical_copy	tibetan:sungbum:S06370E.004908	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006575	identical_copy	tibetan:sungbum:S06370E.004810	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006620	identical_copy	tibetan:sungbum:S06370E.004839	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006621	identical_copy	tibetan:sungbum:S06370E.004841	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006622	identical_copy	tibetan:sungbum:S06370E.004842	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006623	identical_copy	tibetan:sungbum:S06370E.004843	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006634	identical_copy	tibetan:sungbum:S06370E.004838	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006635	identical_copy	tibetan:sungbum:S06370E.004853	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006645	identical_copy	tibetan:sungbum:S06370E.004905	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006646	identical_copy	tibetan:sungbum:S06370E.004929	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006652	identical_copy	tibetan:sungbum:S06370E.004900	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006653	identical_copy	tibetan:sungbum:S06370E.004921	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006654	identical_copy	tibetan:sungbum:S06370E.004922	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006655	identical_copy	tibetan:sungbum:S06370E.004923	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006659	identical_copy	tibetan:sungbum:S06370E.004844	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006660	identical_copy	tibetan:sungbum:S06370E.004895	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006672	identical_copy	tibetan:sungbum:S06370E.004932	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006706	identical_copy	tibetan:sungbum:S06370E.004932	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006708	identical_copy	tibetan:sungbum:S06370E.004938	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006723	identical_copy	tibetan:sungbum:S06370E.004891	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006780	identical_copy	tibetan:sungbum:S06370E.004942	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006781	identical_copy	tibetan:sungbum:S06370E.004943	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006782	identical_copy	tibetan:sungbum:S06370E.004944	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006783	identical_copy	tibetan:sungbum:S06370E.004945	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006801	identical_copy	tibetan:sungbum:S06370E.004854	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006847	identical_copy	tibetan:sungbum:S06370E.004812	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006848	identical_copy	tibetan:sungbum:S06370E.004813	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006849	identical_copy	tibetan:sungbum:S06370E.004819	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006850	identical_copy	tibetan:sungbum:S06370E.004833	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006851	identical_copy	tibetan:sungbum:S06370E.004846	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006852	identical_copy	tibetan:sungbum:S06370E.004860	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006853	identical_copy	tibetan:sungbum:S06370E.004865	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006854	identical_copy	tibetan:sungbum:S06370E.004866	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006855	identical_copy	tibetan:sungbum:S06370E.004879	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006856	identical_copy	tibetan:sungbum:S06370E.004880	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006857	identical_copy	tibetan:sungbum:S06370E.004881	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006858	identical_copy	tibetan:sungbum:S06370E.004885	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006859	identical_copy	tibetan:sungbum:S06370E.004886	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006860	identical_copy	tibetan:sungbum:S06370E.004889	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006861	identical_copy	tibetan:sungbum:S06370E.004897	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006862	identical_copy	tibetan:sungbum:S06370E.004915	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006863	identical_copy	tibetan:sungbum:S06370E.004922	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006864	identical_copy	tibetan:sungbum:S06370E.004926	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006865	identical_copy	tibetan:sungbum:S06370E.004928	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006866	identical_copy	tibetan:sungbum:S06370E.004933	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006867	identical_copy	tibetan:sungbum:S06370E.004939	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006868	identical_copy	tibetan:sungbum:S06370E.004940	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006869	identical_copy	tibetan:sungbum:S06370E.004946	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006893	identical_copy	tibetan:sungbum:S06370E.004916	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006898	identical_copy	tibetan:sungbum:S06370E.004806	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006899	identical_copy	tibetan:sungbum:S06370E.004827	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006923	identical_copy	tibetan:sungbum:S06370E.004874	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006929	identical_copy	tibetan:sungbum:S06370E.004884	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006930	identical_copy	tibetan:sungbum:S06370E.004898	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006934	identical_copy	tibetan:sungbum:S06370E.004917	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006937	identical_copy	tibetan:sungbum:S06370E.004823	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006938	identical_copy	tibetan:sungbum:S06370E.004850	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006939	identical_copy	tibetan:sungbum:S06370E.004873	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006952	identical_copy	tibetan:sungbum:S06370E.004903	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006955	identical_copy	tibetan:sungbum:S06370E.004882	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006956	identical_copy	tibetan:sungbum:S06370E.004887	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006957	identical_copy	tibetan:sungbum:S06370E.004883	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006958	identical_copy	tibetan:sungbum:S06370E.004817	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006959	identical_copy	tibetan:sungbum:S06370E.004818	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.006961	identical_copy	tibetan:sungbum:S06370E.004912	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007000	identical_copy	tibetan:sungbum:S06370E.004821	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007001	identical_copy	tibetan:sungbum:S06370E.004824	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007002	identical_copy	tibetan:sungbum:S06370E.004864	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007003	identical_copy	tibetan:sungbum:S06370E.004868	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007004	identical_copy	tibetan:sungbum:S06370E.004869	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007005	identical_copy	tibetan:sungbum:S06370E.004902	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007015	identical_copy	tibetan:sungbum:S06370E.004925	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007020	identical_copy	tibetan:sungbum:S06370E.004834	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007024	identical_copy	tibetan:sungbum:S06370E.004839	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007037	identical_copy	tibetan:sungbum:S06370E.004840	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007038	identical_copy	tibetan:sungbum:S06370E.004851	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007044	identical_copy	tibetan:sungbum:S06370E.004876	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007045	identical_copy	tibetan:sungbum:S06370E.004877	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007046	identical_copy	tibetan:sungbum:S06370E.004931	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007053	identical_copy	tibetan:sungbum:S06370E.004914	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007054	identical_copy	tibetan:sungbum:S06370E.004919	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007055	identical_copy	tibetan:sungbum:S06370E.004927	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007058	identical_copy	tibetan:sungbum:S06370E.004861	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007070	identical_copy	tibetan:sungbum:S06370E.004858	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007073	identical_copy	tibetan:sungbum:S06370E.004829	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007074	identical_copy	tibetan:sungbum:S06370E.004830	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007075	identical_copy	tibetan:sungbum:S06370E.004831	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007076	identical_copy	tibetan:sungbum:S06370E.004862	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007077	identical_copy	tibetan:sungbum:S06370E.004871	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007078	identical_copy	tibetan:sungbum:S06370E.004934	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007090	identical_copy	tibetan:sungbum:S06370E.004808	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007091	identical_copy	tibetan:sungbum:S06370E.004906	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007092	identical_copy	tibetan:sungbum:S06370E.004909	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007093	identical_copy	tibetan:sungbum:S06370E.004910	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007094	identical_copy	tibetan:sungbum:S06370E.004937	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007103	identical_copy	tibetan:sungbum:S06370E.004835	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007107	identical_copy	tibetan:sungbum:S06370E.004825	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007108	identical_copy	tibetan:sungbum:S06370E.004847	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007109	identical_copy	tibetan:sungbum:S06370E.004848	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007110	identical_copy	tibetan:sungbum:S06370E.004852	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007111	identical_copy	tibetan:sungbum:S06370E.004867	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007112	identical_copy	tibetan:sungbum:S06370E.004873	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007113	identical_copy	tibetan:sungbum:S06370E.004875	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007114	identical_copy	tibetan:sungbum:S06370E.004878	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007115	identical_copy	tibetan:sungbum:S06370E.004890	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007116	identical_copy	tibetan:sungbum:S06370E.004892	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007117	identical_copy	tibetan:sungbum:S06370E.004893	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007118	identical_copy	tibetan:sungbum:S06370E.004894	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007119	identical_copy	tibetan:sungbum:S06370E.004920	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007120	identical_copy	tibetan:sungbum:S06370E.004935	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007150	identical_copy	tibetan:sungbum:S06370E.004937	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370E.007196	identical_copy	tibetan:sungbum:S06370E.004826	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.004775	identical_copy	tibetan:sungbum:S06370M.004712	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.004947	identical_copy	tibetan:sungbum:S06370M.004482	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.004956	identical_copy	tibetan:sungbum:S06370M.004711	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.004957	identical_copy	tibetan:sungbum:S06370M.004386	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.004958	identical_copy	tibetan:sungbum:S06370M.004387	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.004960	identical_copy	tibetan:sungbum:S06370M.004388	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.004961	identical_copy	tibetan:sungbum:S06370M.004389	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.004962	identical_copy	tibetan:sungbum:S06370M.004390	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.004964	identical_copy	tibetan:sungbum:S06370M.004712	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.004976	identical_copy	tibetan:sungbum:S06370M.004713	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.004977	identical_copy	tibetan:sungbum:S06370M.004714	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.004978	identical_copy	tibetan:sungbum:S06370M.004369	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.004979	identical_copy	tibetan:sungbum:S06370M.004391	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.004982	identical_copy	tibetan:sungbum:S06370M.004357	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.004983	identical_copy	tibetan:sungbum:S06370M.004392	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.004985	identical_copy	tibetan:sungbum:S06370M.004367	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.004990	identical_copy	tibetan:sungbum:S06370M.004715	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.004991	identical_copy	tibetan:sungbum:S06370M.004716	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.004992	identical_copy	tibetan:sungbum:S06370M.004717	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.004993	identical_copy	tibetan:sungbum:S06370M.004718	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.004995	identical_copy	tibetan:sungbum:S06370M.004719	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.004998	identical_copy	tibetan:sungbum:S06370M.004393	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.004999	identical_copy	tibetan:sungbum:S06370M.004394	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005005	identical_copy	tibetan:sungbum:S06370M.004720	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005006	identical_copy	tibetan:sungbum:S06370M.004721	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005007	identical_copy	tibetan:sungbum:S06370M.004722	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005010	identical_copy	tibetan:sungbum:S06370M.004723	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005011	identical_copy	tibetan:sungbum:S06370M.004396	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005012	identical_copy	tibetan:sungbum:S06370M.004397	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005013	identical_copy	tibetan:sungbum:S06370M.004398	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005014	identical_copy	tibetan:sungbum:S06370M.004399	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005015	identical_copy	tibetan:sungbum:S06370M.004361	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005016	identical_copy	tibetan:sungbum:S06370M.004400	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005017	identical_copy	tibetan:sungbum:S06370M.004401	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005018	identical_copy	tibetan:sungbum:S06370M.004402	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005020	identical_copy	tibetan:sungbum:S06370M.004403	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005034	identical_copy	tibetan:sungbum:S06370M.004724	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005035	identical_copy	tibetan:sungbum:S06370M.004725	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005037	identical_copy	tibetan:sungbum:S06370M.004726	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005041	identical_copy	tibetan:sungbum:S06370M.004404	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005047	identical_copy	tibetan:sungbum:S06370M.004405	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005048	identical_copy	tibetan:sungbum:S06370M.004406	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005065	identical_copy	tibetan:sungbum:S06370M.004368	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005066	identical_copy	tibetan:sungbum:S06370M.004407	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005069	identical_copy	tibetan:sungbum:S06370M.004408	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005070	identical_copy	tibetan:sungbum:S06370M.004409	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005075	identical_copy	tibetan:sungbum:S06370M.004491	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005145	identical_copy	tibetan:sungbum:S06370M.005040	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005146	identical_copy	tibetan:sungbum:S06370M.005051	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005147	identical_copy	tibetan:sungbum:S06370M.005052	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005148	identical_copy	tibetan:sungbum:S06370M.005053	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005149	identical_copy	tibetan:sungbum:S06370M.005054	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005150	identical_copy	tibetan:sungbum:S06370M.005055	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005151	identical_copy	tibetan:sungbum:S06370M.005056	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005152	identical_copy	tibetan:sungbum:S06370M.005057	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005169	identical_copy	tibetan:sungbum:S06370M.004967	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005195	identical_copy	tibetan:sungbum:S06370M.005019	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005196	identical_copy	tibetan:sungbum:S06370M.005021	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005197	identical_copy	tibetan:sungbum:S06370M.005022	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005198	identical_copy	tibetan:sungbum:S06370M.005023	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005199	identical_copy	tibetan:sungbum:S06370M.005024	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005203	identical_copy	tibetan:sungbum:S06370M.004955	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005204	identical_copy	tibetan:sungbum:S06370M.004968	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005205	identical_copy	tibetan:sungbum:S06370M.004975	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005206	identical_copy	tibetan:sungbum:S06370M.004984	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005207	identical_copy	tibetan:sungbum:S06370M.004986	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005208	identical_copy	tibetan:sungbum:S06370M.004988	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005209	identical_copy	tibetan:sungbum:S06370M.004989	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005210	identical_copy	tibetan:sungbum:S06370M.004994	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005211	identical_copy	tibetan:sungbum:S06370M.004996	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005212	identical_copy	tibetan:sungbum:S06370M.004997	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005213	identical_copy	tibetan:sungbum:S06370M.005000	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005214	identical_copy	tibetan:sungbum:S06370M.005001	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005215	identical_copy	tibetan:sungbum:S06370M.005002	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005216	identical_copy	tibetan:sungbum:S06370M.005003	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005217	identical_copy	tibetan:sungbum:S06370M.005004	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005218	identical_copy	tibetan:sungbum:S06370M.005027	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005219	identical_copy	tibetan:sungbum:S06370M.005031	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005220	identical_copy	tibetan:sungbum:S06370M.005042	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005221	identical_copy	tibetan:sungbum:S06370M.005046	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005222	identical_copy	tibetan:sungbum:S06370M.005067	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005223	identical_copy	tibetan:sungbum:S06370M.005071	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005224	identical_copy	tibetan:sungbum:S06370M.005074	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005247	identical_copy	tibetan:sungbum:S06370M.005063	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005284	identical_copy	tibetan:sungbum:S06370M.004948	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005288	identical_copy	tibetan:sungbum:S06370M.004951	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005323	identical_copy	tibetan:sungbum:S06370M.004959	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005324	identical_copy	tibetan:sungbum:S06370M.004387	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005326	identical_copy	tibetan:sungbum:S06370M.005045	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005344	identical_copy	tibetan:sungbum:S06370M.005038	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005348	identical_copy	tibetan:sungbum:S06370M.004953	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005349	identical_copy	tibetan:sungbum:S06370M.004952	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005350	identical_copy	tibetan:sungbum:S06370M.004963	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005351	identical_copy	tibetan:sungbum:S06370M.004965	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005352	identical_copy	tibetan:sungbum:S06370M.005032	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005353	identical_copy	tibetan:sungbum:S06370M.005033	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005354	identical_copy	tibetan:sungbum:S06370M.005044	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005355	identical_copy	tibetan:sungbum:S06370M.005059	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005356	identical_copy	tibetan:sungbum:S06370M.005068	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005385	identical_copy	tibetan:sungbum:S06370M.005050	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005417	identical_copy	tibetan:sungbum:S06370M.004949	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005418	identical_copy	tibetan:sungbum:S06370M.005039	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005419	identical_copy	tibetan:sungbum:S06370M.005064	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005420	identical_copy	tibetan:sungbum:S06370M.005076	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005612	identical_copy	tibetan:sungbum:S06370M.004966	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005613	identical_copy	tibetan:sungbum:S06370M.005043	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005619	identical_copy	tibetan:sungbum:S06370M.004981	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005638	identical_copy	tibetan:sungbum:S06370M.004950	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005660	identical_copy	tibetan:sungbum:S06370M.005036	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005708	identical_copy	tibetan:sungbum:S06370M.004980	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005709	identical_copy	tibetan:sungbum:S06370M.005028	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005710	identical_copy	tibetan:sungbum:S06370M.005029	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005711	identical_copy	tibetan:sungbum:S06370M.005030	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005712	identical_copy	tibetan:sungbum:S06370M.005049	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005713	identical_copy	tibetan:sungbum:S06370M.005077	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.005714	identical_copy	tibetan:sungbum:S06370M.005078	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.007237	identical_copy	tibetan:sungbum:S06370M.005008	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.007238	identical_copy	tibetan:sungbum:S06370M.005009	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.007447	identical_copy	tibetan:sungbum:S06370M.004954	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.007448	identical_copy	tibetan:sungbum:S06370M.004987	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.007496	identical_copy	tibetan:sungbum:S06370M.004969	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.007497	identical_copy	tibetan:sungbum:S06370M.004970	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.007498	identical_copy	tibetan:sungbum:S06370M.004971	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.007499	identical_copy	tibetan:sungbum:S06370M.004972	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.007500	identical_copy	tibetan:sungbum:S06370M.004973	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.007501	identical_copy	tibetan:sungbum:S06370M.004974	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.007502	identical_copy	tibetan:sungbum:S06370M.004391	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.007503	identical_copy	tibetan:sungbum:S06370M.005025	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.007504	identical_copy	tibetan:sungbum:S06370M.005026	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.007505	identical_copy	tibetan:sungbum:S06370M.005058	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.007506	identical_copy	tibetan:sungbum:S06370M.005060	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.007507	identical_copy	tibetan:sungbum:S06370M.005061	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.007508	identical_copy	tibetan:sungbum:S06370M.005062	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.007509	identical_copy	tibetan:sungbum:S06370M.005072	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06370M.007510	identical_copy	tibetan:sungbum:S06370M.005073	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06377E.006062	identical_copy	tibetan:sungbum:S06377E.006059	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06380E.006130	identical_copy	tibetan:sungbum:S06380E.006121	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06380E.006720	identical_copy	tibetan:sungbum:S06380E.006717	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06380E.006978	identical_copy	tibetan:sungbum:S06380E.006919	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06380E.007006	identical_copy	tibetan:sungbum:S06380E.006919	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06385M.004564	identical_copy	tibetan:sungbum:S06385M.004563	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06405E.006251	identical_copy	tibetan:sungbum:S06405E.006250	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06512E.007151	identical_copy	tibetan:sungbum:S06512E.005392	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06552E.007361	identical_copy	tibetan:sungbum:S06552E.004669	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06553E.007362	identical_copy	tibetan:sungbum:S06553E.004670	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06557E.006047	identical_copy	tibetan:sungbum:S06557E.005922	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06557E.006148	identical_copy	tibetan:sungbum:S06557E.005922	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06557E.006979	identical_copy	tibetan:sungbum:S06557E.005922	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06561E.007251	identical_copy	tibetan:sungbum:S06561E.005628	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S06814I.005860	identical_copy	tibetan:sungbum:S06814I.005859	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S0993E	excluded_copyright		User rule 2026-11-03/04: works of authors who died in 1955 or later are kept off the public release; this work was missed by the modern-author list (run modern_authors_20261105) and found 2026-11-14 by author dates, ACIP file-name dates and modern title pages. Biography of Pha bong kha pa by Ldan ma Blo bzang rdo rje (active c. 1940; death not recorded): kept off as most likely within the rule. User request 2026-11-14 (apply the rule before the public release).
+tibetan:sungbum:S12007E.007301	identical_copy	tibetan:sungbum:S12007E.005311	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12007E.007364	identical_copy	tibetan:sungbum:S12007E.005311	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12022E.005683	identical_copy	tibetan:sungbum:S12022E.005491	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12023E.006234	identical_copy	tibetan:sungbum:S12023E.006206	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12023E.006243	identical_copy	tibetan:sungbum:S12023E.006206	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12023E.006757	identical_copy	tibetan:sungbum:S12023E.006206	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12023E.006784	identical_copy	tibetan:sungbum:S12023E.006206	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12065E.004633	identical_copy	tibetan:sungbum:S12065E.004346	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12066E.005872	identical_copy	tibetan:sungbum:S12066E.004458	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12074E.006307	identical_copy	tibetan:sungbum:S12074E.006305	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12077E.006246	identical_copy	tibetan:sungbum:S12077E.006245	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12080E.007304	identical_copy	tibetan:sungbum:S12080E.005705	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12085E.007406	identical_copy	tibetan:sungbum:S12085E.005737	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12091E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12092E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12093E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12094E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12094E.005244	identical_copy	tibetan:sungbum:S12094E.005171	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12094E.005261	identical_copy	tibetan:sungbum:S12094E.005171	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12095E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12096E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12096E.005281	identical_copy	tibetan:sungbum:S12096E.005249	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12097E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12098E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12099E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12100E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12101E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12102E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12103E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12104E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12105E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12106E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12107E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12108E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12109E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12110E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12110E.006728	identical_copy	tibetan:sungbum:S12110E.005985	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12111E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12115E.007308	identical_copy	tibetan:sungbum:S12115E.005312	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12128.005976	identical_copy	tibetan:sungbum:S12128.004637	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12143E.006339	identical_copy	tibetan:sungbum:S12143E.005545	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12162E.005618	identical_copy	tibetan:sungbum:S12162E.004632	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12168E.005106	identical_copy	tibetan:sungbum:S12168E.005099	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12170E.007201	identical_copy	tibetan:sungbum:S12170E.005239	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12176E.007289	identical_copy	tibetan:sungbum:S12176E.005749	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12187E.007180	identical_copy	tibetan:sungbum:S12187E.006944	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12188E.005566	identical_copy	tibetan:sungbum:S12188E.004473	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12191E.005750	identical_copy	tibetan:sungbum:S12191E.005670	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12204E.005671	identical_copy	tibetan:sungbum:S12204E.005563	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12211E.007067	identical_copy	tibetan:sungbum:S12211E.007013	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12225E.007271	identical_copy	tibetan:sungbum:S12225E.005604	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12228E.005564	identical_copy	tibetan:sungbum:S12228E.005313	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12228E.005672	identical_copy	tibetan:sungbum:S12228E.005313	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12228E.005752	identical_copy	tibetan:sungbum:S12228E.005313	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12228E.007365	identical_copy	tibetan:sungbum:S12228E.005313	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12232E.005565	identical_copy	tibetan:sungbum:S12232E.004543	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12233E.005530	identical_copy	tibetan:sungbum:S12233E.004445	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12237E.005091	identical_copy	tibetan:sungbum:S12237E.004557	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12238E.007098	identical_copy	tibetan:sungbum:S12238E.005673	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12250E.006296	identical_copy	tibetan:sungbum:S12250E.006277	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12270E.006145	identical_copy	tibetan:sungbum:S12270E.006122	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12304	excluded_copyright		User rule 2026-11-03/04: works of authors who died in 1955 or later are kept off the public release; this work was missed by the modern-author list (run modern_authors_20261105) and found 2026-11-14 by author dates, ACIP file-name dates and modern title pages. Zhwa sgab pa Dbang phyug bde ldan (Shakabpa, 1907-1989), political history of Tibet. User request 2026-11-14 (apply the rule before the public release).
+tibetan:sungbum:S12309E.006559	identical_copy	tibetan:sungbum:S12309E.006545	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12310E.006560	identical_copy	tibetan:sungbum:S12310E.006546	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12311E.006561	identical_copy	tibetan:sungbum:S12311E.006547	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12312E.006562	identical_copy	tibetan:sungbum:S12312E.006548	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12313E.006563	identical_copy	tibetan:sungbum:S12313E.006549	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12325E.007405	identical_copy	tibetan:sungbum:S12325E.005458	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12327E	excluded_copyright		User rule 2026-11-03/04: works of authors who died in 1955 or later are kept off the public release; this work was missed by the modern-author list (run modern_authors_20261105) and found 2026-11-14 by author dates, ACIP file-name dates and modern title pages. Gangs can mkhas grub rim byon ming mdzod by Ko zhul Grags pa 'byung gnas and Rgyal ba Blo bzang mkhas grub, Kan su'u mi rigs dpe skrun khang (1992): a modern biographical dictionary. User request 2026-11-14 (apply the rule before the public release).
+tibetan:sungbum:S12327E.007366	identical_copy	tibetan:sungbum:S12327E.007327	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12332E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12333E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12334E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12334E.007401	identical_copy	tibetan:sungbum:S12334E.007210	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12335E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12335E.007399	identical_copy	tibetan:sungbum:S12335E.007246	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12335E.007400	identical_copy	tibetan:sungbum:S12335E.007246	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12336E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12337E	excluded_copyright		User rule 2026-11-03/04: works of authors who died in 1955 or later are kept off the public release; this work was missed by the modern-author list (run modern_authors_20261105) and found 2026-11-14 by author dates, ACIP file-name dates and modern title pages. Sgrig pa po'i gtam, a modern note on the compiler Dmu dge Bsam gtan rgya mtsho (1914-1993). User request 2026-11-14 (apply the rule before the public release).
+tibetan:sungbum:S12338E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12339E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12340E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12341E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12342E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12343E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12343E.007402	identical_copy	tibetan:sungbum:S12343E.004654	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12344E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12344E.007413	identical_copy	tibetan:sungbum:S12344E.007412	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12345E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12346E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12347E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12348E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12349E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12350E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12351E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12352E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12353E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12354E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12355E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12356E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12356E.005320	identical_copy	tibetan:sungbum:S12356E.004663	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12357E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12358E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12359E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12403E.004639	identical_copy	tibetan:sungbum:S12403E.004459	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12404E.004634	identical_copy	tibetan:sungbum:S12404E.004420	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12408E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12409E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12410E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12411E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12412E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12413E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12413E.005700	identical_copy	tibetan:sungbum:S12413E.004442	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S12414E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S12415E	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:S19013E.006012	identical_copy	tibetan:sungbum:S19013E.005972	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S19013E.006043	identical_copy	tibetan:sungbum:S19013E.005972	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S19014E	excluded_copyright		User rule 2026-11-03/04: works of authors who died in 1955 or later are kept off the public release; this work was missed by the modern-author list (run modern_authors_20261105) and found 2026-11-14 by author dates, ACIP file-name dates and modern title pages. Holds a biography of Skyabs rje Khri byang rin po che (1901-1981), written after his time, with a commentary from the same modern edition. User request 2026-11-14 (apply the rule before the public release).
+tibetan:sungbum:S19018E.006619	identical_copy	tibetan:sungbum:S19018E.006605	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S19018E.006627	identical_copy	tibetan:sungbum:S19018E.006605	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S19030E.007207	identical_copy	tibetan:sungbum:S19030E.004797	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S19042E.006966	identical_copy	tibetan:sungbum:S19042E.006490	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S19055E.007393	identical_copy	tibetan:sungbum:S19055E.004798	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S19058E.005645	identical_copy	tibetan:sungbum:S19058E.005534	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S19062E.005225	identical_copy	tibetan:sungbum:S19062E.004799	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S19066E.006415	identical_copy	tibetan:sungbum:S19066E.006361	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S19066E.006426	identical_copy	tibetan:sungbum:S19066E.006361	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S19070E.007065	identical_copy	tibetan:sungbum:S19070E.007029	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S19071E.005704	identical_copy	tibetan:sungbum:S19071E.004800	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S19075E.006889	identical_copy	tibetan:sungbum:S19075E.005938	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S19081E.005610	identical_copy	tibetan:sungbum:S19081E.004734	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S25136.007202	identical_copy	tibetan:sungbum:S25136.005159	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S5395I.005296	identical_copy	tibetan:sungbum:S5395I.004769	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S6370E.005889	identical_copy	tibetan:sungbum:S6370E.005079	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S6370E.006198	identical_copy	tibetan:sungbum:S6370E.005081	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:S6370E.006656	identical_copy	tibetan:sungbum:S6370E.005080	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:SE00023M	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:SE00070I.005185	identical_copy	tibetan:sungbum:SE00070I.005184	same text as the primary part in stage 2; the ACIP source holds this text more than once
+tibetan:sungbum:SL00023N	excluded_copyright		modern author (died 1955 or later), under copyright; user decision 2026-11-03/04: all excluded from public release, not translated
+tibetan:sungbum:ST00024N.005331	identical_copy	tibetan:sungbum:ST00024N.004742	same text as the primary part in stage 2; the ACIP source holds this text more than once

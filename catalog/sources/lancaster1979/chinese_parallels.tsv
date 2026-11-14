@@ -1,0 +1,704 @@
+work_id	toh	k	taisho	shinsu_work_id	title_han	title_ko	translator
+tibetan:kangyur:KL00001E	D1	1389	1448	shinsu:T24:T24n1448	根本說一切有部毘奈耶藥事	근본설일체유부비나야약사	Translation by I-ching
+tibetan:kangyur:KL00001E	D1	1390	1450	shinsu:T24:T24n1450	根本說一切有部毘奈耶破僧事	근본설일체유부비나야파승사	Translation by I-ching
+tibetan:kangyur:KL00001E	D1	1391	1444	shinsu:T23:T23n1444	根本說一切有部毘奈耶出家事	근본설일체유부비나야출가사	Translation by I-ching
+tibetan:kangyur:KL00001E	D1	1392	1445	shinsu:T23:T23n1445	根本說一切有部毘奈耶安居事	근본설일체유부비나야안거사	Translation by I-ching
+tibetan:kangyur:KL00001E	D1	1393	1446	shinsu:T23:T23n1446	根本說一切有部毘奈耶隨意事	근본설일체유부비나야수의사	Translation by I-ching
+tibetan:kangyur:KL00001E	D1	1394	1447	shinsu:T23:T23n1447	根本說一切有部毘奈耶皮革事	근본설일체유부비나야피혁사	Translation by I-ching
+tibetan:kangyur:KL00001E	D1	1395	1449	shinsu:T24:T24n1449	根本說一切有部毘奈耶羯恥那衣事	근본설일체유부비나야갈치나의사	Translation by I-ching
+tibetan:kangyur:KL00002E	D2	898	1454	shinsu:T24:T24n1454	根本說一切有部戒經	근본설일체유부계경	Translation by I-ching
+tibetan:kangyur:KL00003E	D3	891	1442	shinsu:T23:T23n1442	根本說一切有部毘奈耶	근본설일체유부비나야	Translation by I-ching
+tibetan:kangyur:KL00004E	D4	897	1455	shinsu:T24:T24n1455	根本說一切有部苾芻尼戒經	근본설일체유부필추니계경	Translation by I-ching
+tibetan:kangyur:KL00005E	D5	892	1443	shinsu:T23:T23n1443	根本說一切有部苾芻尼毘奈耶	근본설일체유부필추니비나야	Translation by I-ching
+tibetan:kangyur:KL00006E	D6	893	1451	shinsu:T24:T24n1451	根本說一切有部毘奈耶雜事	근본설일체유부비나야잡사	Translated by I-ching
+tibetan:kangyur:KL00009E	D9	2	221	shinsu:T08:T08n0221	放光般若波羅蜜經	방광반야바라밀경	Translation by Mokṣala
+tibetan:kangyur:KL00009E	D9	3	223	shinsu:T08:T08n0223	摩訶般若波羅蜜經	마하반야바라밀경	Translation by Kumārajīva
+tibetan:kangyur:KL00009E	D9	4	222	shinsu:T08:T08n0222	光讚經	광찬경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00012E	D12	5	226	shinsu:T08:T08n0226	摩訶般若抄經	마하반야초경	Translation by Dharmapriya and (Chu) Fo Nien
+tibetan:kangyur:KL00012E	D12	6	224	shinsu:T08:T08n0224	道行般若經	도행반야경	Translation by Lokakṣema
+tibetan:kangyur:KL00012E	D12	7	227	shinsu:T08:T08n0227	小品般若波羅蜜經	소품반야바라밀경	Translation by Kumārajīva
+tibetan:kangyur:KL00012E	D12	9	225	shinsu:T08:T08n0225	大明度經	대명도경	Translation by Chih Ch’ien
+tibetan:kangyur:KL00012E	D12	1200	229	shinsu:T08:T08n0229	佛母寶德藏般若波羅蜜經	불모보덕장반야바라밀경	Translation by Fa-hsien
+tibetan:kangyur:KL00012E	D12	1423	228	shinsu:T08:T08n0228	佛母出生三法藏般若波羅蜜多經	불모출생삼법장반야바라밀다경	Translation by Dānapāla
+tibetan:kangyur:KL00013E	D13	1200	229	shinsu:T08:T08n0229	佛母寶德藏般若波羅蜜經	불모보덕장반야바라밀경	Translation by Fa-hsien
+tibetan:kangyur:KL00014E	D14	1	220		大般若波羅蜜多經	대반야바라밀다경	Translation by Hsüan-tsang
+tibetan:kangyur:KL00014E	D14	8	231	shinsu:T08:T08n0231	勝天王般若波羅蜜經	승천왕반야바라밀경	Translation by Upaśūnya
+tibetan:kangyur:KL00015E	D15	1485	260	shinsu:T08:T08n0260	開覺自性般若波羅蜜多經	개각자성반야바라밀다경	Translation by Dharmaraksa and Wei-ching between the 12th month, 1st year and the 4th month, 2nd year of Ming Tao (明道), Northern Sung dynasty (北宋) (A.D. 1032).^1
+tibetan:kangyur:KL00016E	D16	13	235	shinsu:T08:T08n0235	金剛般若波羅蜜經	금강반야바라밀경	Translation by Kumārajīva
+tibetan:kangyur:KL00016E	D16	14	236		金剛般若波羅蜜經	금강반야바라밀경	Translation by Bodhiruci
+tibetan:kangyur:KL00016E	D16	15	237	shinsu:T08:T08n0237	金剛般若波羅蜜經	금강반야바라밀경	Translation by Paramārtha
+tibetan:kangyur:KL00016E	D16	16	220		能斷金剛般若波羅蜜多經	능단금강반야바라밀다경	Translation by Hsüan-tsang
+tibetan:kangyur:KL00016E	D16	17	239	shinsu:T08:T08n0239	能斷金剛般若波羅蜜多經	능단금강반야바라밀다경	Translation by I-ching
+tibetan:kangyur:KL00017E	D17	18	240	shinsu:T08:T08n0240	實相般若波羅蜜經	실상반야바라밀경	Translation by Bodhiruci
+tibetan:kangyur:KL00017E	D17	1189	242	shinsu:T08:T08n0242	偏照般若波羅蜜經	변조반야바라밀경	Translation by Dānapāla
+tibetan:kangyur:KL00017E	D17	1256	244	shinsu:T08:T08n0244	最上根本大樂金剛不空三昧大教王經	최상근본대락금강불공삼매대교왕경	Translation by Fa-hsien
+tibetan:kangyur:KL00017E	D17	1275	243	shinsu:T08:T08n0243	大樂金剛不空眞實三摩耶經	대락금강불공진실삼마야경	Translation by Amoghavajra
+tibetan:kangyur:KL00018E	D18	1192	248	shinsu:T08:T08n0248	五十頌聖般若波羅蜜經	오십송성반야바라밀경	Translation by Dānapāla
+tibetan:kangyur:KL00019E	D19	1190	249	shinsu:T08:T08n0249	帝釋般若波羅蜜多心經	제석반야바라밀다심경	Translation by Dānapāla
+tibetan:kangyur:KL00021E	D21	20	251	shinsu:T08:T08n0251	般若波羅蜜多心經	반야바라밀다심경	Translation by Hsüan-tsang
+tibetan:kangyur:KL00021E	D21	21	250	shinsu:T08:T08n0250	摩訶般若波羅蜜大明呪經	마하반야바라밀대명주경	Translation by Kumārajīva
+tibetan:kangyur:KL00021E	D21	1267	252	shinsu:T08:T08n0252	普遍智藏般若波羅蜜多心經	보변지장반야바라밀다심경	Translation by Dharmacandra
+tibetan:kangyur:KL00021E	D21	1383	253	shinsu:T08:T08n0253	般若波羅蜜多心經	반야바라밀다심경	Translation by Prajña and Candra (?)
+tibetan:kangyur:KL00021E	D21	1427	257	shinsu:T08:T08n0257	聖佛母般若波羅蜜多經	성불모반야바라밀다경	Translation by Dānapāla
+tibetan:kangyur:KL00022E	D22	1090	258	shinsu:T08:T08n0258	聖佛母小字般若波羅蜜多經	성불모소자반야바라밀다경	Translation by T’ien Hsi-tsai
+tibetan:kangyur:KL00024E	D24	10	232	shinsu:T08:T08n0232	文殊師利所說摩訶般若波羅蜜經	문수사리소설마하반야바라밀경	Translated by Mandra(sena)
+tibetan:kangyur:KL00024E	D24	11	233	shinsu:T08:T08n0233	文殊師利所說般若波羅蜜經	문수사리소설반야바라밀경	Translation by Saṅghabhara
+tibetan:kangyur:KL00025E	D25	1455	230	shinsu:T08:T08n0230	聖八千頌般若波羅蜜多一百八名眞實圓義陀羅尼經	성팔천송반야바라밀다일백팔명진실원의다라니경	Translation by Dānapāla
+tibetan:kangyur:KL00031E	D31	650	99	shinsu:T02:T02n0099	雜阿含經	잡아함경	Translation by Guṇabhadra
+tibetan:kangyur:KL00031E	D31	730	110	shinsu:T02:T02n0110	三轉法輪經	삼전법륜경	Translation by I-ching
+tibetan:kangyur:KL00031E	D31	741	109	shinsu:T02:T02n0109	轉法輪經	전법륜경	Translation by An Shih-kao
+tibetan:kangyur:KL00033E	D33	1185	1245	shinsu:T21:T21n1245	毘沙門天王經	비사문천왕경	Translation by Fa-t’ien
+tibetan:kangyur:KL00033E	D33	1307	1244	shinsu:T21:T21n1244	毘沙門天王經	비사문천왕경	Translation by Amoghavajra
+tibetan:kangyur:KL00034E	D34	647	1	shinsu:T01:T01n0001	長阿含經	장아함경	Translation by Buddhayaśas and Chu-fo-nien
+tibetan:kangyur:KL00034E	D34	650	99	shinsu:T02:T02n0099	雜阿含經	잡아함경	Translation by Guṇabhadra
+tibetan:kangyur:KL00034E	D34	651	100	shinsu:T02:T02n0100	別譯雜阿含經	별역잡아함경	
+tibetan:kangyur:KL00034E	D34	1179	19	shinsu:T01:T01n0019	大三摩惹經	대삼마야경	Translation by Fa-t'ien
+tibetan:kangyur:KL00036E	D36	756	138	shinsu:T02:T02n0138	十一想思念如來經	십일상사념여래경	Translation by Guṇabhadra
+tibetan:kangyur:KL00039E	D39	780	597	shinsu:T15:T15n0597	龍王兄弟經	룡왕형제경	Translation by Chih-ch’ien
+tibetan:kangyur:KL00041E	D41	650	99	shinsu:T02:T02n0099	雜阿含經	잡아함경	Translation by Guṇabhadra
+tibetan:kangyur:KL00042E	D42	650	99	shinsu:T02:T02n0099	雜阿含經	잡아함경	Translation by Guṇabhadra
+tibetan:kangyur:KL00044E	D44	79	278	shinsu:T09:T09n0278	大方廣佛華嚴經	대방광불화엄경	Translation by Buddhabhadra
+tibetan:kangyur:KL00044E	D44	80	279	shinsu:T10:T10n0279	大方廣佛華嚴經	대방광불화엄경	Translation by Śikṣānanda
+tibetan:kangyur:KL00044E	D44	89	285	shinsu:T10:T10n0285	漸備一切智德經	점비일체지덕경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00044E	D44	90	280	shinsu:T10:T10n0280	兜沙經	도사경	Translation by Lokakṣema
+tibetan:kangyur:KL00044E	D44	92	283	shinsu:T10:T10n0283	菩薩十住行道品	보살십주행도품	Translation by Dharmarakṣa
+tibetan:kangyur:KL00044E	D44	93	282	shinsu:T10:T10n0282	諸菩薩求佛本業經	제보살구불본업경	Translation by Nieh Tao-chen
+tibetan:kangyur:KL00044E	D44	94	281	shinsu:T10:T10n0281	菩薩本業經	보살본업경	Translation by Chih-ch’ien
+tibetan:kangyur:KL00044E	D44	97	284	shinsu:T10:T10n0284	菩薩十住經	보살십주경	Translation by Gītamitra
+tibetan:kangyur:KL00044E	D44	98	286	shinsu:T10:T10n0286	十住經	십주경	Translation by Kumārajīva
+tibetan:kangyur:KL00044E	D44	99	291	shinsu:T10:T10n0291	如來興顯經	여래흥현경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00044E	D44	100	288	shinsu:T10:T10n0288	等目菩薩所問三昧經	등목보살소문삼매경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00044E	D44	102	294	shinsu:T10:T10n0294	羅摩伽經	라마가경	Translation by Sheng-chien
+tibetan:kangyur:KL00044E	D44	103	292	shinsu:T10:T10n0292	度世品經	도세품경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00044E	D44	104	295	shinsu:T10:T10n0295	大方廣佛華嚴經入法界品	대방광불화엄경입법계품	Translation by Divākara
+tibetan:kangyur:KL00044E	D44	1029	296	shinsu:T10:T10n0296	文殊師利發願經	문수사리발원경	Translation by Buddhabhadra
+tibetan:kangyur:KL00044E	D44	1262	293	shinsu:T10:T10n0293	大方廣佛華嚴經	대방광불화엄경	Translation by Prajñā
+tibetan:kangyur:KL00044E	D44	1282	297	shinsu:T10:T10n0297	普賢菩薩行願讚	보현보살행원찬	Translation by Amoghavajra
+tibetan:kangyur:KL00044E	D44	1388	287	shinsu:T10:T10n0287	十地經	십지경	Translation by Śīladharma
+tibetan:kangyur:KL00045E	D45	23	311	shinsu:T11:T11n0311	大方廣三戒經	대방광삼계경	Translation by Dharmakṣema
+tibetan:kangyur:KL00047E	D47	1486	312	shinsu:T11:T11n0312	如來不思議秘密大乘經	여래불사의비밀대승경	Translation by Dharmaraksa
+tibetan:kangyur:KL00049E	D49	24	361	shinsu:T12:T12n0361	無量清淨平等覺經	무량청정평등각경	Translation by Lokakṣema
+tibetan:kangyur:KL00049E	D49	25	362	shinsu:T12:T12n0362	阿彌陀三耶三佛薩樓佛檀過度人道經	아미타삼야삼불살루불단과도인도경	Translation by Chih Ch’ien
+tibetan:kangyur:KL00049E	D49	26	360	shinsu:T12:T12n0360	無量壽經	무량수경	Translation by Saṅghavarman
+tibetan:kangyur:KL00049E	D49	1199	363	shinsu:T12:T12n0363	大乘無量壽莊嚴經	대승무량수장엄경	Translation by Fa-hsien
+tibetan:kangyur:KL00050E	D50	27	313	shinsu:T11:T11n0313	阿閦佛國經	아촉불국경	Translation by Lokakṣema
+tibetan:kangyur:KL00053E	D53	28	314	shinsu:T11:T11n0314	大乘十法經	대승십법경	Translation by Saṅghabhadra
+tibetan:kangyur:KL00054E	D54	29	315		普門品經	보문품경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00056E	D56	1487	316	shinsu:T11:T11n0316	大乘菩薩藏正法經	대승보살장정법경	Translation by Dharmaraksa
+tibetan:kangyur:KL00058E	D58	30	317	shinsu:T11:T11n0317	胞胎經	포태경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00059E	D59	31	318	shinsu:T11:T11n0318	文殊師利佛土嚴淨經	문수사리불토엄정경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00059E	D59	1341	319	shinsu:T11:T11n0319	大聖文殊師利菩薩佛刹功德莊嚴經	대성문수사리보살불찰공덕장엄경	Translation by Amoghavajra
+tibetan:kangyur:KL00060E	D60	1496	320	shinsu:T11:T11n0320	父子合集經	부자합집경	Translation by Jih-ch’eng and Dharmarakṣa
+tibetan:kangyur:KL00062E	D62	1206	321	shinsu:T12:T12n0321	護國尊者所問大乘經	호국존자소문대승경	Translation by Dānapāla
+tibetan:kangyur:KL00063E	D63	32	322	shinsu:T12:T12n0322	法鏡經	법경경	Translation by An Hsüan
+tibetan:kangyur:KL00063E	D63	33	323	shinsu:T12:T12n0323	郁迦羅越問菩薩行經	욱가라월문보살행경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00065E	D65	34	324	shinsu:T12:T12n0324	幻士仁賢經	환사인현경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00068E	D68	35	325	shinsu:T12:T12n0325	決定毘尼經	결정비니경	
+tibetan:kangyur:KL00068E	D68	1303	326	shinsu:T12:T12n0326	三十五佛名禮懺文	삼십오불명예참문	Translation by Amoghavajra
+tibetan:kangyur:KL00069E	D69	37	327	shinsu:T12:T12n0327	發覺淨心經	발각정심경	Translation by Jñānagupta
+tibetan:kangyur:KL00071E	D71	362	329	shinsu:T12:T12n0329	須賴經	수뢰경	Translation by Chih-shih-lun (?) (支施崙)
+tibetan:kangyur:KL00072E	D72	369	330	shinsu:T12:T12n0330	菩薩修行經	보살수행경	Translation by Po Fa-tzu
+tibetan:kangyur:KL00072E	D72	1468	331	shinsu:T12:T12n0331	無畏授所問大乘經	무외수소문대승경	Translation by Dānapāla
+tibetan:kangyur:KL00073E	D73	38	332	shinsu:T12:T12n0332	優塡王經	우진왕경	Translation by Fa-chü
+tibetan:kangyur:KL00073E	D73	1100	333	shinsu:T12:T12n0333	大乘日子王所問經	대승일자왕소문경	Translation by Fa-t’ien
+tibetan:kangyur:KL00074E	D74	36	336	shinsu:T12:T12n0336	須摩提經	수마제경	Translation by Bodhiruci
+tibetan:kangyur:KL00074E	D74	39	334	shinsu:T12:T12n0334	須摩提菩薩經	수마제보살경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00076E	D76	40	337	shinsu:T12:T12n0337	阿闍貰王女阿術達菩薩經	아사세왕녀아술달보살경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00077E	D77	41	338	shinsu:T12:T12n0338	離垢施女經	이구시녀경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00077E	D77	42	339	shinsu:T12:T12n0339	得無垢女經	득무구녀경	Translation by Gautama Prajñāruci
+tibetan:kangyur:KL00079E	D79	43	340	shinsu:T12:T12n0340	文殊師利所說不思議佛境界經	문수사리소설부사의불경계경	Translation by Bodhiruci
+tibetan:kangyur:KL00080E	D80	44	342	shinsu:T12:T12n0342	如幻三昧經	여환삼매경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00080E	D80	45	341	shinsu:T12:T12n0341	聖善住意天子所問經	성선주의천자소문경	Translation by Prajñāruci
+tibetan:kangyur:KL00081E	D81	46	343	shinsu:T12:T12n0343	太子刷護經	태자쇄호경	Translated by Dharmarakṣa
+tibetan:kangyur:KL00081E	D81	47	344	shinsu:T12:T12n0344	太子和休經	태자화휴경	
+tibetan:kangyur:KL00082E	D82	48	345	shinsu:T12:T12n0345	慧上菩薩問大善權經	혜상보살문대선권경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00082E	D82	1424	346	shinsu:T12:T12n0346	大方廣善巧方便經	대방광선교방편경	Translation by Dānapāla
+tibetan:kangyur:KL00083E	D83	49	347	shinsu:T12:T12n0347	大乘顯識經	대승현식경	Translation by Divākara
+tibetan:kangyur:KL00085E	D85	50	348	shinsu:T12:T12n0348	大乘方等要慧經	대승방등요혜경	Translation by An Shih-kao
+tibetan:kangyur:KL00086E	D86	51	349	shinsu:T12:T12n0349	彌勒菩薩所問本願經	미륵보살소문본원경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00087E	D87	52	350	shinsu:T12:T12n0350	遺日摩尼寶經	유일마니보경	Translation by Lokakṣema
+tibetan:kangyur:KL00087E	D87	53	351	shinsu:T12:T12n0351	摩訶衍寶嚴經	마하연보엄경	
+tibetan:kangyur:KL00087E	D87	1123	352	shinsu:T12:T12n0352	大迦葉問大寶積正法經	대가섭문대보적정법경	Translation by Dānapāla
+tibetan:kangyur:KL00092E	D92	54	353	shinsu:T12:T12n0353	勝鬘師子吼一乘大方便方廣經	승만사자후일승대방편방광경	Translation by Guṇabhadra
+tibetan:kangyur:KL00093E	D93	22	310	shinsu:T11:T11n0310	大寶積經	대보적경	Translation by Bodhiruci
+tibetan:kangyur:KL00093E	D93	55	354	shinsu:T12:T12n0354	毘耶娑問經	비야사문경	Translation by Gautama Prajñāruci
+tibetan:kangyur:KL00094E	D94	387	425	shinsu:T14:T14n0425	賢劫經	현겁경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00095E	D95	111	187	shinsu:T03:T03n0187	方廣大莊嚴經	방광대장엄경	Translation by Divākara
+tibetan:kangyur:KL00095E	D95	112	186	shinsu:T03:T03n0186	普曜經	보요경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00096E	D96	186	817	shinsu:T17:T17n0817	大淨法門經	대정법문경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00096E	D96	187	818	shinsu:T17:T17n0818	大莊嚴法門經	대장엄법문경	Translation by Narendrayaśas
+tibetan:kangyur:KL00097E	D97	463	589	shinsu:T15:T15n0589	魔逆經	마역경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00098E	D98	458	1375	shinsu:T21:T21n1375	莊嚴王陀羅尼呪經	장엄왕다라니주경	Translation by I-ching
+tibetan:kangyur:KL00100E	D100	188	357	shinsu:T12:T12n0357	如來莊嚴智慧光明入一切佛境界經	여래장엄지혜광명입일체불경계경	Translation by Dharmaruci
+tibetan:kangyur:KL00100E	D100	189	358	shinsu:T12:T12n0358	度一切諸佛境界智嚴經	도일체제불경계지엄경	Translation by Saṅghabhara
+tibetan:kangyur:KL00100E	D100	1489	359	shinsu:T12:T12n0359	大乘入諸佛境界智光明莊嚴經	대승입제불경계지광명장엄경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00101E	D101	396	657	shinsu:T16:T16n0657	華手經	화수경	Translation by Kumārajīva
+tibetan:kangyur:KL00102E	D102	398	423	shinsu:T13:T13n0423	僧伽吒經	승가타경	Translation by Upaśūnya
+tibetan:kangyur:KL00102E	D102	1412	424	shinsu:T13:T13n0424	大集會正法經	대집회정법경	Translation by Dānapāla
+tibetan:kangyur:KL00103E	D103	381	484	shinsu:T14:T14n0484	不思議光菩薩所說經	부사의광보살소설경	Translation by Kumārajīva
+tibetan:kangyur:KL00104E	D104	79	278	shinsu:T09:T09n0278	大方廣佛華嚴經	대방광불화엄경	Translation by Buddhabhadra
+tibetan:kangyur:KL00104E	D104	80	279	shinsu:T10:T10n0279	大方廣佛華嚴經	대방광불화엄경	Translation by Śikṣānanda
+tibetan:kangyur:KL00104E	D104	101	289	shinsu:T10:T10n0289	顯無邊佛土功德經	현무변불토공덕경	Translation by Hsüan-tsang
+tibetan:kangyur:KL00104E	D104	1217	290	shinsu:T10:T10n0290	較量一切佛刹功德經	교량일체불찰공덕경	Translation by Fa-hsien
+tibetan:kangyur:KL00105E	D105	497	486	shinsu:T14:T14n0486	師子莊嚴王菩薩請問經	사자장엄왕보살청문경	Translation by Nadi
+tibetan:kangyur:KL00106E	D106	153	675	shinsu:T16:T16n0675	深密解脫經	심밀해탈경	Translation by Bodhiruci
+tibetan:kangyur:KL00106E	D106	154	676	shinsu:T16:T16n0676	解深密經	해심밀경	Translation by Hsüan-tsang
+tibetan:kangyur:KL00106E	D106	155	677	shinsu:T16:T16n0677	解節經	해절경	Translation by Paramārtha
+tibetan:kangyur:KL00106E	D106	156	678	shinsu:T16:T16n0678	相續解脫地波羅蜜了義經	상속해탈지바라밀요의경	Translation by Guṇabhadra
+tibetan:kangyur:KL00107E	D107	159	670	shinsu:T16:T16n0670	楞伽阿跋多羅寶經	능가아발다라보경	Translation by Gunabhadra
+tibetan:kangyur:KL00107E	D107	160	671	shinsu:T16:T16n0671	入楞伽經	입능가경	Translation by Bodhiruci
+tibetan:kangyur:KL00107E	D107	161	672	shinsu:T16:T16n0672	大乘入楞伽經	대승입능가경	Translation by Śikṣānanda
+tibetan:kangyur:KL00108E	D108	159	670	shinsu:T16:T16n0670	楞伽阿跋多羅寶經	능가아발다라보경	Translation by Gunabhadra
+tibetan:kangyur:KL00108E	D108	160	671	shinsu:T16:T16n0671	入楞伽經	입능가경	Translation by Bodhiruci
+tibetan:kangyur:KL00108E	D108	161	672	shinsu:T16:T16n0672	大乘入楞伽經	대승입능가경	Translation by Śikṣānanda
+tibetan:kangyur:KL00109E	D109	222	464	shinsu:T14:T14n0464	文殊師利問菩提經	문수사리문보리경	Translation by Kumārajīva
+tibetan:kangyur:KL00109E	D109	223	465	shinsu:T14:T14n0465	伽耶山頂經	가야산정경	Translation by Bodhiruci
+tibetan:kangyur:KL00109E	D109	224	466	shinsu:T14:T14n0466	象頭精舍經	상두정사경	Translation by Vinitaruci
+tibetan:kangyur:KL00109E	D109	225	467	shinsu:T14:T14n0467	大乘伽耶山頂經	대승가야산정경	Translation by Bodhiruci
+tibetan:kangyur:KL00110E	D110	417	681	shinsu:T16:T16n0681	大乘密嚴經	대승밀엄경	Translation by Divākara
+tibetan:kangyur:KL00110E	D110	1344	682	shinsu:T16:T16n0682	大乘密嚴經	대승밀엄경	Translation by Amoghavajra (see K.1272).
+tibetan:kangyur:KL00111E	D111	110	380	shinsu:T12:T12n0380	大悲經	대비경	Translation by Narendrayaśas
+tibetan:kangyur:KL00112E	D112	125	158	shinsu:T03:T03n0158	大乘悲分陀利經	대승비분다리경	
+tibetan:kangyur:KL00112E	D112	126	157	shinsu:T03:T03n0157	悲華經	비화경	Translation by Dharmakṣema
+tibetan:kangyur:KL00113E	D113	116	262	shinsu:T09:T09n0262	妙法蓮華經	묘법연화경	Translation by Kumārajīva
+tibetan:kangyur:KL00113E	D113	117	263	shinsu:T09:T09n0263	正法華經	정법화경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00113E	D113	118	264	shinsu:T09:T09n0264	添品妙法蓮華經	첨품묘법연화경	Translation by Jñānagupta and Dharmagupta
+tibetan:kangyur:KL00114E	D114	455	1374	shinsu:T21:T21n1374	一切功德莊嚴王經	일체공덕장엄왕경	Translation by I-ching
+tibetan:kangyur:KL00115E	D115	192	366	shinsu:T12:T12n0366	阿彌陀經	아미타경	Translation by Kumārajīva
+tibetan:kangyur:KL00115E	D115	193	367	shinsu:T12:T12n0367	稱讚淨土佛攝受經	칭찬정토불섭수경	Translation by Hsüan-tsang
+tibetan:kangyur:KL00116E	D116	1088	1050	shinsu:T20:T20n1050	大乘莊嚴寶王經	대승장엄보왕경	Translation by T’ien Hsi-tsai
+tibetan:kangyur:KL00117E	D117	149	461	shinsu:T14:T14n0461	文殊師利現寶藏經	문수사리현보장경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00117E	D117	150	462	shinsu:T14:T14n0462	大方廣寶篋經	대방광보협경	Translation by Guṇabhadra
+tibetan:kangyur:KL00118E	D118	240	356	shinsu:T12:T12n0356	寶積三昧文殊師利菩薩問法身經	보적삼매문수사리보살문법신경	Translation by An Shih-kao
+tibetan:kangyur:KL00118E	D118	241	355	shinsu:T12:T12n0355	入法界體性經	입법계체성경	Translation by Jñānagupta
+tibetan:kangyur:KL00119E	D119	105	374	shinsu:T12:T12n0374	大般涅槃經	대반열반경	Translation by Dharmakṣema
+tibetan:kangyur:KL00119E	D119	107	377	shinsu:T12:T12n0377	大般涅槃經後分	대반열반경후분	Translation by Jñānabhadra
+tibetan:kangyur:KL00120E	D120	105	374	shinsu:T12:T12n0374	大般涅槃經	대반열반경	Translation by Dharmakṣema
+tibetan:kangyur:KL00120E	D120	106	376	shinsu:T12:T12n0376	大般泥洹經	대반니원경	Translation by Fa-hsien
+tibetan:kangyur:KL00120E	D120	1403	375	shinsu:T12:T12n0375	大般涅槃經	대반열반경	
+tibetan:kangyur:KL00121E	D121	483	390	shinsu:T12:T12n0390	佛臨涅槃記法住經	불림열반기법주경	Translation by Hsüan-tsang
+tibetan:kangyur:KL00123E	D123	529	653	shinsu:T15:T15n0653	佛藏經	불장경	Translation by Kumārajīva
+tibetan:kangyur:KL00127E	D127	181	639	shinsu:T15:T15n0639	月燈三昧經	월등삼매경	Translation by Narendrayaśas
+tibetan:kangyur:KL00127E	D127	182	640	shinsu:T15:T15n0640	月燈三昧經	월등삼매경	Translation by Hsien-kung
+tibetan:kangyur:KL00127E	D127	183	641	shinsu:T15:T15n0641	月燈三昧經	월등삼매경	Translation by Hsien-kung
+tibetan:kangyur:KL00129E	D129	482	648	shinsu:T15:T15n0648	寂照神變三摩地經	적조신변삼마지경	Translation by Hsüan-tsang
+tibetan:kangyur:KL00130E	D130	376	371	shinsu:T12:T12n0371	觀世音菩薩授記經	관세음보살수기경	Translation by T'an Wu-chieh
+tibetan:kangyur:KL00130E	D130	1450	372	shinsu:T12:T12n0372	如幻三摩地無量印法門經	여환삼마지무량인법문경	Translation by Dānapāla
+tibetan:kangyur:KL00131E	D131	172	632	shinsu:T15:T15n0632	慧印三昧經	혜인삼매경	Translation by Chih Ch’ien
+tibetan:kangyur:KL00131E	D131	173	633	shinsu:T15:T15n0633	如來智印經	여래지인경	
+tibetan:kangyur:KL00132E	D132	378	642	shinsu:T15:T15n0642	首楞嚴三昧經	수능엄삼매경	Translation by Kumārajīva
+tibetan:kangyur:KL00133E	D133	66	416	shinsu:T13:T13n0416	大方等大集經賢護分	대방등대집경현호분	Translation by Jñānagupta
+tibetan:kangyur:KL00133E	D133	67	418	shinsu:T13:T13n0418	般舟三昧經	반주삼매경	Translation by Lokakṣema
+tibetan:kangyur:KL00133E	D133	68	417	shinsu:T13:T13n0417	般舟三昧經	반주삼매경	Translation by Lokakṣema
+tibetan:kangyur:KL00133E	D133	69	419	shinsu:T13:T13n0419	拔陂菩薩經	발피보살경	
+tibetan:kangyur:KL00134E	D134	140	381	shinsu:T12:T12n0381	等集衆德三昧經	등집중덕삼매경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00134E	D134	141	382	shinsu:T12:T12n0382	集一切福德三昧經	집일체복덕삼매경	Translation by Kumārajīva
+tibetan:kangyur:KL00135E	D135	521	273	shinsu:T09:T09n0273	金剛三昧經	금강삼매경	
+tibetan:kangyur:KL00136E	D136	108	378	shinsu:T12:T12n0378	方等般泥洹經	방등반니원경	Translation by Dharmaraksa
+tibetan:kangyur:KL00136E	D136	109	379	shinsu:T12:T12n0379	四童子三昧經	사동자삼매경	Translation by Jñānagupta
+tibetan:kangyur:KL00138E	D138	56	397	shinsu:T13:T13n0397	大方等大集經	대방등대집경	Translation by Dharmakṣema, Chih-yen, Pao-yün and Narendra-yaśas
+tibetan:kangyur:KL00138E	D138	78	402	shinsu:T13:T13n0402	寶星陀羅尼經	보성다라니경	Translation by Prabhāmitra
+tibetan:kangyur:KL00139E	D139	336	1344	shinsu:T21:T21n1344	金剛上味陀羅尼經	금강상미다라니경	Translation by Buddhasānta
+tibetan:kangyur:KL00139E	D139	337	1345	shinsu:T21:T21n1345	金剛場陀羅尼經	금강장다라니경	Translation by Jñānagupta
+tibetan:kangyur:KL00140E	D140	324	1011	shinsu:T19:T19n1011	無量門微密持經	무량문미밀지경	Translation by Chih Ch’ien
+tibetan:kangyur:KL00140E	D140	325	1012	shinsu:T19:T19n1012	出生無量門持經	출생무량문지경	Translation by Buddhabhadra
+tibetan:kangyur:KL00140E	D140	326	1014	shinsu:T19:T19n1014	無量門破魔陀羅尼經	무량문파마다라니경	Translation by Kung Te-chih
+tibetan:kangyur:KL00140E	D140	327	1013	shinsu:T19:T19n1013	阿難陀目佉尼訶離陀經	아난다목구니하이타경	Translation by Gunabhadra
+tibetan:kangyur:KL00140E	D140	328	1015	shinsu:T19:T19n1015	阿難陀目佉尼訶離陀隣尼經	아난다목구니하이다린니경	Translation by Buddhasānta
+tibetan:kangyur:KL00140E	D140	329	1016	shinsu:T19:T19n1016	舍利弗陀羅尼經	사리불다라니경	Translation by Sanghabhara (Sanghavarman?)
+tibetan:kangyur:KL00140E	D140	330	1017	shinsu:T19:T19n1017	一向出生菩薩經	일향출생보살경	Translation by Jñānagupta
+tibetan:kangyur:KL00140E	D140	331	1018	shinsu:T19:T19n1018	出生無邊門陀羅尼經	출생무변문다라니경	Translation by Chih-yen
+tibetan:kangyur:KL00140E	D140	1279	1009	shinsu:T19:T19n1009	出生無邊門陀羅尼經	출생무변문다라니경	Translation by Amoghavajra
+tibetan:kangyur:KL00141E	D141	447	1360	shinsu:T21:T21n1360	六門陀羅尼經	육문다라니경	Translation by Hsüan-tsang
+tibetan:kangyur:KL00142E	D142	1438	654	shinsu:T15:T15n0654	入無分別法門經	입무분별법문경	Translation by Dānapāla
+tibetan:kangyur:KL00145E	D145	1095	299	shinsu:T10:T10n0299	大方廣總持寶光明經	대방광총지보광명경	Translation by Fa-t’ien
+tibetan:kangyur:KL00146E	D146	162	271	shinsu:T09:T09n0271	菩薩行方便境界神通變化經	보살행방편경계신통변화경	Translation by Guṇabhadra
+tibetan:kangyur:KL00146E	D146	163	272	shinsu:T09:T09n0272	大薩遮尼乾子所說經	대살차니건자소설경	Translation by Bodhiruci
+tibetan:kangyur:KL00147E	D147	56	397	shinsu:T13:T13n0397	大方等大集經	대방등대집경	Translation by Dharmakṣema, Chih-yen, Pao-yün and Narendra-yaśas
+tibetan:kangyur:KL00147E	D147	59	397	shinsu:T13:T13n0397	大乘大集經	대승대집경	Translation by Narendrayaśas
+tibetan:kangyur:KL00147E	D147	72	398	shinsu:T13:T13n0398	大哀經	대애경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00148E	D148	56	397	shinsu:T13:T13n0397	大方等大集經	대방등대집경	Translation by Dharmakṣema, Chih-yen, Pao-yün and Narendra-yaśas
+tibetan:kangyur:KL00148E	D148	59	397	shinsu:T13:T13n0397	大乘大集經	대승대집경	Translation by Narendrayaśas
+tibetan:kangyur:KL00148E	D148	1339	404	shinsu:T13:T13n0404	大集大虛空藏菩薩所問經	대집대허공장보살소문경	Translation by Amoghavajra
+tibetan:kangyur:KL00152E	D152	56	397	shinsu:T13:T13n0397	大方等大集經	대방등대집경	Translation by Dharmakṣema, Chih-yen, Pao-yün and Narendra-yaśas
+tibetan:kangyur:KL00152E	D152	1481	400	shinsu:T13:T13n0400	海意菩薩所問淨印法門經	해의보살소문정인법문경	Translation by Wei-ching and Dharmarakṣa
+tibetan:kangyur:KL00153E	D153	377	598	shinsu:T15:T15n0598	海龍王經	해룡왕경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00154E	D154	1140	601	shinsu:T15:T15n0601	佛爲娑伽羅龍王所說大乘經	불위사가라용왕소설대승경	Translation by Dānapāla
+tibetan:kangyur:KL00155E	D155	495	599	shinsu:T15:T15n0599	佛爲海龍王說法印經	불위해룡왕설법인경	Translation by I-ching
+tibetan:kangyur:KL00156E	D156	407	635	shinsu:T15:T15n0635	弘道廣顯三昧經	홍도광현삼매경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00157E	D157	129	624	shinsu:T15:T15n0624	伅眞陀羅所問如來三昧經	둔진다라소문여래삼매경	Translation by Lokakṣema
+tibetan:kangyur:KL00157E	D157	130	625	shinsu:T15:T15n0625	大樹緊那羅王所問經	대수긴나라왕소문경	Translation by Kumārajīva
+tibetan:kangyur:KL00160E	D160	142	585	shinsu:T15:T15n0585	持心梵天所問經	지심범천소문경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00160E	D160	143	586	shinsu:T15:T15n0586	思益梵天所問經	사익범천소문경	Translation by Kumārajīva
+tibetan:kangyur:KL00160E	D160	144	587	shinsu:T15:T15n0587	勝思惟梵天所問經	승사유범천소문경	Translation by Bodhiruci
+tibetan:kangyur:KL00161E	D161	372	588	shinsu:T15:T15n0588	須眞天子經	수진천자경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00163E	D163	354	433	shinsu:T14:T14n0433	寶網經	보망경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00164E	D164	1145	437	shinsu:T14:T14n0437	大乘寶月童子問法經	대승보월동자문법경	Translation by Dānapāla
+tibetan:kangyur:KL00165E	D165	359	533	shinsu:T14:T14n0533	菩薩生地經	보살생지경	Translation by Chih Ch’ien
+tibetan:kangyur:KL00167E	D167	75	420	shinsu:T13:T13n0420	自在王菩薩經	자재왕보살경	Translation by Kumārajīva
+tibetan:kangyur:KL00167E	D167	76	421	shinsu:T13:T13n0421	奮迅王問經	분신왕문경	Translation by Gautama Prajñāruci
+tibetan:kangyur:KL00169E	D169	74	399	shinsu:T13:T13n0399	寶女所問經	보녀소문경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00170E	D170	356	567	shinsu:T14:T14n0567	梵志女首意經	범지녀수의경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00170E	D170	489	568	shinsu:T14:T14n0568	有德女所問大乘經	유덕녀소문대승경	Translation by Bodhiruci
+tibetan:kangyur:KL00171E	D171	216	559	shinsu:T14:T14n0559	老女人經	노여인경	Translation by Chih Ch'ien
+tibetan:kangyur:KL00171E	D171	217	561	shinsu:T14:T14n0561	老母經	노모경	
+tibetan:kangyur:KL00171E	D171	218	560	shinsu:T14:T14n0560	老母女六英經	노모녀육영경	Translation by Guṇabhadra
+tibetan:kangyur:KL00172E	D172	244	661	shinsu:T16:T16n0661	大乘百福相經	대승백복상경	Translation by Divākara
+tibetan:kangyur:KL00172E	D172	245	662	shinsu:T16:T16n0662	大乘百福莊嚴相經	대승백복장엄상경	Translation by Divākara
+tibetan:kangyur:KL00172E	D172	1211	473	shinsu:T14:T14n0473	妙吉祥菩薩所問大乘法螺經	묘길상보살소문대승법라경	Translated by Fa-hsien
+tibetan:kangyur:KL00173E	D173	1128	846	shinsu:T17:T17n0846	外道問聖大乘法無我義經	외도문성대승법무아의경	Translation by Fa-t'ien
+tibetan:kangyur:KL00173E	D173	1492	1643	shinsu:T32:T32n1643	尼乾子問無我義經	니건자문무아의경	Translation by Jih-ch’eng and Dharmarakṣa
+tibetan:kangyur:KL00174E	D174	145	481	shinsu:T14:T14n0481	持人菩薩經	지인보살경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00174E	D174	146	482	shinsu:T14:T14n0482	持世經	지세경	Translation by Kumārajīva
+tibetan:kangyur:KL00175E	D175	70	403	shinsu:T13:T13n0403	阿差末菩薩經	아차말보살경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00175E	D175	71	397	shinsu:T13:T13n0397	無盡意菩薩經	무진의보살경	Translation by Chih-yen and Pao-yün
+tibetan:kangyur:KL00176E	D176	119	475	shinsu:T14:T14n0475	維摩詰所說經	유마힐소설경	Translation by Kumārajīva
+tibetan:kangyur:KL00176E	D176	120	474	shinsu:T14:T14n0474	維摩詰經	유마힐경	Translation by Chih-ch'ien
+tibetan:kangyur:KL00176E	D176	121	476	shinsu:T14:T14n0476	說無垢稱經	설무구칭경	Translation by Hsüan Tsang
+tibetan:kangyur:KL00176E	D176	122	477	shinsu:T14:T14n0477	大方等頂王經	대방등정왕경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00176E	D176	123	478	shinsu:T14:T14n0478	大乘頂王經	대승정왕경	Translation by Upaśūnya
+tibetan:kangyur:KL00176E	D176	124	479	shinsu:T14:T14n0479	善思童子經	선사동자경	Translation by Jñānagupta
+tibetan:kangyur:KL00177E	D177	485	774	shinsu:T17:T17n0774	大乘四法經	대승사법경	Translation by Śikṣānanda
+tibetan:kangyur:KL00178E	D178	1099	472	shinsu:T14:T14n0472	大乘善見變化文殊師利問法經	대승선견변화문수사리문법경	Translation by T’ien Hsi-tsai
+tibetan:kangyur:KL00179E	D179	537	460	shinsu:T14:T14n0460	文殊師利淨律經	문수사리정률경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00179E	D179	539	1489	shinsu:T24:T24n1489	清淨毘尼方廣經	청정비니방광경	Translation by Kumārajīva
+tibetan:kangyur:KL00179E	D179	540	1490	shinsu:T24:T24n1490	寂調音所問經	적조음소문경	Translation by Fa-hai
+tibetan:kangyur:KL00180E	D180	168	650	shinsu:T15:T15n0650	諸法無行經	제법무행경	Translation by Kumārajīva
+tibetan:kangyur:KL00180E	D180	169	651	shinsu:T15:T15n0651	諸法本無經	제법본무경	Translation by Jñānagupta
+tibetan:kangyur:KL00183E	D183	1176	705	shinsu:T16:T16n0705	布施經	보시경	Translation by Fa-hsien
+tibetan:kangyur:KL00184	D184	1227	488	shinsu:T14:T14n0488	寶授菩薩菩提行經	보수보살보리행경	Translation by Fa-hsien
+tibetan:kangyur:KL00184E	D184	1227	488	shinsu:T14:T14n0488	寶授菩薩菩提行經	보수보살보리행경	Translation by Fa-hsien
+tibetan:kangyur:KL00185	D185	82	303	shinsu:T10:T10n0303	佛華嚴入如來德智不思議境界經	불화엄입여래덕지부사의경계경	Translation by Jñānagupta
+tibetan:kangyur:KL00185	D185	85	302	shinsu:T10:T10n0302	度諸佛境界智光嚴經	도제불경계지광엄경	
+tibetan:kangyur:KL00185	D185	86	304	shinsu:T10:T10n0304	大方廣入如來智德不思議經	대방광입여래지덕부사의경	Translation by Śikṣānanda
+tibetan:kangyur:KL00185E	D185	82	303	shinsu:T10:T10n0303	佛華嚴入如來德智不思議境界經	불화엄입여래덕지부사의경계경	Translation by Jñānagupta
+tibetan:kangyur:KL00185E	D185	85	302	shinsu:T10:T10n0302	度諸佛境界智光嚴經	도제불경계지광엄경	
+tibetan:kangyur:KL00185E	D185	86	304	shinsu:T10:T10n0304	大方廣入如來智德不思議經	대방광입여래지덕부사의경	Translation by Śikṣānanda
+tibetan:kangyur:KL00187	D187	79	278	shinsu:T09:T09n0278	大方廣佛華嚴經	대방광불화엄경	Translation by Buddhabhadra
+tibetan:kangyur:KL00187	D187	80	279	shinsu:T10:T10n0279	大方廣佛華嚴經	대방광불화엄경	Translation by Śikṣānanda
+tibetan:kangyur:KL00187E	D187	79	278	shinsu:T09:T09n0278	大方廣佛華嚴經	대방광불화엄경	Translation by Buddhabhadra
+tibetan:kangyur:KL00187E	D187	80	279	shinsu:T10:T10n0279	大方廣佛華嚴經	대방광불화엄경	Translation by Śikṣānanda
+tibetan:kangyur:KL00190	D190	204	565	shinsu:T14:T14n0565	順權方便經	순권방편경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00190	D190	205	566	shinsu:T14:T14n0566	樂瓔珞莊嚴方便品經	낙영락장엄방편품경	Translation by Dharmayaśas
+tibetan:kangyur:KL00190E	D190	204	565	shinsu:T14:T14n0565	順權方便經	순권방편경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00190E	D190	205	566	shinsu:T14:T14n0566	樂瓔珞莊嚴方便品經	낙영락장엄방편품경	Translation by Dharmayaśas
+tibetan:kangyur:KL00191	D191	415	480	shinsu:T14:T14n0480	月上女經	월상녀경	Translation by Jñānagupta
+tibetan:kangyur:KL00191E	D191	415	480	shinsu:T14:T14n0480	月上女經	월상녀경	Translation by Jñānagupta
+tibetan:kangyur:KL00192	D192	492	573	shinsu:T14:T14n0573	差摩婆帝授記經	차마파제수기경	Translation by Bodhiruci
+tibetan:kangyur:KL00192E	D192	492	573	shinsu:T14:T14n0573	差摩婆帝授記經	차마파제수기경	Translation by Bodhiruci
+tibetan:kangyur:KL00196	D196	265	470	shinsu:T14:T14n0470	文殊師利巡行經	문수사리순행경	Translation by Bodhiruci
+tibetan:kangyur:KL00196	D196	267	471	shinsu:T14:T14n0471	文殊尸利行經	문수시리행경	Translation by Tou-na-chüeh-to
+tibetan:kangyur:KL00196E	D196	265	470	shinsu:T14:T14n0470	文殊師利巡行經	문수사리순행경	Translation by Bodhiruci
+tibetan:kangyur:KL00196E	D196	267	471	shinsu:T14:T14n0471	文殊尸利行經	문수시리행경	Translation by Tou-na-chüeh-to
+tibetan:kangyur:KL00199	D199	194	452	shinsu:T14:T14n0452	觀彌勒菩薩上生兜率天經	관미륵보살상생도솔천경	Translation by Chü-ch'ü Ching-sheng
+tibetan:kangyur:KL00199E	D199	194	452	shinsu:T14:T14n0452	觀彌勒菩薩上生兜率天經	관미륵보살상생도솔천경	Translation by Chü-ch'ü Ching-sheng
+tibetan:kangyur:KL00200	D200	361	807	shinsu:T17:T17n0807	內藏百寶經	내장백보경	Translation by Lokakṣema
+tibetan:kangyur:KL00200E	D200	361	807	shinsu:T17:T17n0807	內藏百寶經	내장백보경	Translation by Lokakṣema
+tibetan:kangyur:KL00201	D201	81	305	shinsu:T10:T10n0305	信力入印法門經	신력입인법문경	Translation by Dharmaruci
+tibetan:kangyur:KL00202	D202	138	645	shinsu:T15:T15n0645	不必定入定入印經	불필정입정입인경	Translation by Gautama Prajñāruci
+tibetan:kangyur:KL00202	D202	139	646	shinsu:T15:T15n0646	入定不定印經	입정부정인경	Translation by I-ching
+tibetan:kangyur:KL00204	D204	408	702	shinsu:T16:T16n0702	施燈功德經	시등공덕경	Translation by Narendrayaśas
+tibetan:kangyur:KL00207	D207	184	813	shinsu:T17:T17n0813	無希望經	무희망경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00207	D207	185	814	shinsu:T17:T17n0814	象腋經	상액경	Translation by Dharmamitra
+tibetan:kangyur:KL00209	D209	242	835	shinsu:T17:T17n0835	如來師子吼經	여래사자후경	Translation by Buddhasānta
+tibetan:kangyur:KL00209	D209	243	836	shinsu:T17:T17n0836	大方廣師子吼經	대방광사자후경	Translation by Divākara
+tibetan:kangyur:KL00210	D210	268	708	shinsu:T16:T16n0708	了本生死經	요본생사경	Translation by Chih Ch’ien
+tibetan:kangyur:KL00210	D210	272	709	shinsu:T16:T16n0709	稻芋經	도우경	
+tibetan:kangyur:KL00210	D210	1191	711	shinsu:T16:T16n0711	大乘舍黎娑擔摩經	대승사려사담마경	Translation by Dānapāla
+tibetan:kangyur:KL00210	D210	1297	710	shinsu:T16:T16n0710	慈氏菩薩所說大乘緣生稻幹喻經	자시보살소설대승연생도간유경	Translation by Amoghavajra
+tibetan:kangyur:KL00211	D211	650	99	shinsu:T02:T02n0099	雜阿含經	잡아함경	Translation by Guṇabhadra
+tibetan:kangyur:KL00211	D211	736	124	shinsu:T02:T02n0124	緣起經	연기경	Translation by Hsüan-tsang
+tibetan:kangyur:KL00211	D211	746a	123	shinsu:T02:T02n0123	放牛經	방우경	Translation by Kumārajīva
+tibetan:kangyur:KL00213	D213	410	120	shinsu:T02:T02n0120	央掘魔羅經	앙굴마라경	Translation by Guṇabhadra
+tibetan:kangyur:KL00213	D213	650	99	shinsu:T02:T02n0099	雜阿含經	잡아함경	Translation by Guṇabhadra
+tibetan:kangyur:KL00213	D213	651	100	shinsu:T02:T02n0100	別譯雜阿含經	별역잡아함경	
+tibetan:kangyur:KL00213	D213	708	118	shinsu:T02:T02n0118	鴦掘摩經	앙굴마경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00213	D213	727	119	shinsu:T02:T02n0119	鴦掘摩經	앙굴계경	Translation by Fa-chü
+tibetan:kangyur:KL00216	D216	175	627	shinsu:T15:T15n0627	文殊支利普超三昧經	문수사리보초삼매경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00216	D216	179	626	shinsu:T15:T15n0626	阿闍世王經	아사세왕경	Translation by Lokakṣema
+tibetan:kangyur:KL00216	D216	180	629	shinsu:T15:T15n0629	放鉢經	방발경	
+tibetan:kangyur:KL00216	D216	1408	628	shinsu:T15:T15n0628	未曾有正法經	미증유정법경	Translation by Fa-t’ien
+tibetan:kangyur:KL00217	D217	221	545	shinsu:T14:T14n0545	德護長者經	덕호장자경	Translation by Narendrayaśas
+tibetan:kangyur:KL00218	D218	525	1494	shinsu:T24:T24n1494	淨業障經	정업장경	
+tibetan:kangyur:KL00219	D219	541	1493	shinsu:T24:T24n1493	大乘三聚懺悔經	대승삼취참회경	Translation by Jñānagupta and Dharmagupta
+tibetan:kangyur:KL00219	D219	543	1491	shinsu:T24:T24n1491	菩薩藏經	보살장경	Translation by Saṅghabhara
+tibetan:kangyur:KL00220	D220	529	653	shinsu:T15:T15n0653	佛藏經	불장경	Translation by Kumārajīva
+tibetan:kangyur:KL00221	D221	258	515	shinsu:T14:T14n0515	如來示教勝軍王經	여래시교승군왕경	Translation by Hsüan-tsang
+tibetan:kangyur:KL00221	D221	260	514	shinsu:T14:T14n0514	諫王經	간왕경	Translation by Chü-ch'ü-ching-sheng
+tibetan:kangyur:KL00221	D221	261	593	shinsu:T15:T15n0593	佛爲勝光天子說王法經	불위승광천자설왕법경	Translation by I-ching
+tibetan:kangyur:KL00221	D221	1417	516	shinsu:T14:T14n0516	勝軍王所問經	승군왕소문경	Translation by Dānapāla
+tibetan:kangyur:KL00222	D222	416	270	shinsu:T09:T09n0270	大法鼓經	대법고경	Translation by Guṇabhadra
+tibetan:kangyur:KL00226	D226	264	575	shinsu:T14:T14n0575	大方等修多羅王經	대방등수다라왕경	Translation by Bodhiruci
+tibetan:kangyur:KL00226	D226	266	576	shinsu:T14:T14n0576	轉有經	전유경	Translation by Buddhasānta
+tibetan:kangyur:KL00226	D226	494	577	shinsu:T14:T14n0577	大乘流轉諸有經	대승유전제유경	Translation by I-ching
+tibetan:kangyur:KL00227	D227	147	274	shinsu:T09:T09n0274	濟諸方等學經	제제방등학경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00227	D227	148	275	shinsu:T09:T09n0275	大乘方廣總持經	대승방광총지경	Translation by Vinītaruci
+tibetan:kangyur:KL00228	D228	384	810	shinsu:T17:T17n0810	諸佛要集經	제불요집경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00230	D230	56	397	shinsu:T13:T13n0397	大方等大集經	대방등대집경	Translation by Dharmakṣema, Chih-yen, Pao-yün and Narendra-yaśas
+tibetan:kangyur:KL00230	D230	59	397	shinsu:T13:T13n0397	大乘大集經	대승대집경	Translation by Narendrayaśas
+tibetan:kangyur:KL00231	D231	133	660	shinsu:T16:T16n0660	寶雨經	보우경	Translation by Dharmaruci
+tibetan:kangyur:KL00231	D231	134	658	shinsu:T16:T16n0658	寶雲經	보운경	Translation by Mandra[sena]
+tibetan:kangyur:KL00231	D231	1476	489	shinsu:T14:T14n0489	除蓋障菩薩所問經	제개장보살소문경	Translation by Dharmarakṣa and Wei-ching
+tibetan:kangyur:KL00232	D232	164	387	shinsu:T12:T12n0387	大方等無想經	대방등무상경	Translation by Dharmakṣema
+tibetan:kangyur:KL00235	D235	165	993	shinsu:T19:T19n0993	大雲經請雨品第六十四	대운경청우품제육십사	Translation by Jñānayaśas
+tibetan:kangyur:KL00235	D235	166	991	shinsu:T19:T19n0991	大雲輪請雨經	대운륜청우경	Translation by Narendrayaśas
+tibetan:kangyur:KL00235	D235	167	992	shinsu:T19:T19n0992	大方等大雲經請雨品第六十四	대방등대운경청우품제육십사	Translation by Jñānayaśas
+tibetan:kangyur:KL00235	D235	1294	989	shinsu:T19:T19n0989	大雲輪請雨經	대운륜청우경	Translation by Amoghavajra
+tibetan:kangyur:KL00236	D236	426	945	shinsu:T19:T19n0945	大佛頂如來密因修證了義諸菩薩萬行首楞嚴經	대불정여래밀인수증요의제보살만행수능엄경	Translation by Pāramiti
+tibetan:kangyur:KL00238	D238	404	761	shinsu:T17:T17n0761	法集經	법집경	Translation by Bodhiruci
+tibetan:kangyur:KL00239	D239	57	411	shinsu:T13:T13n0411	大乘大集地藏十輪經	대승대집지장십륜경	Translation by Hsüan-tsang
+tibetan:kangyur:KL00239	D239	58	410	shinsu:T13:T13n0410	大方廣十輪經	대방광십륜경	
+tibetan:kangyur:KL00240	D240	135	266	shinsu:T09:T09n0266	阿惟越致遮經	아유월치차경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00240	D240	136	268	shinsu:T09:T09n0268	廣博嚴淨不退轉輪經	광박엄정불퇴전륜경	Translation by Chih-yen
+tibetan:kangyur:KL00240	D240	137	267	shinsu:T09:T09n0267	不退轉法輪經	불퇴전법륜경	
+tibetan:kangyur:KL00242	D242	1387	998	shinsu:T19:T19n0998	迴向輪經	회향륜경	Translation by Śīladharma
+tibetan:kangyur:KL00246	D246	202	833	shinsu:T17:T17n0833	第一義法勝經	제일의법승경	Translation by Gautama Prajñāruci
+tibetan:kangyur:KL00246	D246	203	834	shinsu:T17:T17n0834	大威燈光仙人問疑經	대위등광선인문의경	Translation by Jñānagupta
+tibetan:kangyur:KL00251	D251	246	772	shinsu:T17:T17n0772	大乘四法經	대승사법경	Translation by Divākara
+tibetan:kangyur:KL00251	D251	247	773	shinsu:T17:T17n0773	菩薩修行四法經	보살수행사법경	Translation by Divākara
+tibetan:kangyur:KL00252	D252	485	774	shinsu:T17:T17n0774	大乘四法經	대승사법경	Translation by Śikṣānanda
+tibetan:kangyur:KL00256	D256	527	1484	shinsu:T24:T24n1484	梵網經盧舍那佛說菩薩心地戒品第十	범망경노사나불설보살심지계품제십	Translation by Kumārajīva
+tibetan:kangyur:KL00257	D257	56	397	shinsu:T13:T13n0397	大方等大集經	대방등대집경	Translation by Dharmakṣema, Chih-yen, Pao-yün and Narendra-yaśas
+tibetan:kangyur:KL00258	D258	360	666	shinsu:T16:T16n0666	大方等如來藏經	대방등여래장경	Translation by Buddhabhadra
+tibetan:kangyur:KL00258	D258	1359	667	shinsu:T16:T16n0667	大方廣如來藏經	대방광여래장경	Translation by Amoghavajra
+tibetan:kangyur:KL00259	D259	213	828	shinsu:T17:T17n0828	無字寶篋經	무자보협경	Translation by Bodhiruci
+tibetan:kangyur:KL00259	D259	214	829	shinsu:T17:T17n0829	大乘離文字普光明藏經	대승이문자보광명장경	Translation by Divākara
+tibetan:kangyur:KL00259	D259	215	830	shinsu:T17:T17n0830	大乘遍照光明藏無字法門經	대승변조광명장무자법문경	Translation by Divākara
+tibetan:kangyur:KL00260	D260	61	408	shinsu:T13:T13n0408	虛空孕菩薩經	허공잉보살경	Translation by Jñānagupta
+tibetan:kangyur:KL00260	D260	62	405	shinsu:T13:T13n0405	虛空藏菩薩經	허공장보살경	Translation by Buddhayaśas
+tibetan:kangyur:KL00260	D260	63	407	shinsu:T13:T13n0407	虛空藏菩薩神呪經	허공장보살신주경	Translation by Dharmamitra
+tibetan:kangyur:KL00261	D261	48	345	shinsu:T12:T12n0345	慧上菩薩問大善權經	혜상보살문대선권경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00261	D261	1424	346	shinsu:T12:T12n0346	大方廣善巧方便經	대방광선교방편경	Translation by Dānapāla
+tibetan:kangyur:KL00262	D262	394	443	shinsu:T14:T14n0443	五千五百佛名神呪除障滅罪經	오천오백불명신주제장멸죄경	Translation by Jñānagupta
+tibetan:kangyur:KL00266	D266	371	434	shinsu:T14:T14n0434	稱揚諸佛功德經	칭양제불공덕경	Translation by Kiṁkārya
+tibetan:kangyur:KL00269	D269	464	435	shinsu:T14:T14n0435	滅十方冥經	멸시방명경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00270	D270	338	1334	shinsu:T21:T21n1334	如來方便善巧咒經	여래방편선교주경	Translation by Jñānagupta
+tibetan:kangyur:KL00270	D270	346	1333	shinsu:T21:T21n1333	虛空藏菩薩問七佛陀羅尼呪經	허공장보살문칠불다라니주경	
+tibetan:kangyur:KL00270	D270	1106	1147	shinsu:T20:T20n1147	聖虛空藏菩薩陀羅尼經	성허공장보살다라니경	Translation by Fa-t’ien
+tibetan:kangyur:KL00271	D271	271	427	shinsu:T14:T14n0427	八吉祥神呪經	팔길상신주경	Translation by Chih Ch’ien
+tibetan:kangyur:KL00271	D271	276	428	shinsu:T14:T14n0428	八陽神呪經	팔양신주경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00271	D271	282	431	shinsu:T14:T14n0431	八佛名號經	팔불명호경	Translation by Jñānagupta
+tibetan:kangyur:KL00271	D271	286	430	shinsu:T14:T14n0430	八吉祥經	팔길상경	Translation by Sanghabhara
+tibetan:kangyur:KL00273	D273	301	1348	shinsu:T21:T21n1348	十二佛名神呪校量功德除障滅罪經	십이불명신주교량공덕제장멸죄경	Translation by Jñānagupta
+tibetan:kangyur:KL00273	D273	302	1349	shinsu:T21:T21n1349	稱讚如來功德神呪經	칭찬여래공덕신주경	Translation by I-ching
+tibetan:kangyur:KL00274	D274	1479	438	shinsu:T14:T14n0438	大乘大方廣佛冠經	대승대방광불관경	Translation by Dharmarakṣa and others
+tibetan:kangyur:KL00275	D275	460	680	shinsu:T16:T16n0680	佛地經	불지경	Translation by Hsüan-tsang
+tibetan:kangyur:KL00276	D276	238	811	shinsu:T17:T17n0811	決定總持經	결정총지경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00276	D276	239	831	shinsu:T17:T17n0831	謗佛經	방불경	Translation by Bodhiruci
+tibetan:kangyur:KL00277	D277	282	431	shinsu:T14:T14n0431	八佛名號經	팔불명호경	Translation by Jñānagupta
+tibetan:kangyur:KL00277	D277	286	430	shinsu:T14:T14n0430	八吉祥經	팔길상경	Translation by Sanghabhara
+tibetan:kangyur:KL00278	D278	493	429	shinsu:T14:T14n0429	八部佛名經	팔부불명경	Translation by Gautama Prajñāruci
+tibetan:kangyur:KL00287E	D287	801	721	shinsu:T17:T17n0721	正法念處經	정법염처경	Translation by Gautama Prajñāruci
+tibetan:kangyur:KL00289	D289	648	26	shinsu:T01:T01n0026	中阿含經	중아함경	Translation by Gautama Saṅghadeva
+tibetan:kangyur:KL00289	D289	1243	41	shinsu:T01:T01n0041	頻婆娑羅王經	빈바사라왕경	Translation by Fa-hsien
+tibetan:kangyur:KL00292	D292	650	99	shinsu:T02:T02n0099	雜阿含經	잡아함경	Translation by Guṇabhadra
+tibetan:kangyur:KL00293	D293	650	99	shinsu:T02:T02n0099	雜阿含經	잡아함경	Translation by Guṇabhadra
+tibetan:kangyur:KL00297	D297	1254	776	shinsu:T17:T17n0776	四品法門經	사품법문경	Translation by Fa-hsien
+tibetan:kangyur:KL00300	D300	650	99	shinsu:T02:T02n0099	雜阿含經	잡아함경	Translation by Guṇabhadra
+tibetan:kangyur:KL00307	D307	1105	759	shinsu:T17:T17n0759	較量壽命經	교량수명경	Translation by T’ien Hsi-tsai
+tibetan:kangyur:KL00309	D309	870	801	shinsu:T17:T17n0801	無常經	무상경	Translation by I-ching
+tibetan:kangyur:KL00310	D310	1112	758	shinsu:T17:T17n0758	諸行有爲經	제행유위경	Translation by Fa-t'ien
+tibetan:kangyur:KL00313	D313	459	1362	shinsu:T21:T21n1362	善夜經	선야경	Translation by I-ching
+tibetan:kangyur:KL00316	D316	650	99	shinsu:T02:T02n0099	雜阿含經	잡아함경	Translation by Guṇabhadra
+tibetan:kangyur:KL00317	D317	1250	762	shinsu:T17:T17n0762	決定義經	결정의경	Translation by Fa-hsien
+tibetan:kangyur:KL00318	D318	717	98	shinsu:T01:T01n0098	普法義經	보법의경	Translation by An Shih-kao
+tibetan:kangyur:KL00318	D318	725	97	shinsu:T01:T01n0097	廣義法門經	광의법문경	Translation by Paramārtha
+tibetan:kangyur:KL00319	D319	236	689	shinsu:T16:T16n0689	甚希有經	심희유경	Translation by Hsüan Tsang
+tibetan:kangyur:KL00319	D319	237	688	shinsu:T16:T16n0688	未曾有經	미증유경	
+tibetan:kangyur:KL00321	D321	486	700	shinsu:T16:T16n0700	右繞佛塔功德經	우요불탑공덕경	Translation by Śikṣānanda
+tibetan:kangyur:KL00326	D326	982	212	shinsu:T04:T04n0212	出曜經	출요경	Translated by (Chu) Fu-nien
+tibetan:kangyur:KL00326	D326	1020	211	shinsu:T04:T04n0211	法句譬喻經	법구비유경	Translation by Fa-chü and Fa-li
+tibetan:kangyur:KL00326	D326	1021	210	shinsu:T04:T04n0210	法句經	법구경	Translated by Vighna, etc.
+tibetan:kangyur:KL00326	D326	1119	213	shinsu:T04:T04n0213	法集要頌經	법집요송경	Translation by T’ien Hsi-tsai
+tibetan:kangyur:KL00329	D329	881	592	shinsu:T15:T15n0592	天請問經	천청문경	Translation by Hsüan-tsang
+tibetan:kangyur:KL00330	D330	650	99	shinsu:T02:T02n0099	雜阿含經	잡아함경	Translation by Guṇabhadra
+tibetan:kangyur:KL00331	D331	650	99	shinsu:T02:T02n0099	雜阿含經	잡아함경	Translation by Guṇabhadra
+tibetan:kangyur:KL00331	D331	651	100	shinsu:T02:T02n0100	別譯雜阿含經	별역잡아함경	
+tibetan:kangyur:KL00332	D332	1101	704	shinsu:T16:T16n0704	樓閣正法甘露鼓經	누각정법감로고경	Translation by T’ien Hsi-tsai
+tibetan:kangyur:KL00335	D335	793	785	shinsu:T17:T17n0785	得道梯橙錫杖經	득도제등석장경	
+tibetan:kangyur:KL00336	D336	650	99	shinsu:T02:T02n0099	雜阿含經	잡아함경	Translation by Guṇabhadra
+tibetan:kangyur:KL00336	D336	793	785	shinsu:T17:T17n0785	得道梯橙錫杖經	득도제등석장경	
+tibetan:kangyur:KL00337	D337	650	99	shinsu:T02:T02n0099	雜阿含經	잡아함경	Translation by Guṇabhadra
+tibetan:kangyur:KL00337	D337	730	110	shinsu:T02:T02n0110	三轉法輪經	삼전법륜경	Translation by I-ching
+tibetan:kangyur:KL00337	D337	741	109	shinsu:T02:T02n0109	轉法輪經	전법륜경	Translation by An Shih-kao
+tibetan:kangyur:KL00338	D338	695	79	shinsu:T01:T01n0079	鸚鵡經	앵무경	Translation by Guṇabhadra
+tibetan:kangyur:KL00338	D338	701	78	shinsu:T01:T01n0078	兜調經	도조경	
+tibetan:kangyur:KL00338	D338	805	80	shinsu:T01:T01n0080	佛為首迦長者說業報差別經	불위수가장자설업보차별경	Translation by Gautama Dharma-prajña
+tibetan:kangyur:KL00338	D338	1098	81	shinsu:T01:T01n0081	分別善惡報應經	분별선악보응경	Translation by T’ien Hsi-tsai
+tibetan:kangyur:KL00339	D339	695	79	shinsu:T01:T01n0079	鸚鵡經	앵무경	Translation by Guṇabhadra
+tibetan:kangyur:KL00339	D339	701	78	shinsu:T01:T01n0078	兜調經	도조경	
+tibetan:kangyur:KL00339	D339	1098	81	shinsu:T01:T01n0081	分別善惡報應經	분별선악보응경	Translation by T’ien Hsi-tsai
+tibetan:kangyur:KL00340	D341	983	202	shinsu:T04:T04n0202	賢愚經	현우경	Translated by Hui-chiao
+tibetan:kangyur:KL00341	D341	983	202	shinsu:T04:T04n0202	賢愚經	현우경	Translated by Hui-chiao
+tibetan:kangyur:KL00342	D342	869	584	shinsu:T14:T14n0584	長爪梵志請問經	장조범지청문경	Translation by I-ching
+tibetan:kangyur:KL00343	D343	981	200	shinsu:T04:T04n0200	撰集百緣經	찬집백연경	Translated by Chih Ch’ien
+tibetan:kangyur:KL00345	D345	1111	595	shinsu:T15:T15n0595	嗟韈曩法天子受三歸依獲免惡道經	차말랑법천자수삼귀의획면악도경	Translation by Fa-t'ien
+tibetan:kangyur:KL00347	D347	1467	173	shinsu:T03:T03n0173	福力太子因緣經	복력태자인연경	Translation by Dānapāla
+tibetan:kangyur:KL00348	D348	988	153	shinsu:T03:T03n0153	菩薩本緣經	보살본연경	Translated by Chih Ch’ien
+tibetan:kangyur:KL00348	D348	1173	166	shinsu:T03:T03n0166	月光菩薩經	월광보살경	Translation by Fa-hsien
+tibetan:kangyur:KL00350	D350	370	162	shinsu:T03:T03n0162	金色王經	금색왕경	Translation by Gautama Prajñāruci
+tibetan:kangyur:KL00351	D351	206	152	shinsu:T03:T03n0152	六度集經	육도집경	Translation by K’ang Seng-hui
+tibetan:kangyur:KL00351	D351	207	171	shinsu:T03:T03n0171	太子須大拏經	태자수대나경	Translation by Sheng-chien
+tibetan:kangyur:KL00352	D352	659	21	shinsu:T01:T01n0021	梵網六十二見經	범망육십이견경	Translation by Chih-ch'ien
+tibetan:kangyur:KL00353	D353	402	156	shinsu:T03:T03n0156	大方便佛報恩經	대방편불보은경	
+tibetan:kangyur:KL00358	D358	764	1301	shinsu:T21:T21n1301	舍頭諫太子二十八宿經	사두간태자이십팔숙경	Translation by Dharmarakṣa
+tibetan:kangyur:KL00358	D358	766	1300	shinsu:T21:T21n1300	摩登伽經	마등가경	Translation by Chu Lü-yen and Chih-ch’ien
+tibetan:kangyur:KL00360	D360	1419	1187	shinsu:T20:T20n1187	最勝妙吉祥根本智最上秘密一切名義三摩地分	최승묘길상근본지최상비밀일체명의삼마지분	Translation by Dānapāla
+tibetan:kangyur:KL00466	D466	1220	890	shinsu:T18:T18n0890	瑜伽大教王經	유가대교왕경	Translation by Fa-hsien
+tibetan:kangyur:KL00479	D479	429	866	shinsu:T18:T18n0866	金剛頂瑜伽中略出念誦經	금강정유가중략출염송경	Translation by Vajrabodhi
+tibetan:kangyur:KL00479	D479	1274	865	shinsu:T18:T18n0865	金剛頂一切如來眞實攝大乘現證大教王經	금강정일체여래진실섭대승현증대교왕경	Translation by Amoghavajra
+tibetan:kangyur:KL00479	D479	1466	882	shinsu:T18:T18n0882	一切如來眞實攝大乘現證三昧大敎王經	일체여래진실섭대승현증삼매대교왕경	Translation by Dānapāla
+tibetan:kangyur:KL00481	D481	1452	888	shinsu:T18:T18n0888	一切秘密最上名義大教王儀軌	일체비밀최상명의대교왕의궤	Translation by Dānapāla
+tibetan:kangyur:KL00482	D482	1280	1171	shinsu:T20:T20n1171	金剛頂經瑜伽文殊師利菩薩法	금강정경유가문수사리보살법	Translation by Amoghavajra
+tibetan:kangyur:KL00482	D482	1350	1172	shinsu:T20:T20n1172	金剛頂超勝三界經說文殊五字眞言勝相	금강정초승삼계경설문수오자진언승상	Translation by Amoghavajra
+tibetan:kangyur:KL00487	D487	18	240	shinsu:T08:T08n0240	實相般若波羅蜜經	실상반야바라밀경	Translation by Bodhiruci
+tibetan:kangyur:KL00487	D487	1189	242	shinsu:T08:T08n0242	偏照般若波羅蜜經	변조반야바라밀경	Translation by Dānapāla
+tibetan:kangyur:KL00487	D487	1256	244	shinsu:T08:T08n0244	最上根本大樂金剛不空三昧大教王經	최상근본대락금강불공삼매대교왕경	Translation by Fa-hsien
+tibetan:kangyur:KL00487	D487	1275	243	shinsu:T08:T08n0243	大樂金剛不空眞實三摩耶經	대락금강불공진실삼마야경	Translation by Amoghavajra
+tibetan:kangyur:KL00488	D488	1256	244	shinsu:T08:T08n0244	最上根本大樂金剛不空三昧大教王經	최상근본대락금강불공삼매대교왕경	Translation by Fa-hsien
+tibetan:kangyur:KL00489	D489	18	240	shinsu:T08:T08n0240	實相般若波羅蜜經	실상반야바라밀경	Translation by Bodhiruci
+tibetan:kangyur:KL00489	D489	1189	242	shinsu:T08:T08n0242	偏照般若波羅蜜經	변조반야바라밀경	Translation by Dānapāla
+tibetan:kangyur:KL00489	D489	1256	244	shinsu:T08:T08n0244	最上根本大樂金剛不空三昧大教王經	최상근본대락금강불공삼매대교왕경	Translation by Fa-hsien
+tibetan:kangyur:KL00489	D489	1275	243	shinsu:T08:T08n0243	大樂金剛不空眞實三摩耶經	대락금강불공진실삼마야경	Translation by Amoghavajra
+tibetan:kangyur:KL00490	D490	1442	886	shinsu:T18:T18n0886	金剛場莊嚴般若波羅蜜多教中一分	금강장장엄반야바라밀다교중일분	Translation by Dānapāla
+tibetan:kangyur:KL00494	D494	427	848	shinsu:T18:T18n0848	大毘盧遮那成佛神變加持經	대비로차나성불신변가지경	Translation by Śubhakarasiṃha and I Hsing
+tibetan:kangyur:KL00503	D503	174	1331	shinsu:T21:T21n1331	灌頂七萬二千神王護比丘呪經	관정칠만이천신왕호비구주경	Translation by Śrīmitra
+tibetan:kangyur:KL00503	D503	176	449	shinsu:T14:T14n0449	藥師如來本願經	약사여래본원경	Translation by Dharmagupta
+tibetan:kangyur:KL00503	D503	177	450	shinsu:T14:T14n0450	藥師琉璃光如來本願功德經	약사유리광여래본원공덕경	Translation by Hsüan-tsang
+tibetan:kangyur:KL00503	D503	178	451	shinsu:T14:T14n0451	藥師琉璃光七佛本願功德經	약사유리광칠불본원공덕경	Translation by I-ching
+tibetan:kangyur:KL00504	D504	174	1331	shinsu:T21:T21n1331	灌頂七萬二千神王護比丘呪經	관정칠만이천신왕호비구주경	Translation by Śrīmitra
+tibetan:kangyur:KL00504	D504	176	449	shinsu:T14:T14n0449	藥師如來本願經	약사여래본원경	Translation by Dharmagupta
+tibetan:kangyur:KL00504	D504	177	450	shinsu:T14:T14n0450	藥師琉璃光如來本願功德經	약사유리광여래본원공덕경	Translation by Hsüan-tsang
+tibetan:kangyur:KL00504	D504	178	451	shinsu:T14:T14n0451	藥師琉璃光七佛本願功德經	약사유리광칠불본원공덕경	Translation by I-ching
+tibetan:kangyur:KL00506	D506	422	1006	shinsu:T19:T19n1006	廣大寶樓閣善住秘密陀羅尼經	광대보루각선주비밀다라니경	Translation by Bodhiruci
+tibetan:kangyur:KL00506	D506	430	1007	shinsu:T19:T19n1007	牟梨曼陀羅呪經	모리만다라주경	
+tibetan:kangyur:KL00506	D506	1298	1005a	shinsu:T19:T19n1005A	大寶廣博樓閣善住秘密陀羅尼經	대보광박누각선주비밀다라니경	Translation by Amoghavajra
+tibetan:kangyur:KL00507	D507	1113	1023	shinsu:T19:T19n1023	一切如來正法祕密篋印心陀羅尼經	일체여래정법비밀협인심다라니경	Translation by Dānapāla
+tibetan:kangyur:KL00507	D507	1287	1022a	shinsu:T19:T19n1022A	一切如來心祕密全身舍利寶篋印陀羅尼經	일체여래심비밀전신사리보협인다라니경	Translation by Amoghavajra
+tibetan:kangyur:KL00508	D508	1299	1008	shinsu:T19:T19n1008	菩提場莊嚴陀羅尼經	보리장장엄다라니경	Translation by Amoghavajra
+tibetan:kangyur:KL00516	D516	339	1358	shinsu:T21:T21n1358	花聚陀羅尼咒經	화취다라니주경	
+tibetan:kangyur:KL00516	D516	340	1357	shinsu:T21:T21n1357	師子奮迅菩薩所問經	사자분신보살소문경	
+tibetan:kangyur:KL00516	D516	344	1356	shinsu:T21:T21n1356	華積陀羅尼神呪經	화적다라니신주경	Translation by Chih-ch'ien
+tibetan:kangyur:KL00516	D516	1159	1359	shinsu:T21:T21n1359	花積樓閣陀羅尼經	화적루각다라니경	Translation by Dānapāla
+tibetan:kangyur:KL00526	D526	447	1360	shinsu:T21:T21n1360	六門陀羅尼經	육문다라니경	Translation by Hsüan-tsang
+tibetan:kangyur:KL00529	D529	1164	1371	shinsu:T21:T21n1371	聖大總持王經	성대총지왕경	Translation by Dānapāla
+tibetan:kangyur:KL00530	D530	1090	258	shinsu:T08:T08n0258	聖佛母小字般若波羅蜜多經	성불모소자반야바라밀다경	Translation by T’ien Hsi-tsai
+tibetan:kangyur:KL00531	D531	20	251	shinsu:T08:T08n0251	般若波羅蜜多心經	반야바라밀다심경	Translation by Hsüan-tsang
+tibetan:kangyur:KL00531	D531	21	250	shinsu:T08:T08n0250	摩訶般若波羅蜜大明呪經	마하반야바라밀대명주경	Translation by Kumārajīva
+tibetan:kangyur:KL00531	D531	1267	252	shinsu:T08:T08n0252	普遍智藏般若波羅蜜多心經	보변지장반야바라밀다심경	Translation by Dharmacandra
+tibetan:kangyur:KL00531	D531	1383	253	shinsu:T08:T08n0253	般若波羅蜜多心經	반야바라밀다심경	Translation by Prajña and Candra (?)
+tibetan:kangyur:KL00531	D531	1427	257	shinsu:T08:T08n0257	聖佛母般若波羅蜜多經	성불모반야바라밀다경	Translation by Dānapāla
+tibetan:kangyur:KL00543	D543	1138	1191	shinsu:T20:T20n1191	大方廣菩薩藏文殊師利根本儀軌經	대방광보살장문수사리근본의궤경	Translation by T’ien-hsi-tsai
+tibetan:kangyur:KL00553	D553	1455	230	shinsu:T08:T08n0230	聖八千頌般若波羅蜜多一百八名眞實圓義陀羅尼經	성팔천송반야바라밀다일백팔명진실원의다라니경	Translation by Dānapāla
+tibetan:kangyur:KL00554	D554	1190	249	shinsu:T08:T08n0249	帝釋般若波羅蜜多心經	제석반야바라밀다심경	Translation by Dānapāla
+tibetan:kangyur:KL00555	D555	127	665	shinsu:T16:T16n0665	金光明最勝王經	금광명최승왕경	Translation by I-Ching
+tibetan:kangyur:KL00555	D555	128	664	shinsu:T16:T16n0664	合部金光明經	합부금광명경	
+tibetan:kangyur:KL00555	D555	1465	663	shinsu:T16:T16n0663	金光明經	금광명경	Translation by Dharmakṣema
+tibetan:kangyur:KL00556	D556	127	665	shinsu:T16:T16n0665	金光明最勝王經	금광명최승왕경	Translation by I-Ching
+tibetan:kangyur:KL00556	D556	128	664	shinsu:T16:T16n0664	合部金光明經	합부금광명경	
+tibetan:kangyur:KL00556	D556	1465	663	shinsu:T16:T16n0663	金光明經	금광명경	Translation by Dharmakṣema
+tibetan:kangyur:KL00557	D557	127	665	shinsu:T16:T16n0665	金光明最勝王經	금광명최승왕경	Translation by I-Ching
+tibetan:kangyur:KL00557	D557	128	664	shinsu:T16:T16n0664	合部金光明經	합부금광명경	
+tibetan:kangyur:KL00557	D557	1465	663	shinsu:T16:T16n0663	金光明經	금광명경	Translation by Dharmakṣema
+tibetan:kangyur:KL00558	D558	1096	999	shinsu:T19:T19n0999	守護大千國土經	수호대천국토경	Translation by Dānapāla
+tibetan:kangyur:KL00559	D559	303	985	shinsu:T19:T19n0985	大孔雀呪王經	대공작주왕경	Translation by I-ching
+tibetan:kangyur:KL00559	D559	304	988	shinsu:T19:T19n0988	孔雀王呪經	공작왕주경	Translation by Kumārajīva
+tibetan:kangyur:KL00559	D559	305	986	shinsu:T19:T19n0986	大金色孔雀王呪經	대금색공작왕주경	
+tibetan:kangyur:KL00559	D559	306	987	shinsu:T19:T19n0987	大金色孔雀王呪經	대금색공작왕주경	
+tibetan:kangyur:KL00559	D559	307	984	shinsu:T19:T19n0984	孔雀王呪經	공작왕주경	Translation by Sanghabhara
+tibetan:kangyur:KL00559	D559	1293	982	shinsu:T19:T19n0982	佛母大孔雀明王經	불모대공작명왕경	Translation by Amoghavajra
+tibetan:kangyur:KL00559	D559	1375	983a	shinsu:T19:T19n0983A	大孔雀明王畫像壇場儀軌	대공작명왕화상단장의궤	Translation by Amoghavajra
+tibetan:kangyur:KL00561	D561	454	1154	shinsu:T20:T20n1154	隨求即得大自在陀羅尼神呪經	수구즉득대자재다라니신주경	Translation by Ratnacinta
+tibetan:kangyur:KL00561	D561	1349	1153	shinsu:T20:T20n1153	普遍光明清淨熾盛如意寶印心無能勝大明王大隨求陀羅尼經	보편광명청정치성여의보인심무능승대명왕대수구다라니경	Translation by Amoghavajra
+tibetan:kangyur:KL00564	D564	311	1256	shinsu:T21:T21n1256	摩利支天陀羅尼呪經	마리지천다라니주경	
+tibetan:kangyur:KL00564	D564	1156	1257	shinsu:T21:T21n1257	大摩里支菩薩經	대마리지보살경	Translation by T’ien Hsi-tsai
+tibetan:kangyur:KL00564	D564	1354	1255		摩利支天菩薩陀羅尼經	마리지천보살다라니경	Translation by Amoghavajra
+tibetan:kangyur:KL00564	D564	1377	1254	shinsu:T21:T21n1254	末利支提婆華鬘經	말리지제바화만경	Translation by Amoghavajra
+tibetan:kangyur:KL00565	D565	1156	1257	shinsu:T21:T21n1257	大摩里支菩薩經	대마리지보살경	Translation by T’ien Hsi-tsai
+tibetan:kangyur:KL00566	D566	1156	1257	shinsu:T21:T21n1257	大摩里支菩薩經	대마리지보살경	Translation by T’ien Hsi-tsai
+tibetan:kangyur:KL00570	D570	1166	1404	shinsu:T21:T21n1404	如意寶總持王經	여의보총지왕경	Translation by Dānapāla
+tibetan:kangyur:KL00571	D571	1296	1264		觀自在菩薩化身蘘虞哩曳童女銷伏毒害陀羅尼經	관자재보살화신양우이예동녀소복독해다라니경	Translation by Amoghavajra
+tibetan:kangyur:KL00575	D575	1170	1047	shinsu:T20:T20n1047	聖六字大明王陀羅尼經	성륙자대명왕다라니경	Translation by Dānapāla
+tibetan:kangyur:KL00594	D594	323	971	shinsu:T19:T19n0971	佛頂尊勝陀羅尼經	불정존승다라니경	Translation by I-ching
+tibetan:kangyur:KL00594	D594	1204	978	shinsu:T19:T19n0978	一切如來烏瑟膩沙最勝總持經	일체여래오슬니사최승총지경	Translation by Fa-t’ien
+tibetan:kangyur:KL00595	D595	1204	978	shinsu:T19:T19n0978	一切如來烏瑟膩沙最勝總持經	일체여래오슬니사최승총지경	Translation by Fa-t’ien
+tibetan:kangyur:KL00596	D596	1204	978	shinsu:T19:T19n0978	一切如來烏瑟膩沙最勝總持經	일체여래오슬니사최승총지경	Translation by Fa-t’ien
+tibetan:kangyur:KL00597	D597	1091	974a	shinsu:T19:T19n0974A	最勝佛頂陀羅尼經	최승불정다라니경	Translation by Fa-t’ien
+tibetan:kangyur:KL00598	D598	1204	978	shinsu:T19:T19n0978	一切如來烏瑟膩沙最勝總持經	일체여래오슬니사최승총지경	Translation by Fa-t’ien
+tibetan:kangyur:KL00612	D612	1093	943	shinsu:T19:T19n0943	無能勝幡王如來莊嚴陀羅尼經	무능승번왕여래장엄다라니경	Translation by Shih-hu
+tibetan:kangyur:KL00736	D736	1224e	1384	shinsu:T21:T21n1384	鉢蘭那賒嚩哩大陀羅尼經	발란나사박리대다라니경	Translation by Fa-hsien
+tibetan:kangyur:KL00852	D852	338	1334	shinsu:T21:T21n1334	如來方便善巧咒經	여래방편선교주경	Translation by Jñānagupta
+tibetan:kangyur:KL00852	D852	346	1333	shinsu:T21:T21n1333	虛空藏菩薩問七佛陀羅尼呪經	허공장보살문칠불다라니주경	
+tibetan:kangyur:KL00852	D852	1106	1147	shinsu:T20:T20n1147	聖虛空藏菩薩陀羅尼經	성허공장보살다라니경	Translation by Fa-t’ien
+tibetan:kangyur:KL00853	D853	301	1348	shinsu:T21:T21n1348	十二佛名神呪校量功德除障滅罪經	십이불명신주교량공덕제장멸죄경	Translation by Jñānagupta
+tibetan:kangyur:KL00853	D853	302	1349	shinsu:T21:T21n1349	稱讚如來功德神呪經	칭찬여래공덕신주경	Translation by I-ching
+tibetan:kangyur:KL00854	D854	444	918	shinsu:T19:T19n0918	諸佛心陀羅尼經	제불심다라니경	Translation by Hsüan-tsang
+tibetan:kangyur:KL00854	D854	1134	919	shinsu:T19:T19n0919	諸佛心印陀羅尼經	제불심인다라니경	Translation by Fa-t’ien
+tibetan:kangyur:KL00856	D856	475	1346	shinsu:T21:T21n1346	諸佛集會陀羅尼經	제불집회다라니경	Translation by Devaprajñā
+tibetan:kangyur:KL00856	D856	1114	1347	shinsu:T21:T21n1347	息除中夭陀羅尼經	식제중요다라니경	Translation by Dānapāla
+tibetan:kangyur:KL00858	D858	347	1351	shinsu:T21:T21n1351	持句神呪經	지구신주경	Translation by Chih-ch’ien
+tibetan:kangyur:KL00858	D858	348	1352	shinsu:T21:T21n1352	陀隣尼鉢經	다린니발경	Translation by (Chu) T’an-wu-lan
+tibetan:kangyur:KL00858	D858	349	1353	shinsu:T21:T21n1353	東方最勝燈王陀羅尼經	동방최승등왕다라니경	Translation by Jñānagupta
+tibetan:kangyur:KL00858	D858	350	1354	shinsu:T21:T21n1354	東方最勝燈王如來經	동방최승등왕여래경	Translation by Jñānagupta
+tibetan:kangyur:KL00858	D858	1108	1355	shinsu:T21:T21n1355	聖最上燈明如來陀羅尼經	성최상등명여래다라니경	Translation by Dānapāla
+tibetan:kangyur:KL00872	D872	1169	1408	shinsu:T21:T21n1408	最上意陀羅尼經	최상의다라니경	Translation by Dānapāla
+tibetan:kangyur:KL00872	D872	1188	1409	shinsu:T21:T21n1409	聖最勝陀羅尼經	성최승다라니경	Translation by Dānapāla
+tibetan:kangyur:KL00882	D882	1215	1168a	shinsu:T20:T20n1168A	大乘八大曼拏羅經	대승팔대만나라경	Translation by Fa-hsien
+tibetan:kangyur:KL00882	D882	1304	1167	shinsu:T20:T20n1167	八大菩薩曼荼羅經	팔대보살만도라경	Translation by Amoghavajra
+tibetan:kangyur:KL00989	D989	314	1077	shinsu:T20:T20n1077	七俱胝佛母心大准提陀羅尼經	칠구지불모심대준제다라니경	Translation by Divākara
+tibetan:kangyur:KL00989	D989	315	1075	shinsu:T20:T20n1075	七俱胝佛母准提大明陀羅尼經	칠구지불모준제대명다라니경	Translation by Vajrabodhi
+tibetan:kangyur:KL00989	D989	1338	1076	shinsu:T20:T20n1076	七俱胝佛母所說準提陀羅尼經	칠구지불모소설준제다라니경	Translation by Amoghavajra
+tibetan:kangyur:KX00319E	D319	236	689	shinsu:T16:T16n0689	甚希有經	심희유경	Translation by Hsüan Tsang
+tibetan:kangyur:KX00319E	D319	237	688	shinsu:T16:T16n0688	未曾有經	미증유경	
+tibetan:tengyur:TD01118E	D1118	1115	1675	shinsu:T32:T32n1675	讚法界頌	찬법계송	Translation by Dānapāla
+tibetan:tengyur:TD01123	D1123	1225	1678	shinsu:T32:T32n1678	佛三身讚	불삼신찬	Translation by Fa-hsien
+tibetan:tengyur:TD01133	D1133	1228a	1685	shinsu:T32:T32n1685	八大靈塔名號經	팔대영탑명호경	Translated by Fa-hsien
+tibetan:tengyur:TD01147	D1147	1024	1680	shinsu:T32:T32n1680	一百五十讚佛頌	일백오십찬불송	Translation by I-ching
+tibetan:tengyur:TD01149	D1149	1175	1683	shinsu:T32:T32n1683	揵稚梵讚	건치범찬	Translation by Fa-hsien
+tibetan:tengyur:TD01168	D1168	1228b	1684	shinsu:T32:T32n1684	八大靈塔梵讚	팔대영탑범찬	Translation by Fa-hsien
+tibetan:tengyur:TD03721	D3721	1493	1687	shinsu:T32:T32n1687	事師法五十頌	사사법오십송	Translation by Jih-ch’eng and Dharmarakṣa
+tibetan:tengyur:TD03809	D3809	1458	1518	shinsu:T25:T25n1518	佛母般若波羅蜜多圓集要義論	불모반야바라밀다원집요의론	Translation by Dānapāla
+tibetan:tengyur:TD03810	D3810	1459	1517	shinsu:T25:T25n1517	佛母般若波羅蜜多圓集要義釋論	불모반야바라밀다원집요의석론	Translation by Dānapāla
+tibetan:tengyur:TD03812	D3812	1478	1516	shinsu:T25:T25n1516	聖佛母般若波羅蜜多九頌精義論	성불모반야바라밀다구송정의론	Translation by Dharmarakṣa and others
+tibetan:tengyur:TD03813	D3813	1478	1516	shinsu:T25:T25n1516	聖佛母般若波羅蜜多九頌精義論	성불모반야바라밀다구송정의론	Translation by Dharmarakṣa and others
+tibetan:tengyur:TD03816	D3816	555	1510		金剛般若論	금강반야론	Translation by Dharmagupta
+tibetan:tengyur:TD03824	D3824	577	1564	shinsu:T30:T30n1564	中論	중론	Translation by Kumārajīva
+tibetan:tengyur:TD03825	D3825	1441	1575	shinsu:T30:T30n1575	六十頌如理論	육십송여리론	Translation by Dānapāla
+tibetan:tengyur:TD03828	D3828	630	1631	shinsu:T32:T32n1631	迴諍論	회쟁론	Translation by Vimokṣaprajñārṣi and Gautama Prajñāruci
+tibetan:tengyur:TD03832	D3832	630	1631	shinsu:T32:T32n1631	迴諍論	회쟁론	Translation by Vimokṣaprajñārṣi and Gautama Prajñāruci
+tibetan:tengyur:TD03833	D3833	1445	1576	shinsu:T30:T30n1576	大乘二十頌論	대승이십송론	Translation by Dānapāla
+tibetan:tengyur:TD03834	D3834	631	1572	shinsu:T30:T30n1572	百字論	백자론	Translation by Bodhiruci
+tibetan:tengyur:TD03835	D3835	631	1572	shinsu:T30:T30n1572	百字論	백자론	Translation by Bodhiruci
+tibetan:tengyur:TD03840	D3840	1433	1574	shinsu:T30:T30n1574	大乘破有論	대승파유론	Translation by Dānapāla
+tibetan:tengyur:TD03844	D3844	637	1621	shinsu:T31:T31n1621	掌中論	장중론	Translation by I-ching
+tibetan:tengyur:TD03844	D3844	643	1620	shinsu:T31:T31n1620	解捲論	해권론	Translation by Paramārtha
+tibetan:tengyur:TD03845	D3845	637	1621	shinsu:T31:T31n1621	掌中論	장중론	Translation by I-ching
+tibetan:tengyur:TD03845	D3845	643	1620	shinsu:T31:T31n1620	解捲論	해권론	Translation by Paramārtha
+tibetan:tengyur:TD03846	D3846	582	1570	shinsu:T30:T30n1570	廣百論本	광백론본	Translation by Hsüan-tsang
+tibetan:tengyur:TD03848	D3848	637	1621	shinsu:T31:T31n1621	掌中論	장중론	Translation by I-ching
+tibetan:tengyur:TD03848	D3848	643	1620	shinsu:T31:T31n1620	解捲論	해권론	Translation by Paramārtha
+tibetan:tengyur:TD03849	D3849	637	1621	shinsu:T31:T31n1621	掌中論	장중론	Translation by I-ching
+tibetan:tengyur:TD03849	D3849	643	1620	shinsu:T31:T31n1620	解捲論	해권론	Translation by Paramārtha
+tibetan:tengyur:TD03853	D3853	578	1566	shinsu:T30:T30n1566	般若燈論	반야등론	Translation by Prabhākaramitra
+tibetan:tengyur:TD03871	D3871	1121	1662	shinsu:T32:T32n1662	菩提行經	보리행경	Translation by T’ien Hsi-tsai
+tibetan:tengyur:TD03905	D3905	1435	1637	shinsu:T32:T32n1637	集大乘相論	집대승상론	Translation by Dānapāla
+tibetan:tengyur:TD03908	D3908	1458	1518	shinsu:T25:T25n1518	佛母般若波羅蜜多圓集要義論	불모반야바라밀다원집요의론	Translation by Dānapāla
+tibetan:tengyur:TD03913	D3913	1205	1663	shinsu:T32:T32n1663	菩提心觀釋	보리심관석	Translation by Fa-t’ien
+tibetan:tengyur:TD03915	D3915	1449	1664	shinsu:T32:T32n1664	廣釋菩提心論	광석보리심론	Translation by Dānapāla
+tibetan:tengyur:TD03932	D3932	57	411	shinsu:T13:T13n0411	大乘大集地藏十輪經	대승대집지장십륜경	Translation by Hsüan-tsang
+tibetan:tengyur:TD03932	D3932	58	410	shinsu:T13:T13n0410	大方廣十輪經	대방광십륜경	
+tibetan:tengyur:TD03934	D3934	1475	1635	shinsu:T32:T32n1635	大乘寶要義論	대승보요의론	Translation by Dharmarakṣa and others
+tibetan:tengyur:TD03939	D3939	1488	1636	shinsu:T32:T32n1636	大乘集菩薩學論	대승집보살학론	Translation by Jih-ch'eng and Dharmarakṣa
+tibetan:tengyur:TD03940	D3940	1488	1636	shinsu:T32:T32n1636	大乘集菩薩學論	대승집보살학론	Translation by Jih-ch'eng and Dharmarakṣa
+tibetan:tengyur:TD03941	D3941	1488	1636	shinsu:T32:T32n1636	大乘集菩薩學論	대승집보살학론	Translation by Jih-ch'eng and Dharmarakṣa
+tibetan:tengyur:TD03958	D3958	1491	727	shinsu:T17:T17n0727	十不善業道經	십불선업도경	Translation by Jih-ch’eng and Dharmarakṣa
+tibetan:tengyur:TD03991	D3991	560	1531	shinsu:T26:T26n1531	文殊師利菩薩問菩提經論	문수사리보살문보리경론	Translation by Bodhiruci
+tibetan:tengyur:TD03993	D3993	550	1522	shinsu:T26:T26n1522	十地經論	십지경론	Translation by Bodhiruci
+tibetan:tengyur:TD04009	D4009	552	1523	shinsu:T26:T26n1523	大寶積經論	대보적경론	Translation by Bodhiruci
+tibetan:tengyur:TD04020	D4020	586	1604	shinsu:T31:T31n1604	大乘莊嚴經論	대승장엄경론	Translation by Prabhākaramitra
+tibetan:tengyur:TD04021	D4021	599	1601	shinsu:T31:T31n1601	辨中邊論頌	변중변론송	Translation by Hsüan-tsang
+tibetan:tengyur:TD04024	D4024	600	1611	shinsu:T31:T31n1611	究竟一乘寶性論	구경일승보성론	Translation by Ratnamati
+tibetan:tengyur:TD04025	D4025	600	1611	shinsu:T31:T31n1611	究竟一乘寶性論	구경일승보성론	Translation by Ratnamati
+tibetan:tengyur:TD04026	D4026	586	1604	shinsu:T31:T31n1604	大乘莊嚴經論	대승장엄경론	Translation by Prabhākaramitra
+tibetan:tengyur:TD04027	D4027	597	1599	shinsu:T31:T31n1599	中邊分別論	중변분별론	Translation by Paramārtha
+tibetan:tengyur:TD04027	D4027	601	1600	shinsu:T31:T31n1600	辨中邊論	변중변론	Translation by Hsüan-tsang
+tibetan:tengyur:TD04035	D4035	570	1579	shinsu:T30:T30n1579	師伽瑜地論	유가사지론	Translation by Hsüan-tsang
+tibetan:tengyur:TD04036	D4036	570	1579	shinsu:T30:T30n1579	師伽瑜地論	유가사지론	Translation by Hsüan-tsang
+tibetan:tengyur:TD04037	D4037	523	1581	shinsu:T30:T30n1581	菩薩地持經	보살지지경	Translation by Dharmakṣema
+tibetan:tengyur:TD04037	D4037	524	1582	shinsu:T30:T30n1582	菩薩善戒經	보살선계경	Translation by Guṇavarman
+tibetan:tengyur:TD04037	D4037	570	1579	shinsu:T30:T30n1579	師伽瑜地論	유가사지론	Translation by Hsüan-tsang
+tibetan:tengyur:TD04038	D4038	570	1579	shinsu:T30:T30n1579	師伽瑜地論	유가사지론	Translation by Hsüan-tsang
+tibetan:tengyur:TD04039	D4039	570	1579	shinsu:T30:T30n1579	師伽瑜地論	유가사지론	Translation by Hsüan-tsang
+tibetan:tengyur:TD04042	D4042	570	1579	shinsu:T30:T30n1579	師伽瑜地論	유가사지론	Translation by Hsüan-tsang
+tibetan:tengyur:TD04048	D4048	588	1593	shinsu:T31:T31n1593	攝大乘論	섭대승론	Translation by Paramārtha
+tibetan:tengyur:TD04048	D4048	591	1592	shinsu:T31:T31n1592	攝大乘論	섭대승론	Translation by Buddhāśānta
+tibetan:tengyur:TD04048	D4048	592	1594	shinsu:T31:T31n1594	攝大乘論本	섭대승론본	Translation by Hsüan-tsang
+tibetan:tengyur:TD04049	D4049	572	1605	shinsu:T31:T31n1605	大乘阿毘達磨集論	대승아비달마집론	Translation by Hsüan-Tsang
+tibetan:tengyur:TD04050	D4050	590	1595	shinsu:T31:T31n1595	攝大乘論釋	섭대승론석	Translation by Paramārtha
+tibetan:tengyur:TD04050	D4050	593	1596	shinsu:T31:T31n1596	攝大乘論釋論	섭대승론석론	Translation by Dharmagupta
+tibetan:tengyur:TD04050	D4050	594	1597	shinsu:T31:T31n1597	攝大乘論釋	섭대승론석	Translation by Hsüan-tsang
+tibetan:tengyur:TD04051	D4051	595	1598	shinsu:T31:T31n1598	攝大乘論釋	섭대승론석	Translation by Hsüan-tsang
+tibetan:tengyur:TD04054	D4054	576	1606	shinsu:T31:T31n1606	大乘阿毘達磨雜集論	대승아비달마잡집론	Translation by Hsüan-tsang
+tibetan:tengyur:TD04055	D4055	609	1586	shinsu:T31:T31n1586	唯識三十論頌	유식삼십론송	Translation by Hsüan-tsang
+tibetan:tengyur:TD04055	D4055	612	1587	shinsu:T31:T31n1587	轉識論	전식론	Translation by Paramārtha
+tibetan:tengyur:TD04056	D4056	608	1590	shinsu:T31:T31n1590	唯識二十論	유식이십론	Translation by Hsüan-tsang
+tibetan:tengyur:TD04056	D4056	610	1589	shinsu:T31:T31n1589	大乘唯識論	대승유식론	Translation by Paramārtha
+tibetan:tengyur:TD04056	D4056	613	1588	shinsu:T31:T31n1588	唯識論	유식론	Translation by Gautama Prajñāruci
+tibetan:tengyur:TD04057	D4057	608	1590	shinsu:T31:T31n1590	唯識二十論	유식이십론	Translation by Hsüan-tsang
+tibetan:tengyur:TD04057	D4057	610	1589	shinsu:T31:T31n1589	大乘唯識論	대승유식론	Translation by Paramārtha
+tibetan:tengyur:TD04057	D4057	613	1588	shinsu:T31:T31n1588	唯識論	유식론	Translation by Gautama Prajñāruci
+tibetan:tengyur:TD04059	D4059	619	1612	shinsu:T31:T31n1612	大乘五蘊論	대승오온론	Translation by Hsüan-tsang
+tibetan:tengyur:TD04062	D4062	602	1608	shinsu:T31:T31n1608	業成就論	업성취론	Translation by Vimokṣaprajñā
+tibetan:tengyur:TD04062	D4062	603	1609	shinsu:T31:T31n1609	大乘成業論	대승성업론	Translation by Hsüan-tsang
+tibetan:tengyur:TD04063	D4063	644	1614	shinsu:T31:T31n1614	大乘百法明門論本事分中略錄名數	대승백법명문론본사분중약록명수	Translation by Hsüan-tsang
+tibetan:tengyur:TD04066	D4066	618	1613	shinsu:T31:T31n1613	大乘廣五蘊論	대승광오온론	Translation by Divākara
+tibetan:tengyur:TD04087	D4087	1484	1538	shinsu:T26:T26n1538	施設論	시설론	Translation by Dharmarakṣa and others
+tibetan:tengyur:TD04089	D4089	954	1560	shinsu:T29:T29n1560	阿毘達磨俱舍論本頌	아비달마구사론본송	Translation by Hsüan-tsang
+tibetan:tengyur:TD04090	D4090	953	1559	shinsu:T29:T29n1559	阿毘達磨俱舍釋論	아비달마구사석론	Translation by Paramārtha
+tibetan:tengyur:TD04090	D4090	955	1558	shinsu:T29:T29n1558	阿毘達磨俱舍論	아비달마구사론	Translation by Hsüan-tsang
+tibetan:tengyur:TD04091	D4091	957	1563	shinsu:T29:T29n1563	阿毘達磨藏顯宗論	아비달마장현종론	Translation by Hsüan-tsang
+tibetan:tengyur:TD04098	D4098	964	1554	shinsu:T28:T28n1554	入阿毘達磨論	입아비달마론	Translation by Hsüan-tsang
+tibetan:tengyur:TD04099	D4099	982	212	shinsu:T04:T04n0212	出曜經	출요경	Translated by (Chu) Fu-nien
+tibetan:tengyur:TD04099	D4099	1021	210	shinsu:T04:T04n0210	法句經	법구경	Translated by Vighna, etc.
+tibetan:tengyur:TD04099	D4099	1119	213	shinsu:T04:T04n0213	法集要頌經	법집요송경	Translation by T’ien Hsi-tsai
+tibetan:tengyur:TD04105	D4105	934	1458	shinsu:T24:T24n1458	根本薩婆多部律攝	근본살파다부율섭	Translation by I-ching
+tibetan:tengyur:TD04123	D4123	925	1459	shinsu:T24:T24n1459	根本說一切有部毘奈耶頌	근본설일체유부비나야송	Translation by I-ching
+tibetan:tengyur:TD04138	D4138	975	2033	shinsu:T49:T49n2033	部執異論	부집이론	Translated by Paramārtha
+tibetan:tengyur:TD04138	D4138	976	2032	shinsu:T49:T49n2032	十八部論	십팔부론	Translated by Paramārtha
+tibetan:tengyur:TD04138	D4138	977	2031	shinsu:T49:T49n2031	異部宗輪論	이부종륜론	Translated by Hsüan-tsang
+tibetan:tengyur:TD04144	D4144	1483	550	shinsu:T14:T14n0550	金色童子因緣經	금색동자인연경	Translation by Wei-ching and Dharmarakṣa
+tibetan:tengyur:TD04145	D4145	1013	2043	shinsu:T50:T50n2043	阿育王經	아육왕경	Translation by Saṅgabhara
+tibetan:tengyur:TD04146	D4146	1046	2030	shinsu:T49:T49n2030	大阿羅漢難提蜜多羅所說法住記	대아라한난제밀다라소설법주기	Translation by Hsüan-tsang
+tibetan:tengyur:TD04156	D4156	980	192	shinsu:T04:T04n0192	佛所行讚經	불소행찬경	Translated by Dharmakṣema
+tibetan:tengyur:TD04158	D4158	617	1656	shinsu:T32:T32n1656	寶行王正論	보행왕정론	Translation by Paramārtha
+tibetan:tengyur:TD04162	D4162	1433	1574	shinsu:T30:T30n1574	大乘破有論	대승파유론	Translation by Dānapāla
+tibetan:tengyur:TD04178	D4178	1491	727	shinsu:T17:T17n0727	十不善業道經	십불선업도경	Translation by Jih-ch’eng and Dharmarakṣa
+tibetan:tengyur:TD04179	D4179	1044	723	shinsu:T17:T17n0723	分別業報略經	분별업보약경	Translation by Saṅghavarman
+tibetan:tengyur:TD04179	D4179	1117	725	shinsu:T17:T17n0725	六道伽陀經	육도가타경	Translation by Fa-t’ien
+tibetan:tengyur:TD04179	D4179	1490	726	shinsu:T17:T17n0726	六趣輪廻經	육취윤회경	Translation by Jih-ch’eng and Dharmarakṣa
+tibetan:tengyur:TD04182	D4182	1036	1674	shinsu:T32:T32n1674	龍樹菩薩勸誡王頌	용수보살권계왕송	Translation by I-ching
+tibetan:tengyur:TD04182	D4182	1037	1673	shinsu:T32:T32n1673	勸發諸王要偈	권발제왕요게	Translation by Saṅghavarman
+tibetan:tengyur:TD04182	D4182	1043	1672	shinsu:T32:T32n1672	龍樹菩薩爲禪陀迦王說法要偈	룡수보살위선타가왕설법요게	Translation by Guṇavarman
+tibetan:tengyur:TD04205	D4205	628	1624	shinsu:T31:T31n1624	觀所緣緣論	관소연연론	Translation by Hsüan-tsang
+tibetan:tengyur:TD04205	D4205	629	1619	shinsu:T31:T31n1619	無相思塵論	무상사진론	Translation by Paramārtha
+tibetan:tengyur:TD04206	D4206	628	1624	shinsu:T31:T31n1624	觀所緣緣論	관소연연론	Translation by Hsüan-tsang
+tibetan:tengyur:TD04206	D4206	629	1619	shinsu:T31:T31n1619	無相思塵論	무상사진론	Translation by Paramārtha
+tibetan:tengyur:TD04208	D4208	607	1630	shinsu:T32:T32n1630	因明入正理論	인명입정리론	Translation by Hsüan-tsang
+tibetan:tengyur:TD04377	D4377	1029	296	shinsu:T10:T10n0296	文殊師利發願經	문수사리발원경	Translation by Buddhabhadra
+tibetan:tengyur:TD04377	D4377	1282	297	shinsu:T10:T10n0297	普賢菩薩行願讚	보현보살행원찬	Translation by Amoghavajra
+tibetan:tengyur:TD04379	D4379	127	665	shinsu:T16:T16n0665	金光明最勝王經	금광명최승왕경	Translation by I-Ching
+tibetan:tengyur:TD04379	D4379	128	664	shinsu:T16:T16n0664	合部金光明經	합부금광명경	
+tibetan:tengyur:TD04379	D4379	1465	663	shinsu:T16:T16n0663	金光明經	금광명경	Translation by Dharmakṣema
+tibetan:tengyur:TD04383	D4383	1121	1662	shinsu:T32:T32n1662	菩提行經	보리행경	Translation by T’ien Hsi-tsai
+tibetan:tengyur:TD04388	D4388	617	1656	shinsu:T32:T32n1656	寶行王正論	보행왕정론	Translation by Paramārtha
+tibetan:tengyur:TD04394	D4394	432	893		蘇悉地羯羅經	소실지갈라경	Translation by Śubhakarasiṃha
+tibetan:tengyur:TD04404	D4404	79	278	shinsu:T09:T09n0278	大方廣佛華嚴經	대방광불화엄경	Translation by Buddhabhadra
+tibetan:tengyur:TD04405	D4405	111	187	shinsu:T03:T03n0187	方廣大莊嚴經	방광대장엄경	Translation by Divākara
+tibetan:tengyur:TD04405	D4405	112	186	shinsu:T03:T03n0186	普曜經	보요경	Translation by Dharmarakṣa
+tibetan:tengyur:TD04407	D4407	1096	999	shinsu:T19:T19n0999	守護大千國土經	수호대천국토경	Translation by Dānapāla
+tibetan:tengyur:TD04408	D4408	1096	999	shinsu:T19:T19n0999	守護大千國土經	수호대천국토경	Translation by Dānapāla
+tibetan:tengyur:TD04409	D4409	303	985	shinsu:T19:T19n0985	大孔雀呪王經	대공작주왕경	Translation by I-ching
+tibetan:tengyur:TD04462	D4462	1478	1516	shinsu:T25:T25n1516	聖佛母般若波羅蜜多九頌精義論	성불모반야바라밀다구송정의론	Translation by Dharmarakṣa and others
+tibetan:kangyur:unknown.000428	D1059	1096	999	shinsu:T19:T19n0999	守護大千國土經	수호대천국토경	Translation by Dānapāla
+tibetan:kangyur:unknown.000446	D604	1208	1217	shinsu:T21:T21n1217	妙吉祥最勝根本大教經	묘길상최승근본대교경	Translation by Fa-hsien
+tibetan:kangyur:unknown.000471	D642	1178	1197	shinsu:T20:T20n1197	文殊師利一百八名梵讚	문수사리일백팔명범찬	Translation by Fa-t’ien
+tibetan:kangyur:unknown.000483	D663	1125	1165	shinsu:T20:T20n1165	聖持世陀羅尼經	성지세다라니경	Translation by Dānapāla
+tibetan:kangyur:unknown.000484	D664	1125	1165	shinsu:T20:T20n1165	聖持世陀羅尼經	성지세다라니경	Translation by Dānapāla
+tibetan:kangyur:unknown.000499	D675	1089	937	shinsu:T19:T19n0937	大乘聖無量壽決定光明王如來陀羅尼經	대승성무량수결정광명왕여래다라니경	Translation by Fa-t’ien
+tibetan:kangyur:unknown.000527	D728	1120	1106	shinsu:T20:T20n1106	讚揚聖德多羅菩薩一百八名經	찬양성덕다라보살일백팔명경	Translation by T’ien Hsi-tsai
+tibetan:kangyur:unknown.000527	D728	1131	1105	shinsu:T20:T20n1105	聖多羅菩薩一百八名陀羅尼經	성다라보살일백팔명다라니경	Translation by Fa-t’ien
+tibetan:kangyur:unknown.000527	D728	1187	1107	shinsu:T20:T20n1107	聖多羅菩薩梵讚	성다라보살범찬	Translation by Dānapāla
+tibetan:kangyur:unknown.000537	D747	1202	1129	shinsu:T20:T20n1129	金剛手菩薩降伏一切部多大教王經	금강수보살항복일체부다대교왕경	Translation by Fa-t’ien
+tibetan:kangyur:unknown.000538	D686	287	1092	shinsu:T20:T20n1092	不空羂索神變眞言經	불공견색신변진언경	Translation by Bodhiruci
+tibetan:kangyur:unknown.000538	D686	288	1093	shinsu:T20:T20n1093	不空羂索呪經	불공견색주경	Translation by Jñānagupta
+tibetan:kangyur:unknown.000538	D686	289	1094	shinsu:T20:T20n1094	不空羂索神呪心經	불공견색신주심경	Translation by Hsüan-tsang
+tibetan:kangyur:unknown.000538	D686	290	1097	shinsu:T20:T20n1097	不空羂索陀羅尼自在王呪經	불공견색다라니자재왕주경	Translation by Ratnacinta
+tibetan:kangyur:unknown.000538	D686	291	1096	shinsu:T20:T20n1096	不空羂索陀羅尼經	불공견색다라니경	Translation by Li Wu-ch'an
+tibetan:kangyur:unknown.000538	D686	1456	1099	shinsu:T20:T20n1099	聖觀自在菩薩不空王秘密心陀羅尼經	성관자재보살불공왕비밀심다라니경	Translation by Dānapāla
+tibetan:kangyur:unknown.000561	D770	1153	1283	shinsu:T21:T21n1283	寶藏神大明曼拏羅儀軌經	보장신대명만나라의궤경	Translation by Fa-t’ien
+tibetan:kangyur:unknown.000613	D805	428	895		蘇婆呼童子請問經	소파호동자청문경	Translation by Śubhakarasiṃha
+tibetan:kangyur:unknown.000613	D805	1152	896	shinsu:T18:T18n0896	妙臂菩薩所問經	묘비보살소문경	Translation by Fa-t’ien
+tibetan:kangyur:unknown.000616	D807	432	893		蘇悉地羯羅經	소실지갈라경	Translation by Śubhakarasiṃha
+tibetan:kangyur:unknown.000617	D242	1387	998	shinsu:T19:T19n0998	迴向輪經	회향륜경	Translation by Śīladharma
+tibetan:kangyur:unknown.000641	D452	1434	887	shinsu:T18:T18n0887	無二平等最上瑜伽大教王經	무이평등최상유가대교왕경	Translation by Dānapāla
+tibetan:kangyur:unknown.000687	D442	1418	885	shinsu:T18:T18n0885	一切如來金剛三業最上秘密大教王經	일체여래금강삼업최상비밀대교왕경	Translation by Dānapāla

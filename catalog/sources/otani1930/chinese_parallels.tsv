@@ -1,0 +1,257 @@
+work_id	toh	otani	taisho	nanjio	shinsu_work_id	otani_title_han	taisho_title_han	fascicles	translator	check
+tibetan:kangyur:KL00001E	D1	1030	1444		shinsu:T23:T23n1444	根本說一切有部毘奈耶出家事	根本說一切有部毘奈耶出家事	四	義淨	title_match
+tibetan:kangyur:KL00002E	D2	1031	1454	1110	shinsu:T24:T24n1454	根本説一切有部戒經	根本說一切有部戒經		義淨	title_match
+tibetan:kangyur:KL00003E	D3	1032	1442	1118	shinsu:T23:T23n1442	根本說一切有部毘奈耶	根本說一切有部毘奈耶	五十	義淨	title_match
+tibetan:kangyur:KL00004E	D4	1033	1436	1149	shinsu:T23:T23n1436	根本説一切有部苾芻尼戒經	十誦比丘波羅提木叉戒本		義淨	taisho_title_differs
+tibetan:kangyur:KL00005E	D5	1034	1443	1124	shinsu:T23:T23n1443	根本説一切有部苾芻尼毘奈耶	根本說一切有部苾芻尼毘奈耶	二十	義淨	title_match
+tibetan:kangyur:KL00006E	D6	1035	1451	1121	shinsu:T24:T24n1451	根本説一切有部毘奈耶雜事	根本說一切有部毘奈耶雜事	四十	義淨	title_match
+tibetan:kangyur:KL00008E	D8	730	220	1	shinsu:T05:T05n0220a	大般若波羅蜜多經初分	大般若波羅蜜多經(第1卷-第200卷)	四百	玄奘	taisho_title_differs
+tibetan:kangyur:KL00009E	D9	731	223	3	shinsu:T08:T08n0223	摩訶般若波羅蜜經	摩訶般若波羅蜜經	四十	羅什	title_match
+tibetan:kangyur:KL00010E	D10	732	220	1	shinsu:T05:T05n0220a	大般若波羅蜜多經第三分	大般若波羅蜜多經(第1卷-第200卷)	五十九	玄奘	title_match
+tibetan:kangyur:KL00012E	D12	734	228	227	shinsu:T08:T08n0228	佛説佛母出生三法藏般若波羅蜜多經	佛說佛母出生三法藏般若波羅蜜多經		施護	title_match
+tibetan:kangyur:KL00013E	D13	735	229	864	shinsu:T08:T08n0229	佛說佛母寶德藏般若波羅蜜經	佛說佛母寶德藏般若波羅蜜經	三	法賢	title_match
+tibetan:kangyur:KL00014E	D14	736	220	1	shinsu:T05:T05n0220a	大般若波羅蜜多經第十六分	大般若波羅蜜多經(第1卷-第200卷)		玄奘	taisho_title_differs
+tibetan:kangyur:KL00015E	D15	738	260		shinsu:T08:T08n0260	佛說開覺自性般若波羅蜜多經	佛說開覺自性般若波羅蜜多經		惟淨等	title_match
+tibetan:kangyur:KL00016E	D16	739	220	1	shinsu:T05:T05n0220a	大般若波羅蜜多經第九分	大般若波羅蜜多經(第1卷-第200卷)		玄奘	title_match
+tibetan:kangyur:KL00017E	D17	121	243	1044	shinsu:T08:T08n0243	大樂金剛不空眞實三摩耶經	大樂金剛不空真實三麼耶經		不空	title_match
+tibetan:kangyur:KL00018E	D18	740	248	879	shinsu:T08:T08n0248	佛說五十頌聖般若波羅蜜經	佛說五十頌聖般若波羅蜜經		施護	title_match
+tibetan:kangyur:KL00019E	D19	173	249	865	shinsu:T08:T08n0249	帝釋般若波羅蜜多心經	佛說帝釋般若波羅蜜多心經		施護	title_match
+tibetan:kangyur:KL00024E	D24	737	220	1	shinsu:T05:T05n0220a	大般若波羅蜜多經第七分	大般若波羅蜜多經(第1卷-第200卷)		玄奘	title_match
+tibetan:kangyur:KL00025E	D25	172	289	999	shinsu:T10:T10n0289	聖八千頌般若波羅蜜多一百八名眞實圓義陀羅尼經	顯無邊佛土功德經		施護	taisho_title_differs
+tibetan:kangyur:KL00029E	D29	745								no_taisho
+tibetan:kangyur:KL00031E	D31	747	109	657	shinsu:T02:T02n0109	佛説轉法輪經	佛說轉法輪經		安世高	title_match
+tibetan:kangyur:KL00034E	D34	750	1	545	shinsu:T01:T01n0001	長阿含第十九經大會經	長阿含經		佛陀耶舍	part_of_taisho
+tibetan:kangyur:KL00039E	D39	755	597	767	shinsu:T15:T15n0597	龍王兄弟經	龍王兄弟經		支謙	title_match
+tibetan:kangyur:KL00042E	D42	758	99		shinsu:T02:T02n0099	雜阿含二十三ノ十求那跋陀羅	雜阿含經			part_of_taisho
+tibetan:kangyur:KL00044E	D44	761	279	88	shinsu:T10:T10n0279	大方廣佛華嚴經	大方廣佛華嚴經	八十	實叉難陀	title_match
+tibetan:kangyur:KL00090E	D90	737	220	1	shinsu:T05:T05n0220a	大般若波羅蜜多經第七分	大般若波羅蜜多經(第1卷-第200卷)		玄奘	title_match
+tibetan:kangyur:KL00094E	D94	762	425	403	shinsu:T14:T14n0425	賢劫經笠法	賢劫經		護	title_match
+tibetan:kangyur:KL00095E	D95	763	187	159	shinsu:T03:T03n0187	方廣大莊嚴經	方廣大莊嚴經	十二	地婆訶羅	title_match
+tibetan:kangyur:KL00096E	D96	764	818	185	shinsu:T17:T17n0818	大莊嚴法門經	大莊嚴法門經	二	那連提耶舍	title_match
+tibetan:kangyur:KL00097E	D97	765	589	517	shinsu:T15:T15n0589	佛說魔逆經竺法	佛說魔逆經		護	title_match
+tibetan:kangyur:KL00098E	D98	766	1875	504	shinsu:T45:T45n1875	佛說莊嚴王陀羅尼咒經	華嚴經義海百門		義淨	taisho_title_differs
+tibetan:kangyur:KL00100E	D100	768	357	245	shinsu:T12:T12n0357	如意莊嚴智慧光明入一切佛境界經	如來莊嚴智慧光明入一切佛境界經	三	曇摩流支	title_match
+tibetan:kangyur:KL00101E	D101	769	657	425	shinsu:T16:T16n0657	佛説攝手經	佛說華手經	十	鳩摩羅什	title_match
+tibetan:kangyur:KL00102E	D102	770	423	449	shinsu:T13:T13n0423	僧伽吒經	僧伽吒經	四	月婆首那	title_match
+tibetan:kangyur:KL00103E	D103	771	484	396	shinsu:T14:T14n0484	不思議光菩薩所説經	不思議光菩薩所說經		鳩摩羅什	title_match
+tibetan:kangyur:KL00104E	D104	772	290	881	shinsu:T10:T10n0290	佛説較量一切佛刹功德經法	佛說較量一切佛剎功德經		賢	title_match
+tibetan:kangyur:KL00105E	D105	773	486	462	shinsu:T14:T14n0486	師子莊嚴王菩薩請問經	師子莊嚴王菩薩請問經		那提	title_match
+tibetan:kangyur:KL00106E	D106	774	676	247	shinsu:T16:T16n0676	解深密經	解深密經	五	玄奘	title_match
+tibetan:kangyur:KL00107E	D107	775	671	176	shinsu:T16:T16n0671	入楞伽經	入楞伽經	十	菩提流支	title_match
+tibetan:kangyur:KL00108E	D108	776	670	175	shinsu:T16:T16n0670	楞伽阿跋多羅寶經	楞伽阿跋多羅寶經	四	求那跋陀羅	title_match
+tibetan:kangyur:KL00109E	D109	777	467	241	shinsu:T14:T14n0467	大乘伽耶山頂經	大乘伽耶山頂經		菩提流志	title_match
+tibetan:kangyur:KL00110E	D110	778	681	444	shinsu:T16:T16n0681	大乘密嚴經	大乘密嚴經	三	地婆訶羅	title_match
+tibetan:kangyur:KL00111E	D111	779	380	117	shinsu:T12:T12n0380	大悲經	大悲經	五	那連提耶舍	title_match
+tibetan:kangyur:KL00112E	D112	780	157	142	shinsu:T03:T03n0157	悲華經	悲華經	十	曇無讖	title_match
+tibetan:kangyur:KL00113E	D113	781	262	134	shinsu:T09:T09n0262	妙法蓮華經	妙法蓮華經	八	羅什	title_match
+tibetan:kangyur:KL00114E	D114	782	1374	498	shinsu:T21:T21n1374	一切功德莊嚴王經	佛說一切功德莊嚴王經		義淨	title_match
+tibetan:kangyur:KL00115E	D115	783	366	200	shinsu:T12:T12n0366	佛說阿彌陀經	佛說阿彌陀經		羅什	title_match
+tibetan:kangyur:KL00116E	D116	784	1050	782	shinsu:T20:T20n1050	佛說大乘莊嚴寶王經	佛說大乘莊嚴寶王經	四	天息災	title_match
+tibetan:kangyur:KL00117E	D117	785	461	168	shinsu:T14:T14n0461	佛説文殊師利現寶藏經	佛說文殊師利現寶藏經	三		title_match
+tibetan:kangyur:KL00118E	D118	786	355	61	shinsu:T12:T12n0355	入法界體性經	入法界體性經		|闍那崛多	title_match
+tibetan:kangyur:KL00119E	D119	787	374	113	shinsu:T12:T12n0374	大般涅槃經	大般涅槃經	四十	曇無讖	title_match
+tibetan:kangyur:KL00120E	D120	788	376	120	shinsu:T12:T12n0376	佛説大般泥洹經	佛說大般泥洹經	六	法顯	title_match
+tibetan:kangyur:KL00121E	D121	789	900	123	shinsu:T18:T18n0900	佛般泥洹經	十八契印	二		taisho_title_differs
+tibetan:kangyur:KL00123E	D123	791	653	1095	shinsu:T15:T15n0653	佛藏經	佛藏經	四		title_match
+tibetan:kangyur:KL00127E	D127	795	639	191	shinsu:T15:T15n0639	月燈三昧經	月燈三昧經	十		title_match
+tibetan:kangyur:KL00129E	D129	797	648	522	shinsu:T15:T15n0648	寂照神變三摩地經	寂照神變三摩地經		玄奘	title_match
+tibetan:kangyur:KL00130E	D130	798	372	97	shinsu:T12:T12n0372	佛説如幻三摩地無量印法門經	佛說如幻三摩地無量印法門經	三	施護	title_match
+tibetan:kangyur:KL00131E	D131	799	633	255	shinsu:T15:T15n0633	佛説如來智印經	佛說如來智印經			title_match
+tibetan:kangyur:KL00132E	D132	800	642	399	shinsu:T15:T15n0642	佛說首楞嚴三昧經	佛說首楞嚴三昧經	三		title_match
+tibetan:kangyur:KL00133E	D133	801	416	75	shinsu:T13:T13n0416	大方等大集經賢護分	大方等大集經賢護分	五		title_match
+tibetan:kangyur:KL00134E	D134	802	382	129	shinsu:T12:T12n0382	集一切福德三昧經	集一切福德三昧經	三	羅什	title_match
+tibetan:kangyur:KL00135E	D135	803	273	429	shinsu:T09:T09n0273	金剛三昧經	金剛三昧經	二		title_match
+tibetan:kangyur:KL00136E	D136	804	579	121	shinsu:T14:T14n0579	阿毘曇三昧經	優婆夷淨行法門經	三	闍那崛多	taisho_title_differs
+tibetan:kangyur:KL00138E	D138	806	402	84	shinsu:T13:T13n0402	寶星陀羅尼經	寶星陀羅尼經	十	波羅頗迦羅蜜多羅	title_match
+tibetan:kangyur:KL00140E	D140	539	1016	558	shinsu:T19:T19n1016	含利弗陀羅尼經	舍利弗陀羅尼經		僧伽婆羅	title_match
+tibetan:kangyur:KL00141E	D141	312	1360	493	shinsu:T21:T21n1360	六門陀羅尼經	六門陀羅尼經		玄奘	title_match
+tibetan:kangyur:KL00142E	D142	810	654	942	shinsu:T15:T15n0654	佛說入無分別法門經	佛說入無分別法門經		施護	title_match
+tibetan:kangyur:KL00145E	D145	472	299	785	shinsu:T10:T10n0299	大方廣總持寶光明經法	大方廣總持寶光明經		天	title_match
+tibetan:kangyur:KL00146E	D146	813	272	179	shinsu:T09:T09n0272	大薩遮尼乾子所説經	大薩遮尼乾子所說經	十	菩提留支	title_match
+tibetan:kangyur:KL00147E	D147	814	398	79	shinsu:T13:T13n0398	大哀經	大哀經	八	竺法護	title_match
+tibetan:kangyur:KL00148E	D148	815	404		shinsu:T13:T13n0404	大集大虛空藏菩薩所問經	大集大虛空藏菩薩所問經	八	不空	title_match
+tibetan:kangyur:KL00152E	D152	819	400	976	shinsu:T13:T13n0400	佛說海意菩薩所問淨印法門經	佛說海意菩薩所問淨印法門經	十八	法護	title_match
+tibetan:kangyur:KL00153E	D153	820	598	456	shinsu:T15:T15n0598	佛說海龍王經	佛說海龍王經	四	法護	title_match
+tibetan:kangyur:KL00154E	D154	821	601	840	shinsu:T15:T15n0601	佛母般若波羅蜜多所説大乘經	佛為娑伽羅龍王所說大乘經		一施護	taisho_title_differs
+tibetan:kangyur:KL00155E	D155	822	599	457	shinsu:T15:T15n0599	佛母般若波羅蜜多圓集要	佛為海龍王說法印經		義釋一施護	taisho_title_differs
+tibetan:kangyur:KL00156E	D156	823	635	437	shinsu:T15:T15n0635	佛説弘道廣顯三昧經	佛說弘道廣顯三昧經	四	竺法護	title_match
+tibetan:kangyur:KL00157E	D157	824	625	162	shinsu:T15:T15n0625	大樹緊那羅王所問經	大樹緊那羅王所問經	四	羅什	title_match
+tibetan:kangyur:KL00160E	D160	827	587	189	shinsu:T15:T15n0587	勝思惟梵天所問經	勝思惟梵天所問經	六	菩提留支	title_match
+tibetan:kangyur:KL00161E	D161	828	588	393	shinsu:T15:T15n0588	佛說須真天子經法	佛說須真天子經		護	title_match
+tibetan:kangyur:KL00163E	D163	830	433	359	shinsu:T14:T14n0433	佛說寶網經法	佛說寶網經		護	title_match
+tibetan:kangyur:KL00164E	D164	831	437	826	shinsu:T14:T14n0437	大乘寶月童子問法經	大乘寶月童子問法經		施護	title_match
+tibetan:kangyur:KL00165E	D165	832	533	378	shinsu:T14:T14n0533	菩薩生地經	菩薩生地經		支謙	title_match
+tibetan:kangyur:KL00167E	D167	834	421	83	shinsu:T13:T13n0421	術迦長明經	奮迅王問經	二	聖堅般若波羅	taisho_title_differs
+tibetan:kangyur:KL00169E	D169	836	399	80	shinsu:T13:T13n0399	寶女所問經	寶女所問經	三		title_match
+tibetan:kangyur:KL00170E	D170	837	568	343	shinsu:T14:T14n0568	有德女所問大乘經	有德女所問大乘經		菩提流志	title_match
+tibetan:kangyur:KL00171E	D171	838	559	224	shinsu:T14:T14n0559	佛說老女人經	佛說老女人經		支謙	title_match
+tibetan:kangyur:KL00172E	D172	839	473	995	shinsu:T14:T14n0473	佛說妙吉祥菩薩所問大乘法螺經法	佛說妙吉祥菩薩所問大乘法螺經		賢	title_match
+tibetan:kangyur:KL00173E	D173	840	846	818	shinsu:T17:T17n0846	尼乾子問無我經竺法	外道問聖大乘法無我義經		護	taisho_title_differs
+tibetan:kangyur:KL00174E	D174	841	482	166	shinsu:T14:T14n0482	持世經	持世經	四	羅什	title_match
+tibetan:kangyur:KL00175E	D175	842	397	77	shinsu:T13:T13n0397	大方等大集經無盡意菩薩品	大方等大集經	六	智嚴	title_match
+tibetan:kangyur:KL00176E	D176	843	476	149	shinsu:T14:T14n0476	說無垢稱經	說無垢稱經	六	玄奘	title_match
+tibetan:kangyur:KL00177E	D177	844	774	520	shinsu:T17:T17n0774	大乘四法經	大乘四法經		實叉難陀	title_match
+tibetan:kangyur:KL00178E	D178	845	472	792	shinsu:T14:T14n0472	大乘善見變化文殊師利問法經	佛說大乘善見變化文殊師利問法經		天息災	title_match
+tibetan:kangyur:KL00179E	D179	846	1489	1101	shinsu:T24:T24n1489	清淨毘尼方廣經	清淨毘尼方廣經		羅什	title_match
+tibetan:kangyur:KL00180E	D180	847	651	163	shinsu:T15:T15n0651	諸法本無經	佛說諸法本無經	二	闍那崛多	title_match
+tibetan:kangyur:KL00181E	D181	848	220	1	shinsu:T05:T05n0220a	大般若波羅蜜多經布施波羅蜜多分	大般若波羅蜜多經(第1卷-第200卷)	五	玄奘	taisho_title_differs
+tibetan:kangyur:KL00183E	D183	850	705	810	shinsu:T16:T16n0705	佛說布施經|法	佛說布施經		賢	title_match
+tibetan:kangyur:KL00184	D184	851	488	917	shinsu:T14:T14n0488	寶授菩薩菩提行經法	寶授菩薩菩提行經		賢	title_match
+tibetan:kangyur:KL00184E	D184	851	488	917	shinsu:T14:T14n0488	寶授菩薩菩提行經法	寶授菩薩菩提行經		賢	title_match
+tibetan:kangyur:KL00185	D185	852	303	91	shinsu:T10:T10n0303	佛華嚴入如來德智不思議境界經	佛華嚴入如來德智不思議境界經	二	闕那崛多	title_match
+tibetan:kangyur:KL00185E	D185	852	303	91	shinsu:T10:T10n0303	佛華嚴入如來德智不思議境界經	佛華嚴入如來德智不思議境界經	二	闕那崛多	title_match
+tibetan:kangyur:KL00187	D187	854				六十華嚴第二十九、佛不思議法品				no_taisho
+tibetan:kangyur:KL00187E	D187	854				六十華嚴第二十九、佛不思議法品				no_taisho
+tibetan:kangyur:KL00190	D190	857	565	214	shinsu:T14:T14n0565	順權方便經	順權方便經	二	法護	title_match
+tibetan:kangyur:KL00190	D190	857	305	90	shinsu:T10:T10n0305	信力入印法門經	信力入印法門經	五	曇摩流支	title_match
+tibetan:kangyur:KL00190E	D190	857	565	214	shinsu:T14:T14n0565	順權方便經	順權方便經	二	法護	title_match
+tibetan:kangyur:KL00190E	D190	857	305	90	shinsu:T10:T10n0305	信力入印法門經	信力入印法門經	五	曇摩流支	title_match
+tibetan:kangyur:KL00191	D191	858	480	441	shinsu:T14:T14n0480	月上女經	佛說月上女經	二	闍那崛多	title_match
+tibetan:kangyur:KL00191E	D191	858	480	441	shinsu:T14:T14n0480	月上女經	佛說月上女經	二	闍那崛多	title_match
+tibetan:kangyur:KL00192	D192	859	573	461	shinsu:T14:T14n0573	差摩婆帝授記經	差摩婆帝授記經		菩提流支	title_match
+tibetan:kangyur:KL00192E	D192	859	573	461	shinsu:T14:T14n0573	差摩婆帝授記經	差摩婆帝授記經		菩提流支	title_match
+tibetan:kangyur:KL00196	D196	863	470	286	shinsu:T14:T14n0470	佛說文殊師利巡行經	佛說文殊師利巡行經		|菩提流支	title_match
+tibetan:kangyur:KL00196E	D196	863	470	286	shinsu:T14:T14n0470	佛說文殊師利巡行經	佛說文殊師利巡行經		|菩提流支	title_match
+tibetan:kangyur:KL00200	D200	866	807	86	shinsu:T17:T17n0807	佛說內藏百寶經	佛說內藏百寶經		支讖	title_match
+tibetan:kangyur:KL00200E	D200	866	807	86	shinsu:T17:T17n0807	佛說內藏百寶經	佛說內藏百寶經		支讖	title_match
+tibetan:kangyur:KL00202	D202	868	645	132	shinsu:T15:T15n0645	不必定入定入印經	不必定入定入印經		聖曼陀羅	title_match
+tibetan:kangyur:KL00204	D204	870	702	438	shinsu:T16:T16n0702	佛說施燈功德經	佛說施燈功德經		那連提耶舍	title_match
+tibetan:kangyur:KL00207	D207	873	814	193	shinsu:T17:T17n0814	佛説象腋經	佛說象腋經		曇摩蜜多	title_match
+tibetan:kangyur:KL00209	D209	875	835	262	shinsu:T17:T17n0835	如來獅子吼經	如來師子吼經		佛陀扇多	title_match
+tibetan:kangyur:KL00210	D210	876	712		shinsu:T16:T16n0712	佛說大乘稻芉經	佛說大乘稻芉經			title_match
+tibetan:kangyur:KL00211	D211	877	124	628	shinsu:T02:T02n0124	緣起經	緣起經		玄奘	title_match
+tibetan:kangyur:KL00213	D213	879	120	484	shinsu:T02:T02n0120	央掘魔羅經	央掘魔羅經	四	求那跋陀羅	title_match
+tibetan:kangyur:KL00216	D216	882	626	182	shinsu:T15:T15n0626	文殊師利菩薩二百五十法會	佛說阿闍世王經	三		part_of_taisho
+tibetan:kangyur:KL00217	D217	883	545	282	shinsu:T14:T14n0545	佛說德護長者經	佛說德護長者經	二	那提耶舍	title_match
+tibetan:kangyur:KL00218	D218	884	1494	1094	shinsu:T24:T24n1494	佛說淨業障經	佛說淨業障經			title_match
+tibetan:kangyur:KL00219	D219	885	1491	1103	shinsu:T24:T24n1491	菩薩藏經	菩薩藏經		僧伽婆羅	title_match
+tibetan:kangyur:KL00219	D219	885	653	195	shinsu:T15:T15n0653	佛藏經	佛藏經	四	鳩什	title_match
+tibetan:kangyur:KL00221	D221	887	515	249	shinsu:T14:T14n0515	如來示教勝軍王經	如來示教勝軍王經		玄奘	title_match
+tibetan:kangyur:KL00222	D222	888	270	440	shinsu:T09:T09n0270	大法鼓經	大法鼓經	二	求那跋陀羅	title_match
+tibetan:kangyur:KL00226	D226	892	577	526	shinsu:T14:T14n0577	佛說大乘流轉諸有經	佛說大乘流轉諸有經		義淨	title_match
+tibetan:kangyur:KL00227	D227	893	275	258	shinsu:T09:T09n0275	大乘方廣總持經	大乘方廣總持經		毘尼多流支	title_match
+tibetan:kangyur:KL00228	D228	894	810	401	shinsu:T17:T17n0810	諸佛要集經	諸佛要集經	二	竺法護	title_match
+tibetan:kangyur:KL00230	D230	896	397	66	shinsu:T13:T13n0397	大方等大集經第十六・寶幢分	大方等大集經	三	那連提耶舍	title_match
+tibetan:kangyur:KL00231	D231	897	1344	873	shinsu:T21:T21n1344	金剛上味陀羅尼經	金剛上味陀羅尼經		佛陀扇多	title_match
+tibetan:kangyur:KL00231	D231	897	489	964	shinsu:T14:T14n0489	佛説除蓋障菩薩所問經	佛說除蓋障菩薩所問經	二十	法護等	title_match
+tibetan:kangyur:KL00232	D232	898	387	244	shinsu:T12:T12n0387	大方等無想經	大方等無想經	六	曇無讖	title_match
+tibetan:kangyur:KL00235	D235	334	993	187	shinsu:T19:T19n0993	大雲經請雨品第六十四闍那崛多	大雲經請雨品第六十四			title_match
+tibetan:kangyur:KL00236	D236	902	945	446	shinsu:T19:T19n0945	大佛頂如來密因修證了義諸菩薩萬行首楞嚴經	大佛頂如來密因修證了義諸菩薩萬行首楞嚴經	十		title_match
+tibetan:kangyur:KL00238	D238	904	761	426	shinsu:T17:T17n0761	佛説法集經	佛說法集經	六	菩提流支	title_match
+tibetan:kangyur:KL00239	D239	905	411	64	shinsu:T13:T13n0411	大乘大集地藏十輪經	大乘大集地藏十輪經	十	玄奘	title_match
+tibetan:kangyur:KL00240	D240	906	266	150	shinsu:T09:T09n0266	阿惟越致遮經	佛說阿惟越致遮經	三	竺法護	title_match
+tibetan:kangyur:KL00242	D242	908	998		shinsu:T19:T19n0998	佛說迴向輪經	佛說迴向輪經		尸羅達摩	title_match
+tibetan:kangyur:KL00246	D246	912	833	210	shinsu:T17:T17n0833	第一義法勝經聖最勝光法	第一義法勝經		克	title_match
+tibetan:kangyur:KL00251	D251	917	772	266	shinsu:T17:T17n0772	大乘四法經	大乘四法經		地婆訶羅	title_match
+tibetan:kangyur:KL00252	D252	918	774	520	shinsu:T17:T17n0774	大乘四法經	大乘四法經		實叉難陀	title_match
+tibetan:kangyur:KL00256	D256	922	1484	1087	shinsu:T24:T24n1484	梵網經盧舍那佛說菩薩心地戒品第	梵網經	十二	羅什	title_match
+tibetan:kangyur:KL00257	D257	923	397	62	shinsu:T13:T13n0397	大方等大集經日藏分	大方等大集經	十二	那連提耶舍	title_match
+tibetan:kangyur:KL00258	D258	924	667		shinsu:T16:T16n0667	大方廣如來藏經	大方廣如來藏經		不空	title_match
+tibetan:kangyur:KL00259	D259	925	828	221	shinsu:T17:T17n0828	無字寶篋經	無字寶篋經		菩提流支	title_match
+tibetan:kangyur:KL00260	D260	926	407	69	shinsu:T13:T13n0407	虛空藏菩薩神呪經	虛空藏菩薩神呪經		曇摩蜜多	title_match
+tibetan:kangyur:KL00261	D261	927	346	926	shinsu:T12:T12n0346	佛說大方廣善巧方便經	佛說大方廣善巧方便經	四	施護	title_match
+tibetan:kangyur:KL00262	D262	928	443	408	shinsu:T14:T14n0443	五千五百佛名神呪除障滅罪經	五千五百佛名神呪除障滅罪經	八	闍那崛多	title_match
+tibetan:kangyur:KL00266	D266	932	434	402	shinsu:T14:T14n0434	佛說稱揚諸佛功德經	佛說稱揚諸佛功德經	三	吉迦夜	title_match
+tibetan:kangyur:KL00268	D268	934	289	95	shinsu:T10:T10n0289	顯密遊戲五佛儀軌	顯無邊佛土功德經		玄奘	taisho_title_differs
+tibetan:kangyur:KL00269	D269	935	435	515	shinsu:T14:T14n0435	佛說滅十方冥經法	佛說滅十方冥經		護	title_match
+tibetan:kangyur:KL00270	D270	477	1384	867	shinsu:T21:T21n1384	如來方便善巧咒經	佛說鉢蘭那賒嚩哩大陀羅尼經		闍那崛多	taisho_title_differs
+tibetan:kangyur:KL00271	D271	937	431	302	shinsu:T14:T14n0431	八佛名號經	八佛名號經		闍那崛多	title_match
+tibetan:kangyur:KL00272	D272	938	310	23	shinsu:T11:T11n0310	大寶積經功德意菩薩品	大寶積經		菩提流志	title_match
+tibetan:kangyur:KL00273	D273	478	1348	385	shinsu:T21:T21n1348	佛說十二佛名神咒校量功德除障滅罪經	佛說十二佛名神呪校量功德除障滅罪經		闍那崛多	title_match
+tibetan:kangyur:KL00274	D274	940	438	968	shinsu:T14:T14n0438	佛說大乘大方廣佛冠經	佛說大乘大方廣佛冠經	二	法護等	title_match
+tibetan:kangyur:KL00275	D275	941	680	502	shinsu:T16:T16n0680	佛說佛地經	佛說佛地經		玄奘	title_match
+tibetan:kangyur:KL00276	D276	942	831	243	shinsu:T17:T17n0831	誘佛經	謗佛經		菩提流支	title_match
+tibetan:kangyur:KL00277	D277	943	430	301	shinsu:T14:T14n0430	八吉祥經	八吉祥經		僧伽婆羅	title_match
+tibetan:kangyur:KL00278	D278	944	429	410	shinsu:T14:T14n0429	佛說八部佛名經	佛說八部佛名經		瞿曇般若流支	title_match
+tibetan:kangyur:KL00287E	D287	953	721	679	shinsu:T17:T17n0721	正法念處經	正法念處經	七十	瞿曇般若流支	title_match
+tibetan:kangyur:KL00289	D289	955	41	900	shinsu:T01:T01n0041	佛説頻婆娑羅王經|法	頻婆娑羅王經		賢	title_match
+tibetan:kangyur:KL00290	D290	956	26	542	shinsu:T01:T01n0026	中阿含小空經	中阿含經		僧伽提婆	title_match
+tibetan:kangyur:KL00291	D291	957	26	542	shinsu:T01:T01n0026	中阿含大空經	中阿含經		僧伽提婆	title_match
+tibetan:kangyur:KL00292	D292	958	99	544	shinsu:T02:T02n0099	雜阿含求那跋陀羅	雜阿含經			part_of_taisho
+tibetan:kangyur:KL00293	D293	959	99	544	shinsu:T02:T02n0099	雜阿含求那跋陀羅	雜阿含經			part_of_taisho
+tibetan:kangyur:KL00297	D297	963	26	542	shinsu:T01:T01n0026	中阿含多界經	中阿含經		僧伽提婆	title_match
+tibetan:kangyur:KL00300	D300	966	99	544	shinsu:T02:T02n0099	雜阿含|求那跋陀羅	雜阿含經			part_of_taisho
+tibetan:kangyur:KL00307	D307	973	759	807	shinsu:T17:T17n0759	校量壽命經	佛說較量壽命經		天息災	title_match
+tibetan:kangyur:KL00309	D309	975	801	727	shinsu:T17:T17n0801	無常經	佛說無常經		義淨	title_match
+tibetan:kangyur:KL00310	D310	976	758	801	shinsu:T17:T17n0758	諸行有為經法	佛說諸行有為經		天	title_match
+tibetan:kangyur:KL00313	D313	979	1362	500	shinsu:T21:T21n1362	佛說善夜經	佛說善夜經		義淨	title_match
+tibetan:kangyur:KL00316	D316	982	99	544	shinsu:T02:T02n0099	雜阿含403經	雜阿含經		求那跋陀羅	title_match
+tibetan:kangyur:KL00317	D317	983	763	1015	shinsu:T17:T17n0763	佛說法乘義決定經	佛說法乘義決定經	三	金總持	title_match
+tibetan:kangyur:KL00318	D318	984	97	587	shinsu:T01:T01n0097	廣義法門經	廣義法門經		真諦	title_match
+tibetan:kangyur:KL00319	D319	985	689	261	shinsu:T16:T16n0689	甚希有經	甚希有經		|玄奘	title_match
+tibetan:kangyur:KL00321	D321	987	700	468	shinsu:T16:T16n0700	右繞佛塔功德經	右繞佛塔功德經		實叉難陀	title_match
+tibetan:kangyur:KL00326	D326	992	213	1499	shinsu:T04:T04n0213	法集要頌經	法集要頌經	四	法救撰天息災	title_match
+tibetan:kangyur:KL00329	D329	995	592	753	shinsu:T15:T15n0592	天請問經	天請問經		玄奘	title_match
+tibetan:kangyur:KL00330	D330	996	99	544	shinsu:T02:T02n0099	雜阿含經	雜阿含經		求那跋陀羅	title_match
+tibetan:kangyur:KL00331	D331	997	100	546	shinsu:T02:T02n0100	別	別譯雜阿含經			title_match
+tibetan:kangyur:KL00332	D332	998	704	791	shinsu:T16:T16n0704	樓閣正法甘露鼓經	佛說樓閣正法甘露鼓經		天息災	title_match
+tibetan:kangyur:KL00334	D334	1000	81	788	shinsu:T01:T01n0081	分別善惡報應經卷下ノ内天息災	分別善惡報應經			title_match
+tibetan:kangyur:KL00336	D336	1002	785	691	shinsu:T17:T17n0785	得道梯橙錫杖經／附錄又持錫杖法	得道梯橙錫杖經			title_match
+tibetan:kangyur:KL00337	D337	1003	99	544	shinsu:T02:T02n0099	雜阿含求那跋陀羅	雜阿含經			part_of_taisho
+tibetan:kangyur:KL00338	D338	1005	80	739	shinsu:T01:T01n0080	佛爲首迦長者說業報差別經	佛為首迦長者說業報差別經		達磨闍那	title_match
+tibetan:kangyur:KL00339	D339	1006	81	783	shinsu:T01:T01n0081	分別善惡報應經	分別善惡報應經	三	天息災	title_match
+tibetan:kangyur:KL00340	D341	1008	202	1322	shinsu:T04:T04n0202	賢愚經	賢愚經	十三	慧覺	title_match
+tibetan:kangyur:KL00341	D341	1008	202	1322	shinsu:T04:T04n0202	賢愚經	賢愚經	十三	慧覺	title_match
+tibetan:kangyur:KL00342	D342	1009	584	784	shinsu:T14:T14n0584	長爪梵志請問經	長爪梵志請問經		義淨	title_match
+tibetan:kangyur:KL00343	D343	1012	200	1324	shinsu:T04:T04n0200	撰集百緣經	撰集百緣經	十	支謙	title_match
+tibetan:kangyur:KL00345	D345	1014	595	806	shinsu:T15:T15n0595	佛說婆穉梨天子受三歸依獲免惡道經法	佛說嗟韈曩法天子受三歸依獲免惡道經		天	title_match
+tibetan:kangyur:KL00347	D347	1016	173	953	shinsu:T03:T03n0173	福力太子因緣經	福力太子因緣經	四	施護等	title_match
+tibetan:kangyur:KL00348	D348	1017	166	852	shinsu:T03:T03n0166	佛說月光菩薩經法	月光菩薩經		賢等	title_match
+tibetan:kangyur:KL00350	D350	1019	162	360	shinsu:T03:T03n0162	金色王經	金色王經		瞿曇般若流支	title_match
+tibetan:kangyur:KL00351	D351	1020	171	254	shinsu:T03:T03n0171	太子須大拏經	太子須大拏經		聖堅	title_match
+tibetan:kangyur:KL00352	D352	1021	1	545	shinsu:T01:T01n0001	長阿含梵動經	長阿含經		佛陀耶舍等	title_match
+tibetan:kangyur:KL00353	D353	1022	156	431	shinsu:T03:T03n0156	大方廣佛華嚴經	大方便佛報恩經	七		taisho_title_differs
+tibetan:kangyur:KL00354	D354	1023				佛說善惡因果經|唐				no_taisho
+tibetan:kangyur:KL00355	D355	1024				佛説善惡因果經			失	no_taisho
+tibetan:kangyur:KL00358	D358	1027	1300	645	shinsu:T21:T21n1300	摩登伽經	摩登伽經	三	竺律炎	title_match
+tibetan:kangyur:KL00360	D360	2	1190	1032	shinsu:T20:T20n1190	聖妙吉祥眞實名經	聖妙吉祥真實名經		釋智	title_match
+tibetan:kangyur:KL00417	D417	10	892	1060	shinsu:T18:T18n0892	佛說大悲空智金剛大教王儀軌經	佛說大悲空智金剛大教王儀軌經	五	法護	title_match
+tibetan:kangyur:KL00438	D438	77	1108A	1068	shinsu:T20:T20n1108A	聖救度佛母二十一種禮讚經	聖救度佛母二十一種禮讚經		安藏	title_match
+tibetan:kangyur:KL00466	D466	102	890	1022	shinsu:T18:T18n0890	佛說瑜伽大教王經	佛說瑜伽大教王經	五	法賢	title_match
+tibetan:kangyur:KL00480	D480	113	882	1017	shinsu:T18:T18n0882	一切如來眞實攝大乘現證三昧大教王經	佛說一切如來真實攝大乘現證三昧大教王經	三十	施護	title_match
+tibetan:kangyur:KL00481	D481	114	888	1385	shinsu:T18:T18n0888	一切祕密最上名義大教王儀軌	一切祕密最上名義大教王儀軌	二	施護	title_match
+tibetan:kangyur:KL00482	D482	115	1171	1444	shinsu:T20:T20n1171	金剛頂經瑜伽文殊師利菩薩法	金剛頂經瑜伽文殊師利菩薩法		不空	title_match
+tibetan:kangyur:KL00487	D487	119	244	1037	shinsu:T08:T08n0244	佛說最上根本大樂金剛不空三昧大教王經	佛說最上根本大樂金剛不空三昧大教王經	七	法賢	title_match
+tibetan:kangyur:KL00489	D489	121	243	1044	shinsu:T08:T08n0243	大樂金剛不空眞實三摩耶經	大樂金剛不空真實三麼耶經		不空	title_match
+tibetan:kangyur:KL00490	D490	123	886	944	shinsu:T18:T18n0886	佛說金剛場莊嚴般若波羅蜜多教中一分	佛說金剛場莊嚴般若波羅蜜多教中一分		施護	title_match
+tibetan:kangyur:KL00494	D494	126	848	530	shinsu:T18:T18n0848	大毘盧遮那成佛神變加持經	大毘盧遮那成佛神變加持經	七	輸波迦羅	title_match
+tibetan:kangyur:KL00503	D503	135	451	172	shinsu:T14:T14n0451	藥師瑠璃光七佛本願功德經	藥師琉璃光七佛本願功德經	二	義淨	title_match
+tibetan:kangyur:KL00504	D504	136	449	170	shinsu:T14:T14n0449	佛說藥師如來本願經	佛說藥師如來本願經		達摩笈多	title_match
+tibetan:kangyur:KL00506	D506	138	1005A	1028	shinsu:T19:T19n1005A	大寶廣博樓閣善住祕密陀羅尼經	大寶廣博樓閣善住祕密陀羅尼經	三	不空	title_match
+tibetan:kangyur:KL00507	D507	508	1022	957	shinsu:T19:T19n1022A	一切如來心祕密全身舍利寶篋印陀羅尼經	一切如來心祕密全身舍利寶篋印陀羅尼經		不空	title_match
+tibetan:kangyur:KL00507	D507	508	1023	863	shinsu:T19:T19n1023	一切如來正法祕密篋印心陀羅尼經	一切如來正法祕密篋印心陀羅尼經		施護	title_match
+tibetan:kangyur:KL00516	D516	316	1356	837	shinsu:T21:T21n1356	佛説華積陀羅尼神咒經	佛說華積陀羅尼神呪經		支謙	title_match
+tibetan:kangyur:KL00526	D526	312	1360	493	shinsu:T21:T21n1360	六門陀羅尼經	六門陀羅尼經		玄奘	title_match
+tibetan:kangyur:KL00529	D529	317	1371	830	shinsu:T21:T21n1371	佛說最大祕密王經	佛說聖大總持王經		施護	taisho_title_differs
+tibetan:kangyur:KL00543	D543	162	1191	1056	shinsu:T20:T20n1191	大方廣菩薩藏文殊師利根本儀軌經	大方廣菩薩藏文殊師利根本儀軌經	二十	天息災	title_match
+tibetan:kangyur:KL00552	D552	165	1190	1032	shinsu:T20:T20n1190	聖者文殊師利讚	聖妙吉祥真實名經		智慧	taisho_title_differs
+tibetan:kangyur:KL00553	D553	172	289	999	shinsu:T10:T10n0289	聖八千頌般若波羅蜜多一百八名眞實圓義陀羅尼經	顯無邊佛土功德經		施護	taisho_title_differs
+tibetan:kangyur:KL00554	D554	173	249	865	shinsu:T08:T08n0249	帝釋般若波羅蜜多心經	佛說帝釋般若波羅蜜多心經		施護	title_match
+tibetan:kangyur:KL00555	D555	174	665	126	shinsu:T16:T16n0665	金光明最勝王經	金光明最勝王經	十	義淨	title_match
+tibetan:kangyur:KL00556	D556	175	665	126	shinsu:T16:T16n0665	金光明最勝王經	金光明最勝王經	十	義淨	title_match
+tibetan:kangyur:KL00557	D557	176	663	127	shinsu:T16:T16n0663	金光明經	金光明經	四	曇無讖	title_match
+tibetan:kangyur:KL00558	D558	177	999	784	shinsu:T19:T19n0999	佛說守護大千國土經	佛說守護大千國土經	三	施護	title_match
+tibetan:kangyur:KL00559	D559	178	982	807	shinsu:T19:T19n0982	佛母大孔雀明王經	佛母大孔雀明王經	三	不空	title_match
+tibetan:kangyur:KL00561	D561	179	1153	1042	shinsu:T20:T20n1153	普遍光明清淨熾盛如意寶印心無能勝大明王大隨求陀羅尼經	普遍光明清淨熾盛如意寶印心無能勝大明王大隨求陀羅尼經	二	不空	title_match
+tibetan:kangyur:KL00564	D564	182	1257	844	shinsu:T21:T21n1257	大摩里支菩薩經	佛說大摩里支菩薩經	七		title_match
+tibetan:kangyur:KL00565	D565	183	1257		shinsu:T21:T21n1257	前揭天息災	佛說大摩里支菩薩經			taisho_title_differs
+tibetan:kangyur:KL00566	D566	184	1257		shinsu:T21:T21n1257	前揭天息災	佛說大摩里支菩薩經			taisho_title_differs
+tibetan:kangyur:KL00570	D570	190	1404	886	shinsu:T21:T21n1404	如意寶總持王經	佛說如意寶總持王經		施護	title_match
+tibetan:kangyur:KL00571	D571	189	1264	961	shinsu:T21:T21n1264a	觀自在菩薩化身蘘麌哩曳寶女銷伏毒害陀羅尼經	觀自在菩薩化身蘘麌哩曳童女銷伏毒害陀羅尼經		不空	title_match
+tibetan:kangyur:KL00575	D575	313				六字大陀羅尼經				no_taisho
+tibetan:kangyur:KL00590	D590	202	976		shinsu:T19:T19n0976	佛頂大白傘蓋陀羅尼經	佛頂大白傘蓋陀羅尼經		沙囉巴	title_match
+tibetan:kangyur:KL00594	D594	199	978	871	shinsu:T19:T19n0978	佛說一切如來烏瑟膩沙最勝總持經法	佛說一切如來烏瑟膩沙最勝總持經		天	title_match
+tibetan:kangyur:KL00597	D597	198	974A	796	shinsu:T19:T19n0974A	最勝佛頂陀羅尼經法	最勝佛頂陀羅尼經		天	title_match
+tibetan:kangyur:KL00605	D605	418								no_taisho
+tibetan:kangyur:KL00612	D612	306	943	795	shinsu:T19:T19n0943	佛說無能勝幡王如來莊嚴陀羅尼經	佛說無能勝幡王如來莊嚴陀羅尼經	一	施護	title_match
+tibetan:kangyur:KL00736	D736	186	1384	888	shinsu:T21:T21n1384	佛説鉢蘭那賒囉陀羅尼經	佛說鉢蘭那賒嚩哩大陀羅尼經			title_match
+tibetan:kangyur:KL00852	D852	477	1384	867	shinsu:T21:T21n1384	如來方便善巧咒經	佛說鉢蘭那賒嚩哩大陀羅尼經		闍那崛多	taisho_title_differs
+tibetan:kangyur:KL00853	D853	478	1348	385	shinsu:T21:T21n1348	佛說十二佛名神咒校量功德除障滅罪經	佛說十二佛名神呪校量功德除障滅罪經		闍那崛多	title_match
+tibetan:kangyur:KL00854	D854	479	918	489	shinsu:T19:T19n0918	佛心陀羅尼經	諸佛心陀羅尼經		玄奘	title_match
+tibetan:kangyur:KL00856	D856	481	1346	495	shinsu:T21:T21n1346	諸佛集會陀羅尼經	諸佛集會陀羅尼經		提雲般若	title_match
+tibetan:kangyur:KL00858	D858	195	1355	799	shinsu:T21:T21n1355	佛説最上燈明如來陀羅尼經	佛說聖最上燈明如來陀羅尼經		施護	title_match
+tibetan:kangyur:KL00858	D858	483	978	871	shinsu:T19:T19n0978	佛說一切如來烏瑟膩沙最勝總持經法	佛說一切如來烏瑟膩沙最勝總持經		天	title_match
+tibetan:kangyur:KL00872	D872	497	1409	878	shinsu:T21:T21n1409	佛說聖最勝陀羅尼經	佛說聖最勝陀羅尼經		施護	title_match
+tibetan:kangyur:KL00882	D882	507	1168A	880	shinsu:T20:T20n1168A	佛說大乘八大曼拏羅經法	佛說大乘八大曼拏羅經		賢	title_match
+tibetan:kangyur:KL00989	D989	188	1075	345	shinsu:T20:T20n1075	佛説七倶胝佛母準提大明陀羅尼經	佛說七俱胝佛母准提大明陀羅尼經		金剛智	title_match
+tibetan:kangyur:KX00319E	D319	985	689	261	shinsu:T16:T16n0689	甚希有經	甚希有經		|玄奘	title_match

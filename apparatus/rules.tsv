@@ -1,0 +1,25 @@
+rule_id	type	action	confidence	matches (ACIP original)	reading	reason
+C01_corrupt_bytes	C	mark_corrupt	high	run of non-ASCII bytes, e.g. 9àj,`Òl2ÖÀDp²	(unchanged; unresolved)	encoding garbage from digitization; needs witness
+N01_brace_note	N	remove_to_note	high	{X} {?} {KHA} {DD}	removed; text kept in note	inputter note inside braces
+N02_bracket_comment	N	remove_to_note	high	[ ... ]	removed; text kept in note	ACIP comment (converter already drops it)
+B02_english_run	B	remove_to_note	medium	Note to ... / three or more English words	removed; text kept in note	bibliographic text mixed into body
+B04_scan_form_label	B	remove_to_note	high	Publisher: / Title Page / Scanning Information:	removed; text kept in note	TBRC scan input-form labels
+B01_paren_dates	B	remove_to_note	high	(1770-1845)	removed; text kept in note	author dates from catalog
+B03_paren_english	B	remove_to_note	medium	(missing page), (Found in ...)	removed; text kept in note	English inputter remark in parentheses
+F01_folio_marker	F	remove_to_note	high	@12 / .1A	removed; text kept in note	page or folio marker inside body
+P01_paren_enumerator	P	keep_tagged	high	(1) (2) (12)	unchanged	outline numbering in Sungbum; real content
+M01_paren_annotation	M	keep_tagged	medium	(BSHAD PA) - Tibetan in parentheses	unchanged; shown as small note	ACIP small print = interlinear annotation (mchan)
+U01_question_mark	U	mark_uncertain	high	? ?? ???	unchanged; shown as unreadable	inputter could not read the syllable
+S01_avagraha_amp	S	keep_tagged	high	& inside a word: KO&HAm, RO&KshA	unchanged	Sanskrit avagraha in mantras
+U02_standalone_amp	U	mark_uncertain	medium	& standing alone	unchanged; review	meaning not confirmed
+U03_dollar	U	mark_uncertain	medium	$	unchanged; review	meaning not confirmed
+U04_underscore	U	mark_uncertain	medium	_ __	unchanged; review	gap or missing syllable
+S02_candrabindu_pct	S	keep_tagged	high	%  e.g. H'U%	unchanged	ACIP candrabindu (converter maps % to ~X); mantra sign
+P02_smart_quote	P	normalize	high	’ ‘ “ ”	'	typing artifact
+S03_acip_sanskrit_lowercase	S	keep_tagged	high	AAshtA, nYE, HAm, PAndI	unchanged	ACIP lowercase t th d dh n sh / i / m are valid Sanskrit notation
+P03_acip_emphasis_mark	P	keep_tagged	high	BLOo, BSTANo, LAx, x	unchanged	ACIP lowercase o/x = emphasis mark under a syllable (converter maps o to x); not a typo
+W01_lowercase_to_acip_upper	W	normalize	medium	PAs, SOGs, LAGs	upper case (PAS)	stray lowercase outside ACIP notation = typing error
+W03_retroflex_sH_to_sh	W	normalize	high	KsHA, RAKsHA	sh (KshA)	retroflex sh typed as sH; upper-casing would turn ṣ into ś
+W04_lowercase_v_unclear	W	review	low	RvA, DvAGS, SvA	(unchanged; unresolved)	meaning of lowercase v not confirmed
+W02_lowercase_wylie_run	W	convert_wylie	medium	sbyong mtshon cha / grel pa dang	(unresolved; Wylie->ACIP conversion)	Tibetan typed in lowercase Wylie
+T00_converter_warning_only	T	await_witness	low	SID with converter warnings and no rule above	(none yet)	typo or Sanskrit; decided by witness alignment
