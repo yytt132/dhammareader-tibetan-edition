@@ -1,9 +1,9 @@
 # Changelog
 
-## Unreleased (segments)
+## Unreleased (segments and plain conversion)
 
-The text is cut into new segments; the text itself is unchanged (see *Segments* and *From the 2026-11-14 release* in
-the README).
+The text is cut into new segments, and the plain conversion takes the fixes of the older converter run (see
+*Segments*, *From the 2026-11-14 release* and *The plain conversion* in the README). The ACIP text is unchanged.
 
 - `text/`: 848,576 segments that followed the page blocks of the ACIP input become 1,576,285 segments cut at
   headings, stanzas, mantra runs, speech turns and sentence ends; 2,996 boundaries had to be forced
@@ -13,8 +13,15 @@ the README).
 - `crosswalk/` (new): every old SID and character range, with the new segments that hold it.
 - `apparatus/`: all 1,825,583 entries anchored on the new segments (`sid`, `span_start`, `span_end`, `base_sha256`;
   `end_sid` for 1,710 spans that run on into a later segment); `old_sid` keeps the SID of 2026-11-14.
-- Checked: read in order, the new segments of every work give the same ACIP, Unicode and corrected text as the old
-  ones (spaces aside); every old SID is in the crosswalk; every apparatus entry is kept.
+- `tibetan_unicode`: converted again from the same input; taken are the long vowel as U+0F71 instead of U+0FB0
+  (14,297 places), retroflex letters the older run dropped (2,780), the wa-zur apostrophe of rule `P03` and Latin
+  leftovers; everything else keeps the published reading. Apparatus offsets on the Unicode text are moved with it.
+- `tibetan_unicode_corrected`: built from the accepted entries alone, clause by clause, instead of converting whole
+  segments again; 12,859 segments read differently from 2026-11-14, all of them in the kinds above, spaces (308) and
+  a few modern dates the cleaned input leaves out. Seventeen accepted normalizations and eleven removals that run over
+  a new boundary are split between the two segments.
+- Checked against 2026-11-14: the same 5,562 works and the same ACIP text in order; the same apparatus entries;
+  every old SID in the crosswalk; 1,635 accepted entries left unapplied, the same ones as in the 2026-11-14 build.
 - `catalog/works.tsv`: the columns `sids` and `corrected_sids` are now `segments` and `corrected_segments`.
 
 ## 2026-11-14 (known issue)

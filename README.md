@@ -56,9 +56,10 @@ the shads of the two texts do not line up.
 ### From the 2026-11-14 release
 
 The segments of the 2026-11-14 release followed the page blocks of the ACIP input (the blank lines between groups of
-lines). A third of them ended inside a phrase, and some ran to 110,000 characters. They are replaced here; the text is
-the same. Read in order, the new segments of a work give exactly the ACIP, Unicode and corrected text of the old ones
-(spaces aside), and every apparatus entry is kept, anchored on the segment that now holds its span.
+lines). A third of them ended inside a phrase, and some ran to 110,000 characters. They are replaced here. Read in
+order, the new segments of a work give exactly the ACIP text of the old ones, and every apparatus entry is kept,
+anchored on the segment that now holds its span. The Unicode text changes only where the older converter was wrong
+(see *The plain conversion*).
 
 Old SIDs are not given to other text: the new segments of a work are numbered on from its last old SID (TD03824 had
 `s000000001`–`s000000210`; its new segments begin at `s000000211`). `crosswalk/` follows any old SID and character
@@ -66,15 +67,34 @@ range into the new segments, and the 2026-11-14 release stays on Zenodo
 ([10.5281/zenodo.24213726](https://doi.org/10.5281/zenodo.24213726)). The reading site still shows the 2026-11-14 segments and
 their SIDs while the Korean translations are being moved to the new segments.
 
+### The plain conversion
+
+`tibetan_unicode` of the 2026-11-14 release came from an older run of the converter. Here it is converted again from
+the same input (the cleaned conversion input where there is one), and only the changes that fix the older run are
+taken:
+
+- the long vowel written as the subjoined a-chung (U+0FB0) instead of the vowel sign (U+0F71), so that the same word
+  was spelt two ways (ཝྰ་ར་ཎཱ་སི / ཝཱ་ར་ཎཱ་སི): 14,297 places;
+- a retroflex letter dropped before wa-zur and the long vowel: 2,780 places (`KHA tV'Am`, *khaṭvāṅga*, now
+  ཁ་ཊྭཱཾ, not ཁ་ཝྰཾ);
+- wa-zur followed by an apostrophe (rule `P03`: གྲྭའི, not གྲྭཱི) and Latin letters left in the text (ཝའོ, not ཝO).
+
+Where today's converter would bring in a Latin mark or read otherwise (the apostrophe after the letter wa:
+`WA'A RA n'A SI` is wā, so ཝཱ stays; brackets; spaces), the published reading is kept.
+
+The corrected text is now built from the accepted entries alone: a rule correction converts again only the clause it
+is in, and a witness correction changes only its span. The 2026-11-14 build converted whole segments again, which
+also changed places that have no entry; such places now read as the plain conversion and the entries say. In all,
+12,859 segments read differently from 2026-11-14: the places above, 308 spaces, and a few modern dates in brackets
+that the cleaned input leaves out and the whole-segment conversion had put back. Entries made on the older conversion
+where the new one already gives their reading change nothing.
+
 ## Known issues
 
-- In 588 segments the corrected text is not what the segment's accepted entries alone give. The converter fix
-  (`P03`) and rule corrections were applied by converting a whole old segment again, and that also changed a few
-  places that have no entry of their own (mostly `W'A`, written ཝཱ instead of ཝྰ). This release keeps the corrected
-  text as it was published.
-- In 31,187 segments (2%) `tibetan_unicode` is not what today's converter makes of `acip_original`: it was converted
-  from a cleaned input (notes in brackets left out) or before the converter fix. Apparatus offsets refer to the stored
-  `tibetan_unicode`.
+- 1,635 accepted entries are not applied because their lemma is not at their span, as in the 2026-11-14 build.
+- About 27,000 Latin letters and marks are left in 14,108 segments of the reading text: `?` of uncertain-reading
+  marks, `.` in numbers, `+` where the converter could not build a stack, and `&`, `~`, `H`, `O`, `E` from the ACIP
+  input. They are as they were in 2026-11-14.
 
 ## Quick start
 
@@ -152,7 +172,8 @@ and for an alignment variant it gives the syllables as aligned, without punctuat
    `KANGYUR.zip` `14c06e3a…2fbc9ce1`, `TENGYUR.zip` `9b473331…4d441d37`, `SUNGBUM.zip` `68e0aefd…9a411716`.
 2. **Conversion.** ACIP → EWTS → Unicode with pyewts 0.2.0 and a round-trip check. We fixed one converter bug:
    wa-zur followed by an apostrophe and a vowel was read as a long vowel (`RVA'I` → རྭཱི instead of རྭའི,
-   without a warning). Affected segments are converted again (rule `P03_converter_wazur_apostrophe`).
+   without a warning). Affected segments are converted again (rule `P03_converter_wazur_apostrophe`). Since the
+   re-segmentation, the plain conversion takes the fixes of the older run everywhere (see *The plain conversion*).
 3. **Rule corrections.** Editor notes, bibliographic intrusions, folio markers, uncertain-reading marks,
    lowercase Wylie and punctuation, by the rules in `apparatus/rules.tsv`. Sanskrit transliteration is tagged, not changed.
 4. **Witness alignment.** Syllable alignment with the Esukhia Derge Kangyur (commit `a582cf4`) and Tengyur
@@ -160,7 +181,7 @@ and for an alignment variant it gives the syllables as aligned, without punctuat
    Our Kangyur is the Lhasa edition, so where both readings are valid syllables the difference is recorded as an
    edition variant (`V`), not corrected. The Sungbum has no witness: only rule corrections and the converter fix apply.
 5. **Decisions.** High-confidence witness rules were sample-reviewed before acceptance; medium and low entries stay
-   `proposed`. The corrected text is rebuilt mechanically from the accepted entries; two rebuilds give the same hash.
+   `proposed`. The corrected text is rebuilt mechanically from the accepted entries alone, clause by clause.
 6. **Segments.** The text was cut again by the rules under *Segments* (see *From the 2026-11-14 release*). The rules
    were checked on 20 works of every kind (sūtra, Prajñāpāramitā, Vinaya, dhāraṇī, tantra, verse and prose treatises,
    praise, sādhana, grammar, Sungbum commentary, songs and ritual) before they were applied to the whole canon.
@@ -261,16 +282,29 @@ ACIP 티벳대장경(칸규르 라싸판, 텐규르 델게판)과 숭붐의 교�
 구절이며 `acip_original`과 `tibetan_unicode`의 글자 위치로 적는다.
 
 2026-11-14 판의 마디는 ACIP 입력본의 쪽 덩어리를 따라 나뉘어, 3분의 1이 구 가운데서 끝나고 아주 긴 마디도 있었다. 이
-판에서 그 마디를 바꿨고 글은 바꾸지 않았다. 새 마디를 차례로 이으면 옛 마디의 ACIP·유니코드·교정본과 (띄어쓰기를
-빼고) 글자까지 같고, 교정 기록은 모두 그 자리를 담은 새 마디에 그대로 남는다(옛 번호는 `old_sid`). 옛 번호는 다른
+판에서 그 마디를 바꿨다. 새 마디를 차례로 이으면 옛 마디의 ACIP와 글자까지 같고, 교정 기록은 모두 그 자리를 담은 새
+마디에 그대로 남는다(옛 번호는 `old_sid`). 유니코드는 옛 변환기가 틀린 곳만 바뀐다(아래 「기계 변환」). 옛 번호는 다른
 글에 다시 쓰지 않는다. 새 마디는 문헌마다 옛 마지막 번호 다음부터 번호를 받으며(중론: 옛 `s000000001`~`s000000210`,
 새 `s000000211`부터), `crosswalk/`가 옛 번호와 글자 범위를 새 마디로 잇는다. 2026-11-14 판은 Zenodo에 그대로 있다. 읽기 사이트는 한국어 번역을 새 마디로 옮기는
 동안 2026-11-14 판의 마디와 번호를 그대로 보여 준다.
 
-알려진 문제: 588개 마디는 교정본이 채택된 기록만으로 만든 결과와 다르다. 변환기 수정(P03)과 규칙 교정을 옛
-마디 전체를 다시 변환하는 방식으로 적용해서, 기록이 없는 몇 곳(주로 `W'A`: ཝྰ 대신 ཝཱ)도 함께 바뀌었기 때문이다. 이
-판은 공개된 교정본을 그대로 둔다. 31,187개 마디(2%)는 `tibetan_unicode`가 지금 변환기로 `acip_original`을 바꾼 것과
-다르다(괄호 주석을 뺀 입력본이나 변환기 수정 전에 변환한 것). 교정 기록의 글자 위치는 저장된 `tibetan_unicode`를 따른다.
+### 기계 변환
+
+2026-11-14 판의 `tibetan_unicode`는 옛 변환기로 만들었다. 이 판에서는 같은 입력(정리한 변환 입력본이 있으면 그것)을
+지금 변환기로 다시 바꾸되, 옛 변환기의 결함을 고친 변경만 받았다. 긴 모음을 아래 붙는 아추(U+0FB0)로 적어 같은
+낱말이 두 가지로 섞였던 곳(ཝྰ་ར་ཎཱ་སི / ཝཱ་ར་ཎཱ་སི) 14,297곳, 와수르와 긴 모음 앞의 반전 자음을 잃었던 곳 2,780곳
+(`KHA tV'Am` 카땀가: ཁ་ཝྰཾ → ཁ་ཊྭཱཾ), 와수르 뒤 아포스트로피(P03 규칙: གྲྭཱི → གྲྭའི)와 글 속에 남은 로마자(ཝO →
+ཝའོ)다. 지금 변환기가 로마자 기호를 들이거나 다르게 읽는 곳(글자 ཝ 뒤의 아포스트로피: `WA'A RA n'A SI`는 wā라서
+ཝཱ를 둔다, 괄호, 띄어쓰기)은 공개된 글을 그대로 둔다.
+
+교정본은 이제 채택된 기록만으로 만든다. 규칙 교정은 그 절만 다시 변환하고 대조 교정은 그 자리만 바꾼다. 2026-11-14
+판은 마디 전체를 다시 변환해서 기록이 없는 곳도 함께 바뀌었는데, 그런 곳은 이제 기계 변환과 기록이 말하는 대로
+읽힌다. 2026-11-14 판과 읽기가 다른 마디는 모두 12,859개다(위의 곳들, 띄어쓰기 308곳, 정리한 입력본이 뺀 괄호 속
+현대 연대를 마디 전체 재변환이 되살렸던 몇 곳).
+
+알려진 문제: 채택된 기록 1,635건은 원래 글(`lemma`)이 그 자리에 없어 2026-11-14 판처럼 적용되지 않는다. 읽기 글의
+14,108마디에 로마자와 기호가 약 27,000개 남아 있다(불확실 표시의 `?`, 숫자의 `.`, 변환기가 겹글자를 만들지 못한
+`+`, ACIP 입력의 `&` `~` `H` `O` `E` 등). 2026-11-14 판과 같다.
 
 ### 사용법
 
