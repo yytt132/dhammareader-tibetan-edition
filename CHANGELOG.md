@@ -20,20 +20,24 @@ witness corrections left unapplied in 2026-11-14 now apply, and each segment giv
 - `tibetan_unicode_corrected`: built from the accepted entries alone, clause by clause, instead of converting whole
   segments again. Seventeen accepted normalizations and eleven removals that run over a new boundary are split between
   the two segments.
-- 1,622 of the 1,635 accepted Derge-witness entries that 2026-11-14 left unapplied now apply (19 were already given by
+- 1,631 of the 1,635 accepted Derge-witness entries that 2026-11-14 left unapplied now apply (19 were already given by
   a rule correction): their lemma, from the syllable alignment, lacks the base's shads and spaces, so the reading's
   changes are made on the base and its punctuation is kept. Most are Sanskrit stacks the converter left as `+`
-  (ར+ཡ → རྱ); `+` in the reading text goes from 4,070 to 2,571. 13 stay unapplied (see *Known issues*).
+  (ར+ཡ → རྱ); `+` in the reading text goes from 4,070 to 2,571. 4 stay unapplied: they would remove a shad.
 - New rule `W05` (`apparatus/rules.tsv`): ACIP `KSH` in a Sanskrit word is kṣa, `Ksh` (ཀྵ, not ཀྴ); 356 accepted
-  entries. *Pakshi*/*Bakshi* and *Trakshad* keep ka over sha. Rule `W01` no longer upper-cases the retroflex `sh` of
-  kṣa: 21 entries read `AAKshI` instead of `AAKSHI`, the old reading in `note`. ཀྴ in the reading text: 514 → 138.
-- 14,404 segments read differently from 2026-11-14, all of them in the kinds above, spaces and tshegs (821) and a few
+  entries. *Pakshi*/*Bakshi* and *Trakshad* keep ka over sha. ཀྴ in the reading text: 514 → 138.
+- Rule `W01` (stray lowercase upper-cased) had also upper-cased the Sanskrit lowercase of retroflex letters and the
+  anusvara: 21 entries keep the `sh` of kṣa (`AAKshI`, not `AAKSHI`), 40 keep the lowercase the corpus clearly
+  attests (`H'Um`, not `H'UM`), and 9 are `rejected` where a Derge-witness entry corrects the same word. The old
+  reading or status is in each entry's `note`.
+- 14,444 segments read differently from 2026-11-14, all of them in the kinds above, spaces and tshegs (823) and a few
   modern dates the cleaned input leaves out.
 - `text/`: new field `pages`, the page markers of the ACIP input (`@2B`) each segment spans, with the offsets in
   `acip_original` and `tibetan_unicode` where each page begins: 350,960 page breaks; the page is unknown in 5,868
   segments, all but 10 in the Sungbum.
 - Checked against 2026-11-14: the same 5,562 works and the same ACIP text in order; the same apparatus entries
-  besides the `W05` entries and the 21 `W01` readings; every old SID in the crosswalk. Page breaks checked against the ACIP files in 40 random streams (1,700 breaks).
+  besides the `W05` entries and the 70 revised `W01` entries; every old SID in the crosswalk. Page breaks checked
+  against the ACIP files in 40 random streams (1,700 breaks).
 - `catalog/works.tsv`: the columns `sids` and `corrected_sids` are now `segments` and `corrected_segments`.
 
 ## 2026-11-14 (known issue)
