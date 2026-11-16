@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased (segments, plain conversion, pages)
+## 2026-11-17 (segments, plain conversion, pages)
 
 The text is cut into new segments, the plain conversion takes the fixes of the older converter run, nearly all
 witness corrections left unapplied in 2026-11-14 now apply, and each segment gives the pages of the input it spans
