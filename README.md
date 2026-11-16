@@ -95,22 +95,32 @@ is in, and a witness correction changes only its span. The 2026-11-14 build conv
 also changed places that have no entry; such places now read as the plain conversion and the entries say. Entries
 made on the older conversion where the new one already gives their reading change nothing.
 
-Of the 1,635 accepted Derge-witness entries that the 2026-11-14 build left unapplied, 1,613 now apply (14 of them
+Of the 1,635 accepted Derge-witness entries that the 2026-11-14 build left unapplied, 1,622 now apply (19 of them
 were already given by a rule correction). The syllable alignment writes a lemma without the base's shads and spaces,
 so the lemma did not match the text at its span (པདམའོ་ཀུན་དུ for པདམའོ། །ཀུན་དུ). The reading's changes are now
 made on the base, which keeps its own punctuation; a change that would remove a shad is not made. Most of these
 entries are Sanskrit stacks the converter could not build and left as `+` (`R+YA`: ར+ཡ, now རྱ, as the witness
 reads); the `+` marks in the reading text go from 4,070 to 2,571.
 
-In all, 14,127 segments read differently from 2026-11-14: the converter fixes above, these entries, 817 spaces and
+kṣa is ACIP `Ksh`, ka over the retroflex sha (ཀྵ). Where the input has `KSH` in a Sanskrit word, ka over sha (ཀྴ:
+རཀྴ for རཀྵ, ལཀྴྨཱི for ལཀྵྨཱི), rule `W05` (2026-11-16) writes it kṣa in the corrected text, one apparatus entry
+per word (356 entries); the plain conversion keeps ཀྴ as the input has it. The same words have ཀྵ far more often
+(རཀྵ 1,861 times, རཀྴ 83), and the Derge witness reads ཀྵ where the two were aligned, though it too writes ཀྴ in some
+places, so this is a normalization of Sanskrit spelling. Words that are not Sanskrit keep ka over sha, as Tibetan
+writes them: the title *Pakshi* or *Bakshi* (Mongolian *baqši*: ཀརྨ་པཀྴི) and the protector *Trakshad* (ཏྲཀྴད).
+They are nearly all of the 138 places where ཀྴ is left. Rule `W01` (stray lowercase letters upper-cased) had also
+upper-cased the retroflex `sh` of kṣa in 21 entries (`AAkshI` → `AAKSHI`); they now read `AAKshI`, with the old
+reading in `note`.
+
+In all, 14,404 segments read differently from 2026-11-14: the converter fixes above, these entries, 821 spaces and
 tshegs, and a few modern dates in brackets that the cleaned input leaves out and the whole-segment conversion had put
 back.
 
 ## Known issues
 
-- 22 accepted entries are not applied. In 18 an approved rule correction has already changed the same letters in
-  another way: mostly ACIP `KSH` converted as ཀྴ (ka with subjoined sha) where the Derge witness has ཀྵ (kṣa). In 4
-  the reading would remove a shad of the base.
+- 13 accepted entries are not applied. In 9, rule `W01` has upper-cased other Sanskrit lowercase in the same word
+  (`KArnA` → `KARNA`: ཀརྣ where the witness reads ཀརྞ; the anusvara `m` → `M`), which about 45 `W01` entries do. In
+  4 the reading would remove a shad of the base.
 - About 25,500 Latin letters and marks are left in 13,179 segments of the reading text: `?` of uncertain-reading
   marks, `.` in numbers, `+` where the converter could not build a stack (2,571), and `&`, `~`, `H`, `O`, `E` from
   the ACIP input.
@@ -333,17 +343,26 @@ ACIP 티벳대장경(칸규르 라싸판, 텐규르 델게판)과 숭붐의 교�
 판은 마디 전체를 다시 변환해서 기록이 없는 곳도 함께 바뀌었는데, 그런 곳은 이제 기계 변환과 기록이 말하는 대로
 읽힌다.
 
-2026-11-14 판에서 적용되지 않았던 데르게 대조 기록 1,635건 가운데 1,613건이 이제 적용된다(14건은 규칙 교정이 이미 같은
+2026-11-14 판에서 적용되지 않았던 데르게 대조 기록 1,635건 가운데 1,622건이 이제 적용된다(19건은 규칙 교정이 이미 같은
 글을 만들어 둔 곳). 음절 정렬이 `lemma`를 쎄와 띄어쓰기 없이 적어서(པདམའོ། །ཀུན་དུ를 པདམའོ་ཀུན་དུ로) 그 자리 글과 맞지
 않았던 것이다. 이제는 바뀌는 글자만 원문에 반영하고 원문의 쎄는 그대로 둔다. 쎄를 지우게 되는 바뀜은 하지 않는다.
 대부분은 변환기가 겹글자를 만들지 못하고 `+`로 남긴 범어 겹글자다(`R+YA`: ར+ཡ → 대조본대로 རྱ). 읽기 글의 `+`는
 4,070개에서 2,571개로 줄었다.
 
-2026-11-14 판과 읽기가 다른 마디는 모두 14,127개다(위의 변환기 수정과 대조 기록, 띄어쓰기와 음절점(tsheg) 817곳, 정리한 입력본이 뺀 괄호 속 현대
-연대를 마디 전체 재변환이 되살렸던 몇 곳).
+끄샤(kṣa)는 ACIP로 `Ksh`, 곧 까 아래 반전 샤(ཀྵ)다. 입력본이 범어 낱말에서 `KSH`(까 아래 샤, ཀྴ)로 적은 곳(རཀྴ,
+ལཀྴྨཱི)은 `W05` 규칙(2026-11-16)이 교정본에서 끄샤로 고치고, 낱말마다 교정 기록을 하나씩 남긴다(356건). 기계 변환은
+입력본대로 ཀྴ를 둔다. 같은 낱말이 다른 곳에서는 ཀྵ로 훨씬 많이 쓰이고(རཀྵ 1,861번, རཀྴ 83번), 데르게 대조본도 정렬된
+곳에서는 ཀྵ로 읽는다. 다만 대조본도 몇 곳은 ཀྴ로 적으므로, 이것은 범어 표기를 맞춘 것이다. 범어가 아닌 낱말은 티벳
+관례대로 ཀྴ를 둔다. 몽골어 칭호 파크시·박시(*baqši*: ཀརྨ་པཀྴི)와 호법신 트락샤드(ཏྲཀྴད)로, ཀྴ가 남은 138곳이 거의
+모두 이 낱말이다. 또 `W01` 규칙(잘못 친 소문자를 대문자로)이 끄샤의 반전 `sh`까지 대문자로 바꾼 21건(`AAkshI` →
+`AAKSHI`)은 `AAKshI`로 고쳤고, 옛 읽기는 `note`에 적었다.
 
-알려진 문제: 채택된 기록 22건은 적용되지 않는다. 18건은 승인된 규칙 교정이 같은 글자를 다르게 이미 바꾼 곳으로, 대부분
-ACIP `KSH`가 ཀྴ(까 아래 샤)로 바뀌었는데 데르게 대조본은 ཀྵ(끄샤)인 경우다. 4건은 바꾸면 원문의 쎄가 지워지는 곳이다.
+2026-11-14 판과 읽기가 다른 마디는 모두 14,404개다(위의 변환기 수정과 대조 기록, 끄샤, 띄어쓰기와 음절점(tsheg) 821곳,
+정리한 입력본이 뺀 괄호 속 현대 연대를 마디 전체 재변환이 되살렸던 몇 곳).
+
+알려진 문제: 채택된 기록 13건은 적용되지 않는다. 9건은 `W01` 규칙이 같은 낱말의 다른 범어 소문자까지 대문자로 바꾼
+곳이다(`KArnA` → `KARNA`: 대조본은 ཀརྞ인데 ཀརྣ, 아누스와라 `m` → `M`). `W01` 기록 가운데 약 45건이 이렇다. 4건은
+바꾸면 원문의 쎄가 지워지는 곳이다.
 읽기 글의 13,179마디에 로마자와 기호가 약 25,500개 남아 있다(불확실 표시의 `?`, 숫자의 `.`, 변환기가 겹글자를 만들지
 못한 `+` 2,571개, ACIP 입력의 `&` `~` `H` `O` `E` 등).
 

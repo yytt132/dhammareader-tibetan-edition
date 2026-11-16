@@ -18,8 +18,9 @@ S02_candrabindu_pct	S	keep_tagged	high	%  e.g. H'U%	unchanged	ACIP candrabindu (
 P02_smart_quote	P	normalize	high	’ ‘ “ ”	'	typing artifact
 S03_acip_sanskrit_lowercase	S	keep_tagged	high	AAshtA, nYE, HAm, PAndI	unchanged	ACIP lowercase t th d dh n sh / i / m are valid Sanskrit notation
 P03_acip_emphasis_mark	P	keep_tagged	high	BLOo, BSTANo, LAx, x	unchanged	ACIP lowercase o/x = emphasis mark under a syllable (converter maps o to x); not a typo
-W01_lowercase_to_acip_upper	W	normalize	medium	PAs, SOGs, LAGs	upper case (PAS)	stray lowercase outside ACIP notation = typing error
+W01_lowercase_to_acip_upper	W	normalize	medium	PAs, SOGs, LAGs, AAkshI	upper case (PAS); the sh of kṣa stays lowercase (AAKshI)	stray lowercase outside ACIP notation = typing error; upper-casing ksh would turn ṣ into ś (corrected 2026-11-16)
 W03_retroflex_sH_to_sh	W	normalize	high	KsHA, RAKsHA	sh (KshA)	retroflex sh typed as sH; upper-casing would turn ṣ into ś
 W04_lowercase_v_unclear	W	review	low	RvA, DvAGS, SvA	(unchanged; unresolved)	meaning of lowercase v not confirmed
+W05_acip_KSH_to_kssa	W	normalize	high	RAKSHA, YAKSHA, LAKSHM'I	Ksh (RAKshA)	kṣa typed with capital SH (ka over sha, ཀྴ) in a Sanskrit word; ACIP writes kṣa Ksh. Kept: Pakshi/Bakshi (Mongolian title) and Trakshad, written ka over sha by Tibetan usage; tokens whose conversion would change more than the subjoined letter (approved 2026-11-16)
 W02_lowercase_wylie_run	W	convert_wylie	medium	sbyong mtshon cha / grel pa dang	(unresolved; Wylie->ACIP conversion)	Tibetan typed in lowercase Wylie
 T00_converter_warning_only	T	await_witness	low	SID with converter warnings and no rule above	(none yet)	typo or Sanskrit; decided by witness alignment
