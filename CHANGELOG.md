@@ -1,9 +1,10 @@
 # Changelog
 
-## Unreleased (segments and plain conversion)
+## Unreleased (segments, plain conversion, pages)
 
-The text is cut into new segments, and the plain conversion takes the fixes of the older converter run (see
-*Segments*, *From the 2026-11-14 release* and *The plain conversion* in the README). The ACIP text is unchanged.
+The text is cut into new segments, the plain conversion takes the fixes of the older converter run, nearly all
+witness corrections left unapplied in 2026-11-14 now apply, and each segment gives the pages of the input it spans
+(see *Segments*, *From the 2026-11-14 release* and *The plain conversion* in the README). The ACIP text is unchanged.
 
 - `text/`: 848,576 segments that followed the page blocks of the ACIP input become 1,576,285 segments cut at
   headings, stanzas, mantra runs, speech turns and sentence ends; 2,996 boundaries had to be forced
@@ -17,11 +18,19 @@ The text is cut into new segments, and the plain conversion takes the fixes of t
   (14,297 places), retroflex letters the older run dropped (2,780), the wa-zur apostrophe of rule `P03` and Latin
   leftovers; everything else keeps the published reading. Apparatus offsets on the Unicode text are moved with it.
 - `tibetan_unicode_corrected`: built from the accepted entries alone, clause by clause, instead of converting whole
-  segments again; 12,859 segments read differently from 2026-11-14, all of them in the kinds above, spaces (308) and
-  a few modern dates the cleaned input leaves out. Seventeen accepted normalizations and eleven removals that run over
-  a new boundary are split between the two segments.
+  segments again. Seventeen accepted normalizations and eleven removals that run over a new boundary are split between
+  the two segments.
+- 1,613 of the 1,635 accepted Derge-witness entries that 2026-11-14 left unapplied now apply (14 were already given by
+  a rule correction): their lemma, from the syllable alignment, lacks the base's shads and spaces, so the reading's
+  changes are made on the base and its punctuation is kept. Most are Sanskrit stacks the converter left as `+`
+  (ར+ཡ → རྱ); `+` in the reading text goes from 4,070 to 2,571. 22 stay unapplied (see *Known issues*).
+- 14,127 segments read differently from 2026-11-14, all of them in the kinds above, spaces and tshegs (817) and a few
+  modern dates the cleaned input leaves out.
+- `text/`: new field `pages`, the page markers of the ACIP input (`@2B`) each segment spans, with the offsets in
+  `acip_original` and `tibetan_unicode` where each page begins: 350,960 page breaks; the page is unknown in 5,868
+  segments, all but 10 in the Sungbum.
 - Checked against 2026-11-14: the same 5,562 works and the same ACIP text in order; the same apparatus entries;
-  every old SID in the crosswalk; 1,635 accepted entries left unapplied, the same ones as in the 2026-11-14 build.
+  every old SID in the crosswalk. Page breaks checked against the ACIP files in 40 random streams (1,700 breaks).
 - `catalog/works.tsv`: the columns `sids` and `corrected_sids` are now `segments` and `corrected_segments`.
 
 ## 2026-11-14 (known issue)

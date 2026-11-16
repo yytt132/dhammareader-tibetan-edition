@@ -11,7 +11,7 @@ Release announcement: [English](ANNOUNCEMENT.md) · [한국어](ANNOUNCEMENT.ko.
 
 | Path | Content |
 |---|---|
-| `text/<collection>/<work>.jsonl.gz` | One line per segment (SID), in reading order: `block_type`, `boundary_status`, `acip_original`, `tibetan_unicode` (plain conversion), `tibetan_unicode_corrected` (only where a correction applies), `children` (its sentences, verse lines or mantra phrases), `toh` (see *Segments*) |
+| `text/<collection>/<work>.jsonl.gz` | One line per segment (SID), in reading order: `block_type`, `boundary_status`, `acip_original`, `tibetan_unicode` (plain conversion), `tibetan_unicode_corrected` (only where a correction applies), `pages` (the folios of the input it spans), `children` (its sentences, verse lines or mantra phrases), `toh` (see *Segments*) |
 | `apparatus/<collection>/<work>.jsonl.gz` | Apparatus entries: span in the ACIP original or the Unicode text of a segment (`sid`; `end_sid` where a span runs on into a later segment), lemma, reading, type, action, rule, confidence, status (`accepted` / `proposed` / `rejected` / `unresolved`), evidence (witness and folio.line), and `old_sid`, the entry's SID in the 2026-11-14 release |
 | `crosswalk/<collection>/<work>.tsv.gz` | From the SIDs of the 2026-11-14 release to the segments of this release: for every old SID, the part of its text that each new segment holds, as offsets in the ACIP and in the Unicode text on both sides |
 | `apparatus/rules.tsv` | Rule table for the rule-based corrections (approved 2026-11-03) |
@@ -53,6 +53,14 @@ stretch with no sentence end was cut at a shad or, with no shad at all, between 
 are offsets into `acip_original`; `unicode_start` and `unicode_end` are offsets into `tibetan_unicode`, `null` where
 the shads of the two texts do not line up.
 
+`pages` locates a segment in its source: the page in effect where the segment begins (`start` 0) and every page that
+begins inside it, as `{"page": "2B", "start": 412, "unicode_start": 380}`, with `start` an offset into
+`acip_original` and `unicode_start` one into `tibetan_unicode`. The labels are the page markers of the ACIP input,
+taken as ACIP gives them: nearly all are folio and side (`@2B`: folio 2, side B), a few Sungbum files number pages
+(`12`) or use labels of their own (`III-01`). They have not been checked against the printed editions here. `page` is
+`null` for text before the first marker of a file and where a file numbers its pages twice over (5,868 segments, all
+but 10 in the Sungbum).
+
 ### From the 2026-11-14 release
 
 The segments of the 2026-11-14 release followed the page blocks of the ACIP input (the blank lines between groups of
@@ -84,17 +92,28 @@ Where today's converter would bring in a Latin mark or read otherwise (the apost
 
 The corrected text is now built from the accepted entries alone: a rule correction converts again only the clause it
 is in, and a witness correction changes only its span. The 2026-11-14 build converted whole segments again, which
-also changed places that have no entry; such places now read as the plain conversion and the entries say. In all,
-12,859 segments read differently from 2026-11-14: the places above, 308 spaces, and a few modern dates in brackets
-that the cleaned input leaves out and the whole-segment conversion had put back. Entries made on the older conversion
-where the new one already gives their reading change nothing.
+also changed places that have no entry; such places now read as the plain conversion and the entries say. Entries
+made on the older conversion where the new one already gives their reading change nothing.
+
+Of the 1,635 accepted Derge-witness entries that the 2026-11-14 build left unapplied, 1,613 now apply (14 of them
+were already given by a rule correction). The syllable alignment writes a lemma without the base's shads and spaces,
+so the lemma did not match the text at its span (པདམའོ་ཀུན་དུ for པདམའོ། །ཀུན་དུ). The reading's changes are now
+made on the base, which keeps its own punctuation; a change that would remove a shad is not made. Most of these
+entries are Sanskrit stacks the converter could not build and left as `+` (`R+YA`: ར+ཡ, now རྱ, as the witness
+reads); the `+` marks in the reading text go from 4,070 to 2,571.
+
+In all, 14,127 segments read differently from 2026-11-14: the converter fixes above, these entries, 817 spaces and
+tshegs, and a few modern dates in brackets that the cleaned input leaves out and the whole-segment conversion had put
+back.
 
 ## Known issues
 
-- 1,635 accepted entries are not applied because their lemma is not at their span, as in the 2026-11-14 build.
-- About 27,000 Latin letters and marks are left in 14,108 segments of the reading text: `?` of uncertain-reading
-  marks, `.` in numbers, `+` where the converter could not build a stack, and `&`, `~`, `H`, `O`, `E` from the ACIP
-  input. They are as they were in 2026-11-14.
+- 22 accepted entries are not applied. In 18 an approved rule correction has already changed the same letters in
+  another way: mostly ACIP `KSH` converted as ཀྴ (ka with subjoined sha) where the Derge witness has ཀྵ (kṣa). In 4
+  the reading would remove a shad of the base.
+- About 25,500 Latin letters and marks are left in 13,179 segments of the reading text: `?` of uncertain-reading
+  marks, `.` in numbers, `+` where the converter could not build a stack (2,571), and `&`, `~`, `H`, `O`, `E` from
+  the ACIP input.
 
 ## Quick start
 
@@ -133,6 +152,15 @@ with gzip.open('text/tengyur/TD03824.jsonl.gz', 'rt', encoding='utf-8') as f:
         if seg['block_type'] == 'verse_stanza':
             for c in seg['children']:
                 print(seg['sid'], c['id'], seg['tibetan_unicode'][c['unicode_start']:c['unicode_end']])
+```
+
+The folios each segment spans, for citing the text by page:
+
+```python
+with gzip.open('text/tengyur/TD03824.jsonl.gz', 'rt', encoding='utf-8') as f:
+    for line in f:
+        seg = json.loads(line)
+        print(seg['sid'], ' '.join(p['page'] or '?' for p in seg['pages'] or []))
 ```
 
 Where an SID of the 2026-11-14 release went:
@@ -279,7 +307,11 @@ ACIP 티벳대장경(칸규르 라싸판, 텐규르 델게판)과 숭붐의 교�
 말차례(… *gsol pa*, … *bka' stsal pa*)와 전환어(*de nas* …)에서 새 마디를 열고, 그 안에서는 문장을 이어 약 300자가
 되면 다음 문장 끝(동사와 맞는 종결어미, 의문 조사)에서 닫는다. `block_type`은 마디의 종류, `boundary_status`는 경계의
 확실성(`review_required`는 문장 끝이 오래 없어 쎄에서 강제로 자른 곳)이다. `children`은 산문의 문장, 게송의 구, 진언의
-구절이며 `acip_original`과 `tibetan_unicode`의 글자 위치로 적는다.
+구절이며 `acip_original`과 `tibetan_unicode`의 글자 위치로 적는다. `pages`는 마디가 걸친 입력본의 쪽이다. 마디가
+시작하는 쪽(`start` 0)과 마디 안에서 새로 시작하는 쪽마다 `{"page": "2B", "start": 412, "unicode_start": 380}`처럼
+적는다. 쪽 이름은 ACIP 입력본의 쪽 표시를 그대로 옮긴 것으로 거의 모두 장과 면(`@2B`: 2장 뒷면)이고, 숭붐 몇 파일은
+쪽 번호(`12`)나 저만의 표시(`III-01`)를 쓴다. 인쇄본과 대조하지는 않았다. 파일의 첫 쪽 표시 앞의 글과, 한 파일 안에서
+쪽 번호가 되풀이되는 곳은 `null`이다(5,868마디, 10마디 말고는 모두 숭붐).
 
 2026-11-14 판의 마디는 ACIP 입력본의 쪽 덩어리를 따라 나뉘어, 3분의 1이 구 가운데서 끝나고 아주 긴 마디도 있었다. 이
 판에서 그 마디를 바꿨다. 새 마디를 차례로 이으면 옛 마디의 ACIP와 글자까지 같고, 교정 기록은 모두 그 자리를 담은 새
@@ -299,12 +331,21 @@ ACIP 티벳대장경(칸규르 라싸판, 텐규르 델게판)과 숭붐의 교�
 
 교정본은 이제 채택된 기록만으로 만든다. 규칙 교정은 그 절만 다시 변환하고 대조 교정은 그 자리만 바꾼다. 2026-11-14
 판은 마디 전체를 다시 변환해서 기록이 없는 곳도 함께 바뀌었는데, 그런 곳은 이제 기계 변환과 기록이 말하는 대로
-읽힌다. 2026-11-14 판과 읽기가 다른 마디는 모두 12,859개다(위의 곳들, 띄어쓰기 308곳, 정리한 입력본이 뺀 괄호 속
-현대 연대를 마디 전체 재변환이 되살렸던 몇 곳).
+읽힌다.
 
-알려진 문제: 채택된 기록 1,635건은 원래 글(`lemma`)이 그 자리에 없어 2026-11-14 판처럼 적용되지 않는다. 읽기 글의
-14,108마디에 로마자와 기호가 약 27,000개 남아 있다(불확실 표시의 `?`, 숫자의 `.`, 변환기가 겹글자를 만들지 못한
-`+`, ACIP 입력의 `&` `~` `H` `O` `E` 등). 2026-11-14 판과 같다.
+2026-11-14 판에서 적용되지 않았던 데르게 대조 기록 1,635건 가운데 1,613건이 이제 적용된다(14건은 규칙 교정이 이미 같은
+글을 만들어 둔 곳). 음절 정렬이 `lemma`를 쎄와 띄어쓰기 없이 적어서(པདམའོ། །ཀུན་དུ를 པདམའོ་ཀུན་དུ로) 그 자리 글과 맞지
+않았던 것이다. 이제는 바뀌는 글자만 원문에 반영하고 원문의 쎄는 그대로 둔다. 쎄를 지우게 되는 바뀜은 하지 않는다.
+대부분은 변환기가 겹글자를 만들지 못하고 `+`로 남긴 범어 겹글자다(`R+YA`: ར+ཡ → 대조본대로 རྱ). 읽기 글의 `+`는
+4,070개에서 2,571개로 줄었다.
+
+2026-11-14 판과 읽기가 다른 마디는 모두 14,127개다(위의 변환기 수정과 대조 기록, 띄어쓰기와 음절점(tsheg) 817곳, 정리한 입력본이 뺀 괄호 속 현대
+연대를 마디 전체 재변환이 되살렸던 몇 곳).
+
+알려진 문제: 채택된 기록 22건은 적용되지 않는다. 18건은 승인된 규칙 교정이 같은 글자를 다르게 이미 바꾼 곳으로, 대부분
+ACIP `KSH`가 ཀྴ(까 아래 샤)로 바뀌었는데 데르게 대조본은 ཀྵ(끄샤)인 경우다. 4건은 바꾸면 원문의 쎄가 지워지는 곳이다.
+읽기 글의 13,179마디에 로마자와 기호가 약 25,500개 남아 있다(불확실 표시의 `?`, 숫자의 `.`, 변환기가 겹글자를 만들지
+못한 `+` 2,571개, ACIP 입력의 `&` `~` `H` `O` `E` 등).
 
 ### 사용법
 
