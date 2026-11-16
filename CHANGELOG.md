@@ -5,6 +5,7 @@
 The text is cut into new segments, the plain conversion takes the fixes of the older converter run, nearly all
 witness corrections left unapplied in 2026-11-14 now apply, and each segment gives the pages of the input it spans
 (see *Segments*, *From the 2026-11-14 release* and *The plain conversion* in the README). The ACIP text is unchanged.
+Archived on Zenodo: [10.5281/zenodo.24294566](https://doi.org/10.5281/zenodo.24294566).
 
 - `text/`: 848,576 segments that followed the page blocks of the ACIP input become 1,576,285 segments cut at
   headings, stanzas, mantra runs, speech turns and sentence ends; 2,996 boundaries had to be forced

@@ -301,7 +301,8 @@ domain reproductions. See `NOTICE.md`.
 Cite as: Yoon, Insang. *Dhammareader Tibetan Canon Edition*. Dhammareader, 2026.
 https://doi.org/10.5281/zenodo.24213725. `CITATION.cff` holds the same citation (GitHub: *Cite this repository*).
 That DOI always leads to the latest release; each release is archived on Zenodo with a DOI of its own (2026-11-14:
-[10.5281/zenodo.24213726](https://doi.org/10.5281/zenodo.24213726)). Cite the release DOI when you need the exact data
+[10.5281/zenodo.24213726](https://doi.org/10.5281/zenodo.24213726); 2026-11-17:
+[10.5281/zenodo.24294566](https://doi.org/10.5281/zenodo.24294566)). Cite the release DOI when you need the exact data
 you used.
 
 ## 한국어 요약
